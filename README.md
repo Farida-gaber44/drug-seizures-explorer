@@ -5,6 +5,8 @@ with an early-warning view for the **Middle East and North Africa (MENA)**.
 
 Built with **Python** (pandas, Plotly, Streamlit). Data: **UNODC Drugs Monitoring Platform**.
 
+**[Open the live app](https://farida-gaber44-drug-seizures-explorer-appapp-lkbyh1.streamlit.app/)** (no installation needed; the first load can take a minute if the app was asleep).
+
 ![Lab-made drugs rose once every country counts fairly](reports/charts/01_method_matters.png)
 
 ## What the project shows
