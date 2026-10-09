@@ -1,0 +1,23 @@
+# Individual seizure records: UNODC asks that these are not redistributed (download them from the source)
+data/raw/
+data/interim/
+data/processed/ids_clean.parquet
+
+# Third-party report PDFs and their extracted text (download with scripts/09_fetch_docs.py)
+data/docs/pdf/
+data/docs/pages.jsonl
+
+# Personal and local files
+CLAUDE.md
+request.txt
+.claude/
+reports/app_check/
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

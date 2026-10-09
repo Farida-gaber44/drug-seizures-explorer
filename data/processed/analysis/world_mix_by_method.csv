@@ -1,0 +1,801 @@
+year,project_group,share,measure,method,is_incomplete_year
+2011,Plant-based,0.8830834396284084,records,pooled,False
+2012,Plant-based,0.9158884576031702,records,pooled,False
+2013,Plant-based,0.9080929155989088,records,pooled,False
+2014,Plant-based,0.9728238883616828,records,pooled,False
+2015,Plant-based,0.9797005494967148,records,pooled,False
+2016,Plant-based,0.9680050085387719,records,pooled,False
+2017,Plant-based,0.9499451859327962,records,pooled,False
+2018,Plant-based,0.9412474573172125,records,pooled,False
+2019,Plant-based,0.8396809014618299,records,pooled,False
+2020,Plant-based,0.7701327387956484,records,pooled,False
+2021,Plant-based,0.7328184047193248,records,pooled,False
+2022,Plant-based,0.7877944201278739,records,pooled,False
+2023,Plant-based,0.6804918636330167,records,pooled,False
+2024,Plant-based,0.7717405426168298,records,pooled,False
+2025,Plant-based,0.7362691022895003,records,pooled,True
+2026,Plant-based,0.7554253017933152,records,pooled,True
+2011,Synthetic,0.04695434526244856,records,pooled,False
+2012,Synthetic,0.03668815877088984,records,pooled,False
+2013,Synthetic,0.03369430437298504,records,pooled,False
+2014,Synthetic,0.013962351179786538,records,pooled,False
+2015,Synthetic,0.006990539246164446,records,pooled,False
+2016,Synthetic,0.021571461818086463,records,pooled,False
+2017,Synthetic,0.03463727008544034,records,pooled,False
+2018,Synthetic,0.019312961396932782,records,pooled,False
+2019,Synthetic,0.045504534380075796,records,pooled,False
+2020,Synthetic,0.1497767043069576,records,pooled,False
+2021,Synthetic,0.14687603680296496,records,pooled,False
+2022,Synthetic,0.15548773686347472,records,pooled,False
+2023,Synthetic,0.22098814520285692,records,pooled,False
+2024,Synthetic,0.14489552677214726,records,pooled,False
+2025,Synthetic,0.1321983863628797,records,pooled,True
+2026,Synthetic,0.07473309608540925,records,pooled,True
+2011,Pharmaceutical,0.010733797020528988,records,pooled,False
+2012,Pharmaceutical,0.013106394036347101,records,pooled,False
+2013,Pharmaceutical,0.011540051252376622,records,pooled,False
+2014,Pharmaceutical,0.003542573261700511,records,pooled,False
+2015,Pharmaceutical,0.00808281100337764,records,pooled,False
+2016,Pharmaceutical,0.0036810137702037835,records,pooled,False
+2017,Pharmaceutical,0.0021490594602119476,records,pooled,False
+2018,Pharmaceutical,0.022439604141430303,records,pooled,False
+2019,Pharmaceutical,0.06952998105035192,records,pooled,False
+2020,Pharmaceutical,0.048134156327628796,records,pooled,False
+2021,Pharmaceutical,0.09623149938904489,records,pooled,False
+2022,Pharmaceutical,0.029639445492957116,records,pooled,False
+2023,Pharmaceutical,0.06878727634194831,records,pooled,False
+2024,Pharmaceutical,0.0468223079573634,records,pooled,False
+2025,Pharmaceutical,0.08303461440287659,records,pooled,True
+2026,Pharmaceutical,0.04591445118972856,records,pooled,True
+2011,New psychoactive substances,0.05922841808861399,records,pooled,False
+2012,New psychoactive substances,0.03431698958959284,records,pooled,False
+2013,New psychoactive substances,0.04667272877572952,records,pooled,False
+2014,New psychoactive substances,0.00967118719683021,records,pooled,False
+2015,New psychoactive substances,0.0052261002537431316,records,pooled,False
+2016,New psychoactive substances,0.006742515872937829,records,pooled,False
+2017,New psychoactive substances,0.013268484521551499,records,pooled,False
+2018,New psychoactive substances,0.01699997714442438,records,pooled,False
+2019,New psychoactive substances,0.045284583107742284,records,pooled,False
+2020,New psychoactive substances,0.03195640056976528,records,pooled,False
+2021,New psychoactive substances,0.024074059088665365,records,pooled,False
+2022,New psychoactive substances,0.027078397515694227,records,pooled,False
+2023,New psychoactive substances,0.02973271482217804,records,pooled,False
+2024,New psychoactive substances,0.036541622653659525,records,pooled,False
+2025,New psychoactive substances,0.04849789694474347,records,pooled,True
+2026,New psychoactive substances,0.12392715093154699,records,pooled,True
+2011,Lab-made (synthetic + NPS),0.10618276335106255,records,pooled,False
+2012,Lab-made (synthetic + NPS),0.07100514836048268,records,pooled,False
+2013,Lab-made (synthetic + NPS),0.08036703314871456,records,pooled,False
+2014,Lab-made (synthetic + NPS),0.023633538376616747,records,pooled,False
+2015,Lab-made (synthetic + NPS),0.012216639499907578,records,pooled,False
+2016,Lab-made (synthetic + NPS),0.02831397769102429,records,pooled,False
+2017,Lab-made (synthetic + NPS),0.04790575460699184,records,pooled,False
+2018,Lab-made (synthetic + NPS),0.03631293854135716,records,pooled,False
+2019,Lab-made (synthetic + NPS),0.09078911748781808,records,pooled,False
+2020,Lab-made (synthetic + NPS),0.1817331048767229,records,pooled,False
+2021,Lab-made (synthetic + NPS),0.17095009589163032,records,pooled,False
+2022,Lab-made (synthetic + NPS),0.18256613437916897,records,pooled,False
+2023,Lab-made (synthetic + NPS),0.25072086002503496,records,pooled,False
+2024,Lab-made (synthetic + NPS),0.1814371494258068,records,pooled,False
+2025,Lab-made (synthetic + NPS),0.18069628330762316,records,pooled,True
+2026,Lab-made (synthetic + NPS),0.19866024701695623,records,pooled,True
+2011,Plant-based,0.8416702341357395,records,pooled_no_col,False
+2012,Plant-based,0.8640466287525111,records,pooled_no_col,False
+2013,Plant-based,0.8164540138224349,records,pooled_no_col,False
+2014,Plant-based,0.8894461779964393,records,pooled_no_col,False
+2015,Plant-based,0.8946697899971232,records,pooled_no_col,False
+2016,Plant-based,0.899049528068108,records,pooled_no_col,False
+2017,Plant-based,0.8700878841283365,records,pooled_no_col,False
+2018,Plant-based,0.8852155751156199,records,pooled_no_col,False
+2019,Plant-based,0.6180969282122787,records,pooled_no_col,False
+2020,Plant-based,0.6573615723625122,records,pooled_no_col,False
+2021,Plant-based,0.6619632698651843,records,pooled_no_col,False
+2022,Plant-based,0.7156419473989796,records,pooled_no_col,False
+2023,Plant-based,0.6178191031235646,records,pooled_no_col,False
+2024,Plant-based,0.7152797552552224,records,pooled_no_col,False
+2025,Plant-based,0.7362691022895003,records,pooled_no_col,True
+2026,Plant-based,0.7554253017933152,records,pooled_no_col,True
+2011,Synthetic,0.06381927750518655,records,pooled_no_col,False
+2012,Synthetic,0.05333446509917098,records,pooled_no_col,False
+2013,Synthetic,0.06655369484316853,records,pooled_no_col,False
+2014,Synthetic,0.04383865842219117,records,pooled_no_col,False
+2015,Synthetic,0.04795956108987794,records,pooled_no_col,False
+2016,Synthetic,0.06601539698448186,records,pooled_no_col,False
+2017,Synthetic,0.08866609866831619,records,pooled_no_col,False
+2018,Synthetic,0.03742602814660102,records,pooled_no_col,False
+2019,Synthetic,0.10271686314277263,records,pooled_no_col,False
+2020,Synthetic,0.22316561188044365,records,pooled_no_col,False
+2021,Synthetic,0.18485076759227992,records,pooled_no_col,False
+2022,Synthetic,0.20821751967288046,records,pooled_no_col,False
+2023,Synthetic,0.2633390273311897,records,pooled_no_col,False
+2024,Synthetic,0.17839645441336457,records,pooled_no_col,False
+2025,Synthetic,0.1321983863628797,records,pooled_no_col,True
+2026,Synthetic,0.07473309608540925,records,pooled_no_col,True
+2011,Pharmaceutical,0.013468567853261764,records,pooled_no_col,False
+2012,Pharmaceutical,0.022833375774552245,records,pooled_no_col,False
+2013,Pharmaceutical,0.02319245082402977,records,pooled_no_col,False
+2014,Pharmaceutical,0.017746042077454678,records,pooled_no_col,False
+2015,Pharmaceutical,0.006246660913163194,records,pooled_no_col,False
+2016,Pharmaceutical,0.012368250052314504,records,pooled_no_col,False
+2017,Pharmaceutical,0.005765572297242096,records,pooled_no_col,False
+2018,Pharmaceutical,0.040369983589437566,records,pooled_no_col,False
+2019,Pharmaceutical,0.16609625216546245,records,pooled_no_col,False
+2020,Pharmaceutical,0.0709735363535727,records,pooled_no_col,False
+2021,Pharmaceutical,0.12227446294516456,records,pooled_no_col,False
+2022,Pharmaceutical,0.038653967312752474,records,pooled_no_col,False
+2023,Pharmaceutical,0.08261440629306385,records,pooled_no_col,False
+2024,Pharmaceutical,0.05909067677188064,records,pooled_no_col,False
+2025,Pharmaceutical,0.08303461440287659,records,pooled_no_col,True
+2026,Pharmaceutical,0.04591445118972856,records,pooled_no_col,True
+2011,New psychoactive substances,0.08104192050581223,records,pooled_no_col,False
+2012,New psychoactive substances,0.05978553037376567,records,pooled_no_col,False
+2013,New psychoactive substances,0.09379984051036683,records,pooled_no_col,False
+2014,New psychoactive substances,0.04896912150391485,records,pooled_no_col,False
+2015,New psychoactive substances,0.05112398799983561,records,pooled_no_col,False
+2016,New psychoactive substances,0.022566824895095653,records,pooled_no_col,False
+2017,New psychoactive substances,0.035480444906105205,records,pooled_no_col,False
+2018,New psychoactive substances,0.03698841314834154,records,pooled_no_col,False
+2019,New psychoactive substances,0.1130899564794862,records,pooled_no_col,False
+2020,New psychoactive substances,0.048499279403471394,records,pooled_no_col,False
+2021,New psychoactive substances,0.030911499597371224,records,pooled_no_col,False
+2022,New psychoactive substances,0.03748656561538747,records,pooled_no_col,False
+2023,New psychoactive substances,0.0362274632521819,records,pooled_no_col,False
+2024,New psychoactive substances,0.047233113559532414,records,pooled_no_col,False
+2025,New psychoactive substances,0.04849789694474347,records,pooled_no_col,True
+2026,New psychoactive substances,0.12392715093154699,records,pooled_no_col,True
+2011,Lab-made (synthetic + NPS),0.14486119801099878,records,pooled_no_col,False
+2012,Lab-made (synthetic + NPS),0.11311999547293665,records,pooled_no_col,False
+2013,Lab-made (synthetic + NPS),0.16035353535353536,records,pooled_no_col,False
+2014,Lab-made (synthetic + NPS),0.09280777992610602,records,pooled_no_col,False
+2015,Lab-made (synthetic + NPS),0.09908354908971356,records,pooled_no_col,False
+2016,Lab-made (synthetic + NPS),0.08858222187957751,records,pooled_no_col,False
+2017,Lab-made (synthetic + NPS),0.1241465435744214,records,pooled_no_col,False
+2018,Lab-made (synthetic + NPS),0.07441444129494257,records,pooled_no_col,False
+2019,Lab-made (synthetic + NPS),0.21580681962225884,records,pooled_no_col,False
+2020,Lab-made (synthetic + NPS),0.271664891283915,records,pooled_no_col,False
+2021,Lab-made (synthetic + NPS),0.21576226718965114,records,pooled_no_col,False
+2022,Lab-made (synthetic + NPS),0.24570408528826793,records,pooled_no_col,False
+2023,Lab-made (synthetic + NPS),0.2995664905833716,records,pooled_no_col,False
+2024,Lab-made (synthetic + NPS),0.225629567972897,records,pooled_no_col,False
+2025,Lab-made (synthetic + NPS),0.18069628330762316,records,pooled_no_col,True
+2026,Lab-made (synthetic + NPS),0.19866024701695623,records,pooled_no_col,True
+2011,Plant-based,0.830031454300229,records,country_avg,False
+2012,Plant-based,0.832185248444083,records,country_avg,False
+2013,Plant-based,0.8058501857743084,records,country_avg,False
+2014,Plant-based,0.8246280461635894,records,country_avg,False
+2015,Plant-based,0.7900163858569528,records,country_avg,False
+2016,Plant-based,0.7440692090829053,records,country_avg,False
+2017,Plant-based,0.7177845645913837,records,country_avg,False
+2018,Plant-based,0.7260294268739659,records,country_avg,False
+2019,Plant-based,0.7387133819822809,records,country_avg,False
+2020,Plant-based,0.7073563634922894,records,country_avg,False
+2021,Plant-based,0.6965940415132077,records,country_avg,False
+2022,Plant-based,0.6954968856701923,records,country_avg,False
+2023,Plant-based,0.712895671326329,records,country_avg,False
+2024,Plant-based,0.6991267283924099,records,country_avg,False
+2025,Plant-based,0.6903119320112171,records,country_avg,True
+2026,Plant-based,0.6799346247746317,records,country_avg,True
+2011,Synthetic,0.11365552513030412,records,country_avg,False
+2012,Synthetic,0.09328445017504973,records,country_avg,False
+2013,Synthetic,0.11085701851383563,records,country_avg,False
+2014,Synthetic,0.081077456298869,records,country_avg,False
+2015,Synthetic,0.10144293817201626,records,country_avg,False
+2016,Synthetic,0.14946942748407516,records,country_avg,False
+2017,Synthetic,0.17479216162726108,records,country_avg,False
+2018,Synthetic,0.16129857578244874,records,country_avg,False
+2019,Synthetic,0.14605846540459091,records,country_avg,False
+2020,Synthetic,0.17571794500147872,records,country_avg,False
+2021,Synthetic,0.18229128609842948,records,country_avg,False
+2022,Synthetic,0.18127152723877932,records,country_avg,False
+2023,Synthetic,0.17876383383996397,records,country_avg,False
+2024,Synthetic,0.17153545847725385,records,country_avg,False
+2025,Synthetic,0.170403401912618,records,country_avg,True
+2026,Synthetic,0.13747040013526668,records,country_avg,True
+2011,Pharmaceutical,0.04173498327970944,records,country_avg,False
+2012,Pharmaceutical,0.022413555486585104,records,country_avg,False
+2013,Pharmaceutical,0.015931282211365656,records,country_avg,False
+2014,Pharmaceutical,0.03559307834208037,records,country_avg,False
+2015,Pharmaceutical,0.019934758982679796,records,country_avg,False
+2016,Pharmaceutical,0.03545378551249704,records,country_avg,False
+2017,Pharmaceutical,0.029750837643732778,records,country_avg,False
+2018,Pharmaceutical,0.0487490788327647,records,country_avg,False
+2019,Pharmaceutical,0.047589773526539786,records,country_avg,False
+2020,Pharmaceutical,0.050930571228207176,records,country_avg,False
+2021,Pharmaceutical,0.055563672582478296,records,country_avg,False
+2022,Pharmaceutical,0.05858814419899662,records,country_avg,False
+2023,Pharmaceutical,0.0524375736803717,records,country_avg,False
+2024,Pharmaceutical,0.06416314467369011,records,country_avg,False
+2025,Pharmaceutical,0.07162308835376396,records,country_avg,True
+2026,Pharmaceutical,0.051903911868315486,records,country_avg,True
+2011,New psychoactive substances,0.014578037289757522,records,country_avg,False
+2012,New psychoactive substances,0.05211674589428204,records,country_avg,False
+2013,New psychoactive substances,0.06736151350049037,records,country_avg,False
+2014,New psychoactive substances,0.0587014191954613,records,country_avg,False
+2015,New psychoactive substances,0.08860591698835116,records,country_avg,False
+2016,New psychoactive substances,0.07100757792052247,records,country_avg,False
+2017,New psychoactive substances,0.07767243613762248,records,country_avg,False
+2018,New psychoactive substances,0.06392291851082067,records,country_avg,False
+2019,New psychoactive substances,0.06763837908658843,records,country_avg,False
+2020,New psychoactive substances,0.06599512027802476,records,country_avg,False
+2021,New psychoactive substances,0.06555099980588454,records,country_avg,False
+2022,New psychoactive substances,0.06464344289203179,records,country_avg,False
+2023,New psychoactive substances,0.055902921153335346,records,country_avg,False
+2024,New psychoactive substances,0.06517466845664617,records,country_avg,False
+2025,New psychoactive substances,0.06766157772240101,records,country_avg,True
+2026,New psychoactive substances,0.13069106322178609,records,country_avg,True
+2011,Lab-made (synthetic + NPS),0.12823356242006165,records,country_avg,False
+2012,Lab-made (synthetic + NPS),0.14540119606933177,records,country_avg,False
+2013,Lab-made (synthetic + NPS),0.17821853201432603,records,country_avg,False
+2014,Lab-made (synthetic + NPS),0.1397788754943303,records,country_avg,False
+2015,Lab-made (synthetic + NPS),0.19004885516036743,records,country_avg,False
+2016,Lab-made (synthetic + NPS),0.22047700540459764,records,country_avg,False
+2017,Lab-made (synthetic + NPS),0.25246459776488356,records,country_avg,False
+2018,Lab-made (synthetic + NPS),0.2252214942932694,records,country_avg,False
+2019,Lab-made (synthetic + NPS),0.21369684449117937,records,country_avg,False
+2020,Lab-made (synthetic + NPS),0.2417130652795035,records,country_avg,False
+2021,Lab-made (synthetic + NPS),0.24784228590431404,records,country_avg,False
+2022,Lab-made (synthetic + NPS),0.2459149701308111,records,country_avg,False
+2023,Lab-made (synthetic + NPS),0.2346667549932993,records,country_avg,False
+2024,Lab-made (synthetic + NPS),0.2367101269339,records,country_avg,False
+2025,Lab-made (synthetic + NPS),0.238064979635019,records,country_avg,True
+2026,Lab-made (synthetic + NPS),0.26816146335705277,records,country_avg,True
+2011,Plant-based,0.8559748880359905,records,consistent_panel,False
+2012,Plant-based,0.8841222085172785,records,consistent_panel,False
+2013,Plant-based,0.8982993986895549,records,consistent_panel,False
+2014,Plant-based,0.8588992638779303,records,consistent_panel,False
+2015,Plant-based,0.8270614383519944,records,consistent_panel,False
+2016,Plant-based,0.7549707681453942,records,consistent_panel,False
+2017,Plant-based,0.763751336551584,records,consistent_panel,False
+2018,Plant-based,0.787504402594005,records,consistent_panel,False
+2019,Plant-based,0.7448711172027899,records,consistent_panel,False
+2020,Plant-based,0.766852313282013,records,consistent_panel,False
+2021,Plant-based,0.7530984927670673,records,consistent_panel,False
+2022,Plant-based,0.738507490016871,records,consistent_panel,False
+2023,Plant-based,0.7500219632935168,records,consistent_panel,False
+2024,Plant-based,0.7285013093138065,records,consistent_panel,False
+2025,Plant-based,0.6680956028916109,records,consistent_panel,True
+2026,Plant-based,0.6940327785015414,records,consistent_panel,True
+2011,Synthetic,0.10897311731305652,records,consistent_panel,False
+2012,Synthetic,0.07409996386842861,records,consistent_panel,False
+2013,Synthetic,0.06599395895812155,records,consistent_panel,False
+2014,Synthetic,0.07737222556577156,records,consistent_panel,False
+2015,Synthetic,0.10156488656525006,records,consistent_panel,False
+2016,Synthetic,0.18285430435448202,records,consistent_panel,False
+2017,Synthetic,0.1687221401127479,records,consistent_panel,False
+2018,Synthetic,0.13050390529072187,records,consistent_panel,False
+2019,Synthetic,0.162848611893396,records,consistent_panel,False
+2020,Synthetic,0.13853151195903476,records,consistent_panel,False
+2021,Synthetic,0.13858775398095094,records,consistent_panel,False
+2022,Synthetic,0.1298767201635155,records,consistent_panel,False
+2023,Synthetic,0.13965948717908838,records,consistent_panel,False
+2024,Synthetic,0.14364178783562015,records,consistent_panel,False
+2025,Synthetic,0.18027804492241759,records,consistent_panel,True
+2026,Synthetic,0.12715709626515112,records,consistent_panel,True
+2011,Pharmaceutical,0.015231750298942462,records,consistent_panel,False
+2012,Pharmaceutical,0.018722530042356234,records,consistent_panel,False
+2013,Pharmaceutical,0.008069141259211689,records,consistent_panel,False
+2014,Pharmaceutical,0.010169966075303098,records,consistent_panel,False
+2015,Pharmaceutical,0.016708481680830393,records,consistent_panel,False
+2016,Pharmaceutical,0.01923163754665881,records,consistent_panel,False
+2017,Pharmaceutical,0.031545984486097356,records,consistent_panel,False
+2018,Pharmaceutical,0.029383877673118522,records,consistent_panel,False
+2019,Pharmaceutical,0.048255831476739744,records,consistent_panel,False
+2020,Pharmaceutical,0.0290930504701281,records,consistent_panel,False
+2021,Pharmaceutical,0.03436631846248355,records,consistent_panel,False
+2022,Pharmaceutical,0.04990744770020138,records,consistent_panel,False
+2023,Pharmaceutical,0.022129499363175188,records,consistent_panel,False
+2024,Pharmaceutical,0.03408709273639477,records,consistent_panel,False
+2025,Pharmaceutical,0.04198122625830477,records,consistent_panel,True
+2026,Pharmaceutical,0.015662099640558477,records,consistent_panel,True
+2011,New psychoactive substances,0.019820244352010567,records,consistent_panel,False
+2012,New psychoactive substances,0.023055297571936643,records,consistent_panel,False
+2013,New psychoactive substances,0.02763750109311202,records,consistent_panel,False
+2014,New psychoactive substances,0.053558544480995125,records,consistent_panel,False
+2015,New psychoactive substances,0.05466519340192513,records,consistent_panel,False
+2016,New psychoactive substances,0.04294328995346495,records,consistent_panel,False
+2017,New psychoactive substances,0.035980538849570705,records,consistent_panel,False
+2018,New psychoactive substances,0.05260781444215468,records,consistent_panel,False
+2019,New psychoactive substances,0.04402443942707429,records,consistent_panel,False
+2020,New psychoactive substances,0.06552312428882413,records,consistent_panel,False
+2021,New psychoactive substances,0.07394743478949829,records,consistent_panel,False
+2022,New psychoactive substances,0.08170834211941215,records,consistent_panel,False
+2023,New psychoactive substances,0.08818905016421964,records,consistent_panel,False
+2024,New psychoactive substances,0.09376981011417863,records,consistent_panel,False
+2025,New psychoactive substances,0.10964512592766676,records,consistent_panel,True
+2026,New psychoactive substances,0.163148025592749,records,consistent_panel,True
+2011,Lab-made (synthetic + NPS),0.12879336166506708,records,consistent_panel,False
+2012,Lab-made (synthetic + NPS),0.09715526144036525,records,consistent_panel,False
+2013,Lab-made (synthetic + NPS),0.09363146005123357,records,consistent_panel,False
+2014,Lab-made (synthetic + NPS),0.13093077004676668,records,consistent_panel,False
+2015,Lab-made (synthetic + NPS),0.1562300799671752,records,consistent_panel,False
+2016,Lab-made (synthetic + NPS),0.22579759430794696,records,consistent_panel,False
+2017,Lab-made (synthetic + NPS),0.20470267896231858,records,consistent_panel,False
+2018,Lab-made (synthetic + NPS),0.18311171973287652,records,consistent_panel,False
+2019,Lab-made (synthetic + NPS),0.20687305132047032,records,consistent_panel,False
+2020,Lab-made (synthetic + NPS),0.20405463624785888,records,consistent_panel,False
+2021,Lab-made (synthetic + NPS),0.21253518877044922,records,consistent_panel,False
+2022,Lab-made (synthetic + NPS),0.21158506228292764,records,consistent_panel,False
+2023,Lab-made (synthetic + NPS),0.22784853734330804,records,consistent_panel,False
+2024,Lab-made (synthetic + NPS),0.2374115979497988,records,consistent_panel,False
+2025,Lab-made (synthetic + NPS),0.28992317085008434,records,consistent_panel,True
+2026,Lab-made (synthetic + NPS),0.2903051218579001,records,consistent_panel,True
+2011,Plant-based,0.8716049472098099,records,significant_only,False
+2012,Plant-based,0.8325485742898112,records,significant_only,False
+2013,Plant-based,0.8232981876620301,records,significant_only,False
+2014,Plant-based,0.8596264291972263,records,significant_only,False
+2015,Plant-based,0.8253030269102979,records,significant_only,False
+2016,Plant-based,0.7691837255392224,records,significant_only,False
+2017,Plant-based,0.769553533113677,records,significant_only,False
+2018,Plant-based,0.8064880914325325,records,significant_only,False
+2019,Plant-based,0.7916863557685943,records,significant_only,False
+2020,Plant-based,0.760426698620928,records,significant_only,False
+2021,Plant-based,0.7364930229924096,records,significant_only,False
+2022,Plant-based,0.7313164141101778,records,significant_only,False
+2023,Plant-based,0.730109345498569,records,significant_only,False
+2024,Plant-based,0.7236744303289876,records,significant_only,False
+2025,Plant-based,0.7473116470241469,records,significant_only,True
+2026,Plant-based,0.7025047040108783,records,significant_only,True
+2011,Synthetic,0.1039450019678856,records,significant_only,False
+2012,Synthetic,0.08754763654585511,records,significant_only,False
+2013,Synthetic,0.08433502239729575,records,significant_only,False
+2014,Synthetic,0.06903031878497669,records,significant_only,False
+2015,Synthetic,0.06149661844583599,records,significant_only,False
+2016,Synthetic,0.10393610224058047,records,significant_only,False
+2017,Synthetic,0.10592959935582873,records,significant_only,False
+2018,Synthetic,0.11021590106929086,records,significant_only,False
+2019,Synthetic,0.10206487466633404,records,significant_only,False
+2020,Synthetic,0.12894954691541763,records,significant_only,False
+2021,Synthetic,0.14669953209687095,records,significant_only,False
+2022,Synthetic,0.14033787991582788,records,significant_only,False
+2023,Synthetic,0.14424532521813566,records,significant_only,False
+2024,Synthetic,0.1162848542969113,records,significant_only,False
+2025,Synthetic,0.12347421588873854,records,significant_only,True
+2026,Synthetic,0.09796868199089896,records,significant_only,True
+2011,Pharmaceutical,0.009564683156780596,records,significant_only,False
+2012,Pharmaceutical,0.0038322883106466006,records,significant_only,False
+2013,Pharmaceutical,0.0014813990503057092,records,significant_only,False
+2014,Pharmaceutical,0.002962180699248137,records,significant_only,False
+2015,Pharmaceutical,0.0030096651437121202,records,significant_only,False
+2016,Pharmaceutical,0.004513784568082826,records,significant_only,False
+2017,Pharmaceutical,0.007555180502291809,records,significant_only,False
+2018,Pharmaceutical,0.004090353815051763,records,significant_only,False
+2019,Pharmaceutical,0.013944375401178793,records,significant_only,False
+2020,Pharmaceutical,0.010852650402569962,records,significant_only,False
+2021,Pharmaceutical,0.008546997772478927,records,significant_only,False
+2022,Pharmaceutical,0.011754022898842888,records,significant_only,False
+2023,Pharmaceutical,0.01047233649719648,records,significant_only,False
+2024,Pharmaceutical,0.017782937446670685,records,significant_only,False
+2025,Pharmaceutical,0.020507352329976046,records,significant_only,True
+2026,Pharmaceutical,0.00410630827917246,records,significant_only,True
+2011,New psychoactive substances,0.014885367665524025,records,significant_only,False
+2012,New psychoactive substances,0.07607150085368707,records,significant_only,False
+2013,New psychoactive substances,0.09088539089036843,records,significant_only,False
+2014,New psychoactive substances,0.06838107131854888,records,significant_only,False
+2015,New psychoactive substances,0.11019068950015394,records,significant_only,False
+2016,New psychoactive substances,0.12236638765211423,records,significant_only,False
+2017,New psychoactive substances,0.1169616870282024,records,significant_only,False
+2018,New psychoactive substances,0.07920565368312485,records,significant_only,False
+2019,New psychoactive substances,0.09230439416389286,records,significant_only,False
+2020,New psychoactive substances,0.0997711040610843,records,significant_only,False
+2021,New psychoactive substances,0.10826044713824061,records,significant_only,False
+2022,New psychoactive substances,0.11659168307515146,records,significant_only,False
+2023,New psychoactive substances,0.11517299278609885,records,significant_only,False
+2024,New psychoactive substances,0.14225777792743047,records,significant_only,False
+2025,New psychoactive substances,0.10870678475713849,records,significant_only,True
+2026,New psychoactive substances,0.19542030571905028,records,significant_only,True
+2011,Lab-made (synthetic + NPS),0.11883036963340964,records,significant_only,False
+2012,Lab-made (synthetic + NPS),0.16361913739954217,records,significant_only,False
+2013,Lab-made (synthetic + NPS),0.1752204132876642,records,significant_only,False
+2014,Lab-made (synthetic + NPS),0.13741139010352557,records,significant_only,False
+2015,Lab-made (synthetic + NPS),0.17168730794598994,records,significant_only,False
+2016,Lab-made (synthetic + NPS),0.22630248989269472,records,significant_only,False
+2017,Lab-made (synthetic + NPS),0.22289128638403113,records,significant_only,False
+2018,Lab-made (synthetic + NPS),0.1894215547524157,records,significant_only,False
+2019,Lab-made (synthetic + NPS),0.1943692688302269,records,significant_only,False
+2020,Lab-made (synthetic + NPS),0.22872065097650193,records,significant_only,False
+2021,Lab-made (synthetic + NPS),0.25495997923511154,records,significant_only,False
+2022,Lab-made (synthetic + NPS),0.25692956299097935,records,significant_only,False
+2023,Lab-made (synthetic + NPS),0.25941831800423454,records,significant_only,False
+2024,Lab-made (synthetic + NPS),0.25854263222434176,records,significant_only,False
+2025,Lab-made (synthetic + NPS),0.23218100064587702,records,significant_only,True
+2026,Lab-made (synthetic + NPS),0.29338898770994926,records,significant_only,True
+2011,Plant-based,0.995989037014541,weight,pooled,False
+2012,Plant-based,0.9865633002577825,weight,pooled,False
+2013,Plant-based,0.9922004707263178,weight,pooled,False
+2014,Plant-based,0.9853746809005969,weight,pooled,False
+2015,Plant-based,0.9991609081430384,weight,pooled,False
+2016,Plant-based,0.9772730065869706,weight,pooled,False
+2017,Plant-based,0.9902233330943023,weight,pooled,False
+2018,Plant-based,0.991430081941519,weight,pooled,False
+2019,Plant-based,0.9760655838460052,weight,pooled,False
+2020,Plant-based,0.9832648069275725,weight,pooled,False
+2021,Plant-based,0.9818525067729175,weight,pooled,False
+2022,Plant-based,0.9800657050506143,weight,pooled,False
+2023,Plant-based,0.9722670578540134,weight,pooled,False
+2024,Plant-based,0.845133902630104,weight,pooled,False
+2025,Plant-based,0.7473566273230177,weight,pooled,True
+2026,Plant-based,0.9507783789806015,weight,pooled,True
+2011,Synthetic,0.0036678213851459285,weight,pooled,False
+2012,Synthetic,0.012262656355814703,weight,pooled,False
+2013,Synthetic,0.006587144707228283,weight,pooled,False
+2014,Synthetic,0.010802316914103102,weight,pooled,False
+2015,Synthetic,0.0003991346503087866,weight,pooled,False
+2016,Synthetic,0.011907716104436854,weight,pooled,False
+2017,Synthetic,0.008096392306503435,weight,pooled,False
+2018,Synthetic,0.005636436284516902,weight,pooled,False
+2019,Synthetic,0.004966088119620537,weight,pooled,False
+2020,Synthetic,0.011918506035970498,weight,pooled,False
+2021,Synthetic,0.005003300734758043,weight,pooled,False
+2022,Synthetic,0.009585970937218906,weight,pooled,False
+2023,Synthetic,0.017293748838615362,weight,pooled,False
+2024,Synthetic,0.021717678730453813,weight,pooled,False
+2025,Synthetic,0.02826203473809349,weight,pooled,True
+2026,Synthetic,0.02581243865650433,weight,pooled,True
+2011,Pharmaceutical,0.00012548749535202285,weight,pooled,False
+2012,Pharmaceutical,0.0002441932037258247,weight,pooled,False
+2013,Pharmaceutical,9.070024370024661e-05,weight,pooled,False
+2014,Pharmaceutical,0.0029520960975634135,weight,pooled,False
+2015,Pharmaceutical,0.00014192362620462092,weight,pooled,False
+2016,Pharmaceutical,0.010295903327691753,weight,pooled,False
+2017,Pharmaceutical,0.0002174457439540445,weight,pooled,False
+2018,Pharmaceutical,0.0012673078472055276,weight,pooled,False
+2019,Pharmaceutical,0.017171756340573566,weight,pooled,False
+2020,Pharmaceutical,0.0008018681187154702,weight,pooled,False
+2021,Pharmaceutical,0.009829247779758878,weight,pooled,False
+2022,Pharmaceutical,0.002342034228621786,weight,pooled,False
+2023,Pharmaceutical,0.0065330301974408835,weight,pooled,False
+2024,Pharmaceutical,0.12331411363229082,weight,pooled,False
+2025,Pharmaceutical,0.2160353530365639,weight,pooled,True
+2026,Pharmaceutical,0.0005715068315868028,weight,pooled,True
+2011,New psychoactive substances,0.00021765410496103738,weight,pooled,False
+2012,New psychoactive substances,0.0009298501826769434,weight,pooled,False
+2013,New psychoactive substances,0.0011216843227537458,weight,pooled,False
+2014,New psychoactive substances,0.0008709060877365467,weight,pooled,False
+2015,New psychoactive substances,0.00029803358044811255,weight,pooled,False
+2016,New psychoactive substances,0.0005233739809007577,weight,pooled,False
+2017,New psychoactive substances,0.0014628288552403662,weight,pooled,False
+2018,New psychoactive substances,0.0016661739267584688,weight,pooled,False
+2019,New psychoactive substances,0.00179657169380065,weight,pooled,False
+2020,New psychoactive substances,0.004014818917741553,weight,pooled,False
+2021,New psychoactive substances,0.0033149447125656226,weight,pooled,False
+2022,New psychoactive substances,0.00800628978354499,weight,pooled,False
+2023,New psychoactive substances,0.003906163109930384,weight,pooled,False
+2024,New psychoactive substances,0.009834305007151307,weight,pooled,False
+2025,New psychoactive substances,0.008345984902325005,weight,pooled,True
+2026,New psychoactive substances,0.022837675531307427,weight,pooled,True
+2011,Lab-made (synthetic + NPS),0.003885475490106966,weight,pooled,False
+2012,Lab-made (synthetic + NPS),0.013192506538491647,weight,pooled,False
+2013,Lab-made (synthetic + NPS),0.007708829029982029,weight,pooled,False
+2014,Lab-made (synthetic + NPS),0.011673223001839648,weight,pooled,False
+2015,Lab-made (synthetic + NPS),0.0006971682307568991,weight,pooled,False
+2016,Lab-made (synthetic + NPS),0.01243109008533761,weight,pooled,False
+2017,Lab-made (synthetic + NPS),0.0095592211617438,weight,pooled,False
+2018,Lab-made (synthetic + NPS),0.007302610211275371,weight,pooled,False
+2019,Lab-made (synthetic + NPS),0.006762659813421187,weight,pooled,False
+2020,Lab-made (synthetic + NPS),0.015933324953712052,weight,pooled,False
+2021,Lab-made (synthetic + NPS),0.008318245447323666,weight,pooled,False
+2022,Lab-made (synthetic + NPS),0.0175922607207639,weight,pooled,False
+2023,Lab-made (synthetic + NPS),0.021199911948545747,weight,pooled,False
+2024,Lab-made (synthetic + NPS),0.03155198373760512,weight,pooled,False
+2025,Lab-made (synthetic + NPS),0.036608019640418495,weight,pooled,True
+2026,Lab-made (synthetic + NPS),0.04865011418781176,weight,pooled,True
+2011,Plant-based,0.9902200888230948,weight,pooled_no_col,False
+2012,Plant-based,0.9809080486142332,weight,pooled_no_col,False
+2013,Plant-based,0.9889443183371095,weight,pooled_no_col,False
+2014,Plant-based,0.9817648658590808,weight,pooled_no_col,False
+2015,Plant-based,0.9981656684137323,weight,pooled_no_col,False
+2016,Plant-based,0.9422492100526895,weight,pooled_no_col,False
+2017,Plant-based,0.9796235220212021,weight,pooled_no_col,False
+2018,Plant-based,0.9836657940961708,weight,pooled_no_col,False
+2019,Plant-based,0.9627587506039825,weight,pooled_no_col,False
+2020,Plant-based,0.974356018724563,weight,pooled_no_col,False
+2021,Plant-based,0.9694258289907275,weight,pooled_no_col,False
+2022,Plant-based,0.9619107897286541,weight,pooled_no_col,False
+2023,Plant-based,0.9637765583836143,weight,pooled_no_col,False
+2024,Plant-based,0.7915602902468275,weight,pooled_no_col,False
+2025,Plant-based,0.7473566273230177,weight,pooled_no_col,True
+2026,Plant-based,0.9507783789806015,weight,pooled_no_col,True
+2011,Synthetic,0.008943230712804957,weight,pooled_no_col,False
+2012,Synthetic,0.017423683734105938,weight,pooled_no_col,False
+2013,Synthetic,0.00933715002471263,weight,pooled_no_col,False
+2014,Synthetic,0.014880217966588246,weight,pooled_no_col,False
+2015,Synthetic,0.0008725396974735968,weight,pooled_no_col,False
+2016,Synthetic,0.03025829237514946,weight,pooled_no_col,False
+2017,Synthetic,0.016874458456289244,weight,pooled_no_col,False
+2018,Synthetic,0.010743009467167882,weight,pooled_no_col,False
+2019,Synthetic,0.00772708742905852,weight,pooled_no_col,False
+2020,Synthetic,0.018263186106957447,weight,pooled_no_col,False
+2021,Synthetic,0.008429361034119181,weight,pooled_no_col,False
+2022,Synthetic,0.01831627672861309,weight,pooled_no_col,False
+2023,Synthetic,0.022588266981787817,weight,pooled_no_col,False
+2024,Synthetic,0.029230585182734768,weight,pooled_no_col,False
+2025,Synthetic,0.02826203473809349,weight,pooled_no_col,True
+2026,Synthetic,0.02581243865650433,weight,pooled_no_col,True
+2011,Pharmaceutical,0.00030597553824462736,weight,pooled_no_col,False
+2012,Pharmaceutical,0.0003469885587272944,weight,pooled_no_col,False
+2013,Pharmaceutical,0.00012856583851541758,weight,pooled_no_col,False
+2014,Pharmaceutical,0.0021552409086450512,weight,pooled_no_col,False
+2015,Pharmaceutical,0.00031025970355243377,weight,pooled_no_col,False
+2016,Pharmaceutical,0.02616256975084347,weight,pooled_no_col,False
+2017,Pharmaceutical,0.0004531992811047558,weight,pooled_no_col,False
+2018,Pharmaceutical,0.0024154801922882103,weight,pooled_no_col,False
+2019,Pharmaceutical,0.026718749115599804,weight,pooled_no_col,False
+2020,Pharmaceutical,0.0012287334202070567,weight,pooled_no_col,False
+2021,Pharmaceutical,0.016559923662755553,weight,pooled_no_col,False
+2022,Pharmaceutical,0.004475013258465601,weight,pooled_no_col,False
+2023,Pharmaceutical,0.008533131345724572,weight,pooled_no_col,False
+2024,Pharmaceutical,0.1659727886897787,weight,pooled_no_col,False
+2025,Pharmaceutical,0.2160353530365639,weight,pooled_no_col,True
+2026,Pharmaceutical,0.0005715068315868028,weight,pooled_no_col,True
+2011,New psychoactive substances,0.0005307049258556461,weight,pooled_no_col,False
+2012,New psychoactive substances,0.001321279092933504,weight,pooled_no_col,False
+2013,New psychoactive substances,0.0015899657996623611,weight,pooled_no_col,False
+2014,New psychoactive substances,0.0011996752656857621,weight,pooled_no_col,False
+2015,New psychoactive substances,0.0006515321852415517,weight,pooled_no_col,False
+2016,New psychoactive substances,0.0013299278213175,weight,pooled_no_col,False
+2017,New psychoactive substances,0.0030488202414039284,weight,pooled_no_col,False
+2018,New psychoactive substances,0.0031757162443731405,weight,pooled_no_col,False
+2019,New psychoactive substances,0.002795412851359176,weight,pooled_no_col,False
+2020,New psychoactive substances,0.006152061748272371,weight,pooled_no_col,False
+2021,New psychoactive substances,0.005584886312397803,weight,pooled_no_col,False
+2022,New psychoactive substances,0.015297920284267292,weight,pooled_no_col,False
+2023,New psychoactive substances,0.00510204328887331,weight,pooled_no_col,False
+2024,New psychoactive substances,0.013236335880659034,weight,pooled_no_col,False
+2025,New psychoactive substances,0.008345984902325005,weight,pooled_no_col,True
+2026,New psychoactive substances,0.022837675531307427,weight,pooled_no_col,True
+2011,Lab-made (synthetic + NPS),0.009473935638660603,weight,pooled_no_col,False
+2012,Lab-made (synthetic + NPS),0.01874496282703944,weight,pooled_no_col,False
+2013,Lab-made (synthetic + NPS),0.010927115824374991,weight,pooled_no_col,False
+2014,Lab-made (synthetic + NPS),0.016079893232274007,weight,pooled_no_col,False
+2015,Lab-made (synthetic + NPS),0.0015240718827151485,weight,pooled_no_col,False
+2016,Lab-made (synthetic + NPS),0.03158822019646696,weight,pooled_no_col,False
+2017,Lab-made (synthetic + NPS),0.019923278697693173,weight,pooled_no_col,False
+2018,Lab-made (synthetic + NPS),0.013918725711541022,weight,pooled_no_col,False
+2019,Lab-made (synthetic + NPS),0.010522500280417697,weight,pooled_no_col,False
+2020,Lab-made (synthetic + NPS),0.02441524785522982,weight,pooled_no_col,False
+2021,Lab-made (synthetic + NPS),0.014014247346516984,weight,pooled_no_col,False
+2022,Lab-made (synthetic + NPS),0.03361419701288038,weight,pooled_no_col,False
+2023,Lab-made (synthetic + NPS),0.027690310270661128,weight,pooled_no_col,False
+2024,Lab-made (synthetic + NPS),0.0424669210633938,weight,pooled_no_col,False
+2025,Lab-made (synthetic + NPS),0.036608019640418495,weight,pooled_no_col,True
+2026,Lab-made (synthetic + NPS),0.04865011418781176,weight,pooled_no_col,True
+2011,Plant-based,0.9401989012433016,weight,country_avg,False
+2012,Plant-based,0.9166872960928009,weight,country_avg,False
+2013,Plant-based,0.884894004316616,weight,country_avg,False
+2014,Plant-based,0.912681837128091,weight,country_avg,False
+2015,Plant-based,0.9226224445215379,weight,country_avg,False
+2016,Plant-based,0.8874255427467272,weight,country_avg,False
+2017,Plant-based,0.9241587885269612,weight,country_avg,False
+2018,Plant-based,0.8942637759925638,weight,country_avg,False
+2019,Plant-based,0.89808150454668,weight,country_avg,False
+2020,Plant-based,0.8946687458566128,weight,country_avg,False
+2021,Plant-based,0.8789965776196486,weight,country_avg,False
+2022,Plant-based,0.8542394701195208,weight,country_avg,False
+2023,Plant-based,0.8719542103692208,weight,country_avg,False
+2024,Plant-based,0.8605443942580387,weight,country_avg,False
+2025,Plant-based,0.8648293471070264,weight,country_avg,True
+2026,Plant-based,0.8662480162211955,weight,country_avg,True
+2011,Synthetic,0.052401247134831276,weight,country_avg,False
+2012,Synthetic,0.05336639597602195,weight,country_avg,False
+2013,Synthetic,0.07632450454142635,weight,country_avg,False
+2014,Synthetic,0.05004403933368848,weight,country_avg,False
+2015,Synthetic,0.022995991159313632,weight,country_avg,False
+2016,Synthetic,0.07400832010853575,weight,country_avg,False
+2017,Synthetic,0.05491323085371453,weight,country_avg,False
+2018,Synthetic,0.06227244784915717,weight,country_avg,False
+2019,Synthetic,0.047704945432746726,weight,country_avg,False
+2020,Synthetic,0.05989838663206139,weight,country_avg,False
+2021,Synthetic,0.08259959788060801,weight,country_avg,False
+2022,Synthetic,0.0928777401613753,weight,country_avg,False
+2023,Synthetic,0.07678654065991251,weight,country_avg,False
+2024,Synthetic,0.08507302919454383,weight,country_avg,False
+2025,Synthetic,0.06575299556389491,weight,country_avg,True
+2026,Synthetic,0.08606881166959346,weight,country_avg,True
+2011,Pharmaceutical,0.004432044512752001,weight,country_avg,False
+2012,Pharmaceutical,0.0018458615652754225,weight,country_avg,False
+2013,Pharmaceutical,0.00047541849698467094,weight,country_avg,False
+2014,Pharmaceutical,0.002689451050817618,weight,country_avg,False
+2015,Pharmaceutical,0.00044561156931928675,weight,country_avg,False
+2016,Pharmaceutical,0.007469204505410207,weight,country_avg,False
+2017,Pharmaceutical,0.00300988086165485,weight,country_avg,False
+2018,Pharmaceutical,0.005729351110791907,weight,country_avg,False
+2019,Pharmaceutical,0.01839390611597822,weight,country_avg,False
+2020,Pharmaceutical,0.0019757000960607227,weight,country_avg,False
+2021,Pharmaceutical,0.004749986814297742,weight,country_avg,False
+2022,Pharmaceutical,0.008446550082588433,weight,country_avg,False
+2023,Pharmaceutical,0.008771579707421352,weight,country_avg,False
+2024,Pharmaceutical,0.02984199199898773,weight,country_avg,False
+2025,Pharmaceutical,0.01551895462837702,weight,country_avg,True
+2026,Pharmaceutical,0.0006879325080320938,weight,country_avg,True
+2011,New psychoactive substances,0.002967807109115035,weight,country_avg,False
+2012,New psychoactive substances,0.02810044636590171,weight,country_avg,False
+2013,New psychoactive substances,0.03830607264497291,weight,country_avg,False
+2014,New psychoactive substances,0.03458467248740291,weight,country_avg,False
+2015,New psychoactive substances,0.05393595274982917,weight,country_avg,False
+2016,New psychoactive substances,0.031096932639326783,weight,country_avg,False
+2017,New psychoactive substances,0.017918099757669427,weight,country_avg,False
+2018,New psychoactive substances,0.037734425047487107,weight,country_avg,False
+2019,New psychoactive substances,0.035819643904594994,weight,country_avg,False
+2020,New psychoactive substances,0.043457167415265015,weight,country_avg,False
+2021,New psychoactive substances,0.03365383768544569,weight,country_avg,False
+2022,New psychoactive substances,0.04443623963651541,weight,country_avg,False
+2023,New psychoactive substances,0.04248766926344525,weight,country_avg,False
+2024,New psychoactive substances,0.02454058454842965,weight,country_avg,False
+2025,New psychoactive substances,0.05389870270070157,weight,country_avg,True
+2026,New psychoactive substances,0.04699523960117897,weight,country_avg,True
+2011,Lab-made (synthetic + NPS),0.055369054243946315,weight,country_avg,False
+2012,Lab-made (synthetic + NPS),0.08146684234192365,weight,country_avg,False
+2013,Lab-made (synthetic + NPS),0.11463057718639925,weight,country_avg,False
+2014,Lab-made (synthetic + NPS),0.08462871182109138,weight,country_avg,False
+2015,Lab-made (synthetic + NPS),0.0769319439091428,weight,country_avg,False
+2016,Lab-made (synthetic + NPS),0.10510525274786253,weight,country_avg,False
+2017,Lab-made (synthetic + NPS),0.07283133061138396,weight,country_avg,False
+2018,Lab-made (synthetic + NPS),0.10000687289664427,weight,country_avg,False
+2019,Lab-made (synthetic + NPS),0.08352458933734173,weight,country_avg,False
+2020,Lab-made (synthetic + NPS),0.10335555404732641,weight,country_avg,False
+2021,Lab-made (synthetic + NPS),0.1162534355660537,weight,country_avg,False
+2022,Lab-made (synthetic + NPS),0.13731397979789073,weight,country_avg,False
+2023,Lab-made (synthetic + NPS),0.11927420992335777,weight,country_avg,False
+2024,Lab-made (synthetic + NPS),0.10961361374297349,weight,country_avg,False
+2025,Lab-made (synthetic + NPS),0.1196516982645965,weight,country_avg,True
+2026,Lab-made (synthetic + NPS),0.13306405127077242,weight,country_avg,True
+2011,Plant-based,0.9301925290635922,weight,consistent_panel,False
+2012,Plant-based,0.9727102078218536,weight,consistent_panel,False
+2013,Plant-based,0.9613709074794428,weight,consistent_panel,False
+2014,Plant-based,0.9146331803391761,weight,consistent_panel,False
+2015,Plant-based,0.9566110133668003,weight,consistent_panel,False
+2016,Plant-based,0.8920733543269315,weight,consistent_panel,False
+2017,Plant-based,0.9254266637724899,weight,consistent_panel,False
+2018,Plant-based,0.8926799310816851,weight,consistent_panel,False
+2019,Plant-based,0.9572469236900834,weight,consistent_panel,False
+2020,Plant-based,0.9354621230227745,weight,consistent_panel,False
+2021,Plant-based,0.916033249097921,weight,consistent_panel,False
+2022,Plant-based,0.9169369969861995,weight,consistent_panel,False
+2023,Plant-based,0.9276802467567514,weight,consistent_panel,False
+2024,Plant-based,0.886614627715317,weight,consistent_panel,False
+2025,Plant-based,0.8793482765111434,weight,consistent_panel,True
+2026,Plant-based,0.8651857842179695,weight,consistent_panel,True
+2011,Synthetic,0.06427081967834489,weight,consistent_panel,False
+2012,Synthetic,0.01691137125651625,weight,consistent_panel,False
+2013,Synthetic,0.0185519963419532,weight,consistent_panel,False
+2014,Synthetic,0.03712028409043073,weight,consistent_panel,False
+2015,Synthetic,0.01141986257173989,weight,consistent_panel,False
+2016,Synthetic,0.09368997839799235,weight,consistent_panel,False
+2017,Synthetic,0.05594763282365618,weight,consistent_panel,False
+2018,Synthetic,0.054791594089610644,weight,consistent_panel,False
+2019,Synthetic,0.023076158573429217,weight,consistent_panel,False
+2020,Synthetic,0.03005328675921002,weight,consistent_panel,False
+2021,Synthetic,0.036747161222136136,weight,consistent_panel,False
+2022,Synthetic,0.02569262636533956,weight,consistent_panel,False
+2023,Synthetic,0.01761862130955545,weight,consistent_panel,False
+2024,Synthetic,0.060468629175105225,weight,consistent_panel,False
+2025,Synthetic,0.0376798845852435,weight,consistent_panel,True
+2026,Synthetic,0.049805212392865006,weight,consistent_panel,True
+2011,Pharmaceutical,0.0005721552132463123,weight,consistent_panel,False
+2012,Pharmaceutical,0.0005441431010561293,weight,consistent_panel,False
+2013,Pharmaceutical,0.00035428447225803656,weight,consistent_panel,False
+2014,Pharmaceutical,0.004157406548544187,weight,consistent_panel,False
+2015,Pharmaceutical,0.0007039607943746867,weight,consistent_panel,False
+2016,Pharmaceutical,0.010757724254887227,weight,consistent_panel,False
+2017,Pharmaceutical,0.002039491425493314,weight,consistent_panel,False
+2018,Pharmaceutical,0.011212749051890309,weight,consistent_panel,False
+2019,Pharmaceutical,0.005529162459053092,weight,consistent_panel,False
+2020,Pharmaceutical,0.0008665372884329225,weight,consistent_panel,False
+2021,Pharmaceutical,0.0009045402085862283,weight,consistent_panel,False
+2022,Pharmaceutical,0.0039955310181647155,weight,consistent_panel,False
+2023,Pharmaceutical,0.0034834886549167253,weight,consistent_panel,False
+2024,Pharmaceutical,0.008987335974548667,weight,consistent_panel,False
+2025,Pharmaceutical,0.0007263812820329414,weight,consistent_panel,True
+2026,Pharmaceutical,0.001671378513414013,weight,consistent_panel,True
+2011,New psychoactive substances,0.004964496044816689,weight,consistent_panel,False
+2012,New psychoactive substances,0.009834277820574092,weight,consistent_panel,False
+2013,New psychoactive substances,0.019722811706346096,weight,consistent_panel,False
+2014,New psychoactive substances,0.044089129021849006,weight,consistent_panel,False
+2015,New psychoactive substances,0.031265163267085005,weight,consistent_panel,False
+2016,New psychoactive substances,0.003478943020188899,weight,consistent_panel,False
+2017,New psychoactive substances,0.01658621197836057,weight,consistent_panel,False
+2018,New psychoactive substances,0.04131572577681398,weight,consistent_panel,False
+2019,New psychoactive substances,0.014147755277434346,weight,consistent_panel,False
+2020,New psychoactive substances,0.03361805292958251,weight,consistent_panel,False
+2021,New psychoactive substances,0.046315049471356604,weight,consistent_panel,False
+2022,New psychoactive substances,0.05337484563029631,weight,consistent_panel,False
+2023,New psychoactive substances,0.0512176432787763,weight,consistent_panel,False
+2024,New psychoactive substances,0.04392940713502918,weight,consistent_panel,False
+2025,New psychoactive substances,0.08224545762158014,weight,consistent_panel,True
+2026,New psychoactive substances,0.08333762487575137,weight,consistent_panel,True
+2011,Lab-made (synthetic + NPS),0.06923531572316158,weight,consistent_panel,False
+2012,Lab-made (synthetic + NPS),0.026745649077090344,weight,consistent_panel,False
+2013,Lab-made (synthetic + NPS),0.03827480804829929,weight,consistent_panel,False
+2014,Lab-made (synthetic + NPS),0.08120941311227975,weight,consistent_panel,False
+2015,Lab-made (synthetic + NPS),0.0426850258388249,weight,consistent_panel,False
+2016,Lab-made (synthetic + NPS),0.09716892141818126,weight,consistent_panel,False
+2017,Lab-made (synthetic + NPS),0.07253384480201674,weight,consistent_panel,False
+2018,Lab-made (synthetic + NPS),0.09610731986642462,weight,consistent_panel,False
+2019,Lab-made (synthetic + NPS),0.037223913850863564,weight,consistent_panel,False
+2020,Lab-made (synthetic + NPS),0.06367133968879252,weight,consistent_panel,False
+2021,Lab-made (synthetic + NPS),0.08306221069349273,weight,consistent_panel,False
+2022,Lab-made (synthetic + NPS),0.07906747199563588,weight,consistent_panel,False
+2023,Lab-made (synthetic + NPS),0.06883626458833175,weight,consistent_panel,False
+2024,Lab-made (synthetic + NPS),0.1043980363101344,weight,consistent_panel,False
+2025,Lab-made (synthetic + NPS),0.11992534220682366,weight,consistent_panel,True
+2026,Lab-made (synthetic + NPS),0.1331428372686164,weight,consistent_panel,True
+2011,Plant-based,0.9419441307939344,weight,significant_only,False
+2012,Plant-based,0.9101539080776693,weight,significant_only,False
+2013,Plant-based,0.8940290491300189,weight,significant_only,False
+2014,Plant-based,0.9183484848797756,weight,significant_only,False
+2015,Plant-based,0.9269206032193945,weight,significant_only,False
+2016,Plant-based,0.8768469782657446,weight,significant_only,False
+2017,Plant-based,0.930523163448944,weight,significant_only,False
+2018,Plant-based,0.9246974414122178,weight,significant_only,False
+2019,Plant-based,0.9063619494567852,weight,significant_only,False
+2020,Plant-based,0.9016943521510843,weight,significant_only,False
+2021,Plant-based,0.8910661562421963,weight,significant_only,False
+2022,Plant-based,0.8500392211575779,weight,significant_only,False
+2023,Plant-based,0.868765863512186,weight,significant_only,False
+2024,Plant-based,0.853650350438622,weight,significant_only,False
+2025,Plant-based,0.8637139501614113,weight,significant_only,True
+2026,Plant-based,0.8656789657869058,weight,significant_only,True
+2011,Synthetic,0.055100561335775705,weight,significant_only,False
+2012,Synthetic,0.056473487033447484,weight,significant_only,False
+2013,Synthetic,0.06516796476355084,weight,significant_only,False
+2014,Synthetic,0.043718373753194394,weight,significant_only,False
+2015,Synthetic,0.01671286123420744,weight,significant_only,False
+2016,Synthetic,0.0806749555323803,weight,significant_only,False
+2017,Synthetic,0.048074903681809236,weight,significant_only,False
+2018,Synthetic,0.06047054213590359,weight,significant_only,False
+2019,Synthetic,0.04989887421038861,weight,significant_only,False
+2020,Synthetic,0.055980136628640674,weight,significant_only,False
+2021,Synthetic,0.06845020422237978,weight,significant_only,False
+2022,Synthetic,0.09361588210238175,weight,significant_only,False
+2023,Synthetic,0.08432499103519189,weight,significant_only,False
+2024,Synthetic,0.08377706136132991,weight,significant_only,False
+2025,Synthetic,0.061594381325301734,weight,significant_only,True
+2026,Synthetic,0.08625189503998726,weight,significant_only,True
+2011,Pharmaceutical,0.0013745826283974802,weight,significant_only,False
+2012,Pharmaceutical,0.002052438618777817,weight,significant_only,False
+2013,Pharmaceutical,0.0004997169757703777,weight,significant_only,False
+2014,Pharmaceutical,0.002848890525218212,weight,significant_only,False
+2015,Pharmaceutical,0.0004608745613444916,weight,significant_only,False
+2016,Pharmaceutical,0.008288317487678111,weight,significant_only,False
+2017,Pharmaceutical,0.0032760777826674544,weight,significant_only,False
+2018,Pharmaceutical,0.006656216097985806,weight,significant_only,False
+2019,Pharmaceutical,0.020469425365654194,weight,significant_only,False
+2020,Pharmaceutical,0.0018703090313317435,weight,significant_only,False
+2021,Pharmaceutical,0.005074860104016034,weight,significant_only,False
+2022,Pharmaceutical,0.008867045737476131,weight,significant_only,False
+2023,Pharmaceutical,0.007210193112404753,weight,significant_only,False
+2024,Pharmaceutical,0.03326182907484913,weight,significant_only,False
+2025,Pharmaceutical,0.016386944444821108,weight,significant_only,True
+2026,Pharmaceutical,0.000684559681878836,weight,significant_only,True
+2011,New psychoactive substances,0.001580725241892575,weight,significant_only,False
+2012,New psychoactive substances,0.031320166270105414,weight,significant_only,False
+2013,New psychoactive substances,0.04030326913065981,weight,significant_only,False
+2014,New psychoactive substances,0.035084250841811764,weight,significant_only,False
+2015,New psychoactive substances,0.05590566098505353,weight,significant_only,False
+2016,New psychoactive substances,0.034189748714197006,weight,significant_only,False
+2017,New psychoactive substances,0.018125855086579296,weight,significant_only,False
+2018,New psychoactive substances,0.008175800353892811,weight,significant_only,False
+2019,New psychoactive substances,0.02326975096717205,weight,significant_only,False
+2020,New psychoactive substances,0.040455202188943225,weight,significant_only,False
+2021,New psychoactive substances,0.0354087794314079,weight,significant_only,False
+2022,New psychoactive substances,0.0474778510025642,weight,significant_only,False
+2023,New psychoactive substances,0.03969895234021732,weight,significant_only,False
+2024,New psychoactive substances,0.02931075912519894,weight,significant_only,False
+2025,New psychoactive substances,0.058304724068465874,weight,significant_only,True
+2026,New psychoactive substances,0.04738457949122814,weight,significant_only,True
+2011,Lab-made (synthetic + NPS),0.056681286577668286,weight,significant_only,False
+2012,Lab-made (synthetic + NPS),0.08779365330355289,weight,significant_only,False
+2013,Lab-made (synthetic + NPS),0.10547123389421066,weight,significant_only,False
+2014,Lab-made (synthetic + NPS),0.07880262459500616,weight,significant_only,False
+2015,Lab-made (synthetic + NPS),0.07261852221926098,weight,significant_only,False
+2016,Lab-made (synthetic + NPS),0.1148647042465773,weight,significant_only,False
+2017,Lab-made (synthetic + NPS),0.06620075876838853,weight,significant_only,False
+2018,Lab-made (synthetic + NPS),0.0686463424897964,weight,significant_only,False
+2019,Lab-made (synthetic + NPS),0.07316862517756066,weight,significant_only,False
+2020,Lab-made (synthetic + NPS),0.0964353388175839,weight,significant_only,False
+2021,Lab-made (synthetic + NPS),0.10385898365378768,weight,significant_only,False
+2022,Lab-made (synthetic + NPS),0.14109373310494594,weight,significant_only,False
+2023,Lab-made (synthetic + NPS),0.12402394337540923,weight,significant_only,False
+2024,Lab-made (synthetic + NPS),0.11308782048652885,weight,significant_only,False
+2025,Lab-made (synthetic + NPS),0.11989910539376761,weight,significant_only,True
+2026,Lab-made (synthetic + NPS),0.1336364745312154,weight,significant_only,True

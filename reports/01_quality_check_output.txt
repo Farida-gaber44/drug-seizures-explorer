@@ -1,0 +1,217 @@
+
+===== Size
+2,841,288 rows, 150 countries, 343 drug names
+
+===== Rows and reporting countries per year
+        rows  countries
+year                   
+2011   41806         67
+2012   62090         72
+2013   62036         63
+2014  265457         53
+2015  238294         45
+2016  307817         46
+2017  232409         54
+2018  220003         82
+2019  119368         77
+2020  151682         84
+2021  259342         83
+2022  235079         98
+2023  354923        100
+2024  184464         85
+2025   91898         64
+2026   14620         32
+
+===== Distinct seizure dates per year (are dates real or year placeholders?)
+      nunique        min        max
+year                               
+2011      365 2011-01-01 2011-12-31
+2012      366 2012-01-01 2012-12-31
+2013      365 2013-01-01 2013-12-31
+2014      365 2014-01-01 2014-12-31
+2015      365 2015-01-01 2015-12-31
+2016      366 2016-01-01 2016-12-31
+2017      365 2017-01-01 2017-12-31
+2018      365 2018-01-01 2018-12-31
+2019      365 2019-01-01 2019-12-31
+2020      366 2020-01-01 2020-12-31
+2021      365 2021-01-01 2021-12-31
+2022      365 2022-01-01 2022-12-31
+2023      365 2023-01-01 2023-12-31
+2024      366 2024-01-01 2024-12-31
+2025      365 2025-01-01 2025-12-31
+2026      181 2026-01-01 2026-06-30
+
+===== Is the 2024 sheet a copy of 2023?
+2023 rows 354,923, 2024 rows 184,464
+countries 2023: 100 | 2024: 85
+top countries 2023: {'Colombia': 60869, 'Sweden': 54626, 'Canada': 45876, 'Philippines': 38004, 'Denmark': 27802}
+top countries 2024: {'Colombia': 40072, 'Italy': 28589, 'Canada': 21372, 'Nigeria': 12325, 'Ecuador': 11710}
+
+===== Exact duplicate rows within the same year
+239,664 duplicate rows (8.4%)
+{2011: '5.9%', 2012: '7.3%', 2013: '8.1%', 2014: '15.3%', 2015: '16.8%', 2016: '17.4%', 2017: '10.4%', 2018: '7.0%', 2019: '5.0%', 2020: '3.3%', 2021: '4.4%', 2022: '3.9%', 2023: '3.3%', 2024: '4.7%', 2025: '1.7%', 2026: '1.2%'}
+
+===== Measurement units
+                rows  share
+unit                       
+kg           1747130  61.5%
+g             882242  31.1%
+unit           90695   3.2%
+tablet/pill    82585   2.9%
+plant          19963   0.7%
+lt             18472   0.7%
+other             96   0.0%
+Acres             82   0.0%
+Ampoule           22   0.0%
+Hectars            1   0.0%
+
+===== Missing / 'Data not available' per column
+seizure_date          0%
+country               0%
+iso3                  0%
+subregion             0%
+region                0%
+drug                  0%
+quantity              0%
+unit                  0%
+city                  3%
+admin_region          5%
+seizure_location     67%
+transport_mode       89%
+source                0%
+reporting_channel     0%
+source_file           0%
+source_sheet          0%
+year                  0%
+dtype: object
+
+===== Quantity problems
+non-numeric or missing: 0 | zero or negative: 142
+
+===== Largest single seizures by weight (possible typos or real record seizures)
+ year                          country            city                                                           drug     quantity unit         kg
+ 2013                         Thailand         Bangkok                                                    Amphetamine   4500000.00   kg 4500000.00
+ 2013                         Thailand         Bangkok                                                    Amphetamine   4500000.00   kg 4500000.00
+ 2011                         Colombia        San Luis                                                      Coca leaf    400000.00   kg  400000.00
+ 2023      United Republic of Tanzania        Kisimiri                                      Cannabis herb (marijuana)    400000.00   kg  400000.00
+ 2023      United Republic of Tanzania        Kisimiri                                      Cannabis herb (marijuana)    301496.91   kg  301496.91
+ 2023                          Namibia    Keetmanshoop Non-specified cannabis-type (excluding synthetic cannabinoids)    220000.00   kg  220000.00
+ 2023                          Namibia  Trans Kalahari Non-specified cannabis-type (excluding synthetic cannabinoids)    165540.00   kg  165540.00
+ 2025                          Nigeria Wact & Omt Onne                                                        Codeine    147030.00   kg  147030.00
+ 2019                      Afghanistan          Dehyak                                       Cannabis resin (hashish)    134000.00   kg  134000.00
+ 2019                      Afghanistan          Dehyak                                       Cannabis resin (hashish)    120000.00   kg  120000.00
+ 2023 Bolivia (Plurinational State of)            None                                      Cannabis herb (marijuana) 115900000.00    g  115900.00
+ 2013                         Pakistan        Peshawar                                               Acetic Anhydride    103563.00   kg  103563.00
+ 2012 Bolivia (Plurinational State of)      Santa Cruz                                      Cannabis herb (marijuana)  86500000.00    g   86500.00
+ 2019                      Afghanistan          Dehyak                                       Cannabis resin (hashish)     80000.00   kg   80000.00
+ 2015                      Afghanistan            None                                       Cannabis resin (hashish)     76070.00   kg   76070.00
+ 2015                      Afghanistan            None                                       Cannabis resin (hashish)     76070.00   kg   76070.00
+ 2015                      Afghanistan            None                                       Cannabis resin (hashish)     76070.00   kg   76070.00
+ 2025                          Czechia           Praha                                                            GBL  66400000.00    g   66400.00
+ 2011 Bolivia (Plurinational State of)          La Paz                                      Cannabis herb (marijuana)  63000000.00    g   63000.00
+ 2012 Bolivia (Plurinational State of)      Santa Cruz                                      Cannabis herb (marijuana)  62250000.00    g   62250.00
+
+Share of each year's total weight coming from its 10 largest seizures:
+year
+2011    24%
+2012    20%
+2013    82%
+2014    15%
+2015    19%
+2016     7%
+2017     5%
+2018     6%
+2019    21%
+2020    10%
+2021     8%
+2022     8%
+2023    19%
+2024     9%
+2025    20%
+2026    29%
+
+===== Region and subregion labels
+region    subregion                                
+Africa    East Africa                                    11097
+          North Africa                                   22639
+          Southern Africa                                 6076
+          West and Central Africa                        72875
+Americas  Caribbean                                      30136
+          Central America                                81118
+          North America                                 218473
+          South America                                1482632
+Asia      Central Asia and Transcaucasia                  3601
+          Central Asia and Transcaucasian countries       6333
+          East and South-East Asia                       76417
+          Near and Middle East                            5974
+          South Asia                                      6757
+          South West Asia                                18609
+          South-West Asia                                16890
+Europe    East Europe                                    55490
+          Eastern Europe                                 47649
+          South-Eastern Europe                            2217
+          Southeast Europe                               15414
+          West and Central Europe                       475605
+          Western and Central Europe                    122467
+Oceania   Australia and New Zealand                      62819
+
+===== Egypt
+160 rows
+year
+2013    20
+2018    25
+2020    32
+2021    32
+2022    24
+2023    27
+drug
+Cannabis resin (hashish)                54
+Heroin                                  22
+Cannabis herb (marijuana)               17
+Tramadol                                15
+Captagon                                10
+Opium                                   10
+Methamphetamine                          8
+Other synthetic cannabinoids (spice)     6
+Other-miscellaneous                      5
+Non-specified cocaine-type               3
+unit
+kg             117
+tablet/pill     29
+g               10
+unit             4
+
+===== Drug names not in UNODC drug list
+7,230 rows across 185 names
+drug
+Other synthetic cathinones                                                             1448
+Non-specified stimulants                                                               1067
+5F-AKB48                                                                                524
+N-(1-carbamoil-2-methylpropil)-1-pentil-1n-indazole-3-carboxamyde and its derivates     406
+GABA                                                                                    329
+2C-H                                                                                    312
+Quinoline                                                                               287
+Non-specified pharmaceuticals                                                           231
+JWH-167                                                                                 230
+Taren                                                                                   221
+Other drugs/substances                                                                  189
+GHB/GBL                                                                                 131
+Cannabis Leaves                                                                         103
+Methylester                                                                              90
+3-butenoyl-1-methylindole [1- (1-methyl-1H-indol-3-yl) butan-1-one] and derivatives      82
+Kitil                                                                                    62
+Parkedil                                                                                 58
+Cough sirups                                                                             55
+Benzofuran                                                                               52
+Methyl ether                                                                             47
+Quinoline-8-yl-1-pentil-1N-indole-3-carboxylate                                          47
+Flunitrazepam (Disomnilan, Flumipam, Rophynol)                                           43
+Benzylpiperazine                                                                         41
+HU-210                                                                                   36
+Methylhexanamine                                                                         36
+Alpha-Methyltryptamine                                                                   34
+Naphtalene-1-yl-pentil-1H-indole-3-carboxylate                                           32
+Iodine                                                                                   31
+Acetone/Ethyl Ether                                                                      29
+Extract from Opium poppy                                                                 28

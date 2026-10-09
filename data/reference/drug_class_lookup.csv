@@ -1,0 +1,344 @@
+drug,unodc_class,project_group,mapping_source,rows
+Cannabis herb (marijuana),Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,961131
+Coca paste,Cocaine-type,Plant-based,unodc_list,306429
+Cocaine base,Cocaine-type,Plant-based,unodc_list,248265
+Cannabis resin (hashish),Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,207144
+Non-specified cocaine-type,Cocaine-type,Plant-based,unodc_list,200617
+"Cocaine hydrochloride (HCl, powder cocaine)",Cocaine-type,Plant-based,unodc_list,166369
+Methamphetamine,Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,129618
+Heroin,Opioids,Plant-based,unodc_list,78638
+Non-specified cannabis-type (excluding synthetic cannabinoids),Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,50854
+Amphetamine,Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,38019
+Cannabis plants,Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,37979
+Other non-specified drugs/substances,Other drugs/substances,Other / unspecified,unodc_list,29275
+Other cannabis-type (excluding synthetic cannabinoids),Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,27608
+MDMA,“Ecstasy”-type substances,Synthetic,unodc_list,25461
+Crack cocaine,Cocaine-type,Plant-based,unodc_list,23200
+Fentanyl,Opioids,Synthetic,unodc_list,21599
+Other-miscellaneous,Other drugs/substances,Other / unspecified,unodc_list,21245
+Tramadol,Opioids,Pharmaceutical,unodc_list,18783
+Coca leaf,Cocaine-type,Plant-based,unodc_list,18562
+"Alprazolam (Xanax, Pranax, Ksalol)",Sedatives and Tranquillizers,Pharmaceutical,unodc_list,13864
+N-Methylephedrone,New psychoactive substances,New psychoactive substances,unodc_list,12994
+Benzodiazepines,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,12568
+"Mephedrone (4-methylmethcathinone, 4-MMC)",New psychoactive substances,New psychoactive substances,unodc_list,11509
+Opium,Opioids,Plant-based,unodc_list,9279
+Pregabalin,Other drugs/substances,Pharmaceutical,unodc_list,8849
+Non-specified synthetic cannabinoids (spice),New psychoactive substances,New psychoactive substances,unodc_list,8203
+Cannabis oil,Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,8081
+Diazepam,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,7873
+Ketamine,New psychoactive substances,New psychoactive substances,unodc_list,7638
+Psilocybin,Hallucinogens,Plant-based,unodc_list,7584
+LSD,Hallucinogens,Synthetic,unodc_list,5411
+Non-specified sedatives and tranquillizers,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,4818
+Non-specified psychotropic substances,Non-specified psychotropic substances,Other / unspecified,unodc_list,4801
+Cannabis seeds,Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,4564
+Oxycodone,Opioids,Pharmaceutical,unodc_list,4397
+Codeine,Opioids,Pharmaceutical,unodc_list,4211
+Non-specified ecstasy-type substances,“Ecstasy”-type substances,Synthetic,unodc_list,4149
+Cocaine salts,Cocaine-type,Plant-based,unodc_list,3967
+"2C-B (4-bromo-2,5-dimethoxyphenethylamine)",Hallucinogens,Synthetic,unodc_list,3903
+Other hallucinogens,Hallucinogens,Synthetic,unodc_list,3673
+Other pharmaceutical opioids,Opioids,Pharmaceutical,unodc_list,3463
+Clonazepam (Rivotril),Sedatives and Tranquillizers,Pharmaceutical,unodc_list,3346
+Khat,New psychoactive substances,Plant-based,unodc_list,3221
+Methadone,Opioids,Pharmaceutical,unodc_list,3092
+3-Chloromethcathinone (3-CMC),New psychoactive substances,New psychoactive substances,unodc_list,2716
+Other NPS,New psychoactive substances,New psychoactive substances,unodc_list,2481
+Other synthetic cannabinoids (spice),New psychoactive substances,New psychoactive substances,unodc_list,2309
+Illicit morphine,Opioids,Plant-based,unodc_list,2171
+Captagon,Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,2141
+Subutex (buprenorphine),Opioids,Pharmaceutical,unodc_list,2078
+Non-specified Synthetic cathinones,New psychoactive substances,New psychoactive substances,unodc_list,2018
+"Flunitrazepam (Disomnilan, Flumipam, Rohypnol)",Sedatives and Tranquillizers,Pharmaceutical,unodc_list,2002
+Non-specified NPS,New psychoactive substances,New psychoactive substances,unodc_list,1942
+Tetrahydrocannabinol (THC),Precursors,Plant-based,unodc_list,1874
+Methcathinone,Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,1867
+Pseudoephedrine,Precursors,Precursors & chemicals,unodc_list,1769
+Non-specified amphetamine-type stimulants (excluding ecstasy),Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,1739
+GHB,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,1728
+alpha-pyrrolidinovalerophenone (alpha-PVP),New psychoactive substances,New psychoactive substances,unodc_list,1660
+Other sedatives and tranquillizers,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,1626
+Poppy straw,Opioids,Plant-based,unodc_list,1596
+Other amphetamine-type stimulants (excluding ecstasy),Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,1593
+Carfentanil,New psychoactive substances,New psychoactive substances,unodc_list,1485
+Other synthetic cathinones,New psychoactive substances,New psychoactive substances,manual,1448
+JWH - 018,New psychoactive substances,New psychoactive substances,unodc_list,1417
+MDPV,New psychoactive substances,New psychoactive substances,unodc_list,1370
+Zolpidem,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,1336
+Multiple drugs,Other drugs/substances,Other / unspecified,unodc_list,1310
+Ephedrine,Precursors,Precursors & chemicals,unodc_list,1125
+Non-specified stimulants,Other drugs/substances,Other / unspecified,manual,1067
+GBL,Precursors,Precursors & chemicals,unodc_list,1007
+JWH - 122,New psychoactive substances,New psychoactive substances,unodc_list,890
+Non-specified precursors,Precursors,Precursors & chemicals,unodc_list,860
+Dimethyltryptamine (DMT),Hallucinogens,Synthetic,unodc_list,836
+Non-specified phenethylamines,New psychoactive substances,New psychoactive substances,unodc_list,655
+Cannabis pollen (dust),Cannabis-type (excluding synthetic cannabinoids),Plant-based,unodc_list,618
+MDA,“Ecstasy”-type substances,Synthetic,unodc_list,562
+Non-specified hallucinogens,Hallucinogens,Synthetic,unodc_list,551
+5F-AKB48,New psychoactive substances,New psychoactive substances,manual,524
+Non-specified opioids,Opioids,Other / unspecified,unodc_list,520
+Mitragyna speciosa (kratom),New psychoactive substances,Plant-based,unodc_list,500
+"Lorazepam (Ativan, Temesta)",Sedatives and Tranquillizers,Pharmaceutical,unodc_list,486
+Non-specified synthetic drugs/substances,Other drugs/substances,Synthetic,unodc_list,449
+Other cocaine-type,Cocaine-type,Plant-based,unodc_list,410
+N-(1-carbamoil-2-methylpropil)-1-pentil-1n-indazole-3-carboxamyde and its derivates,New psychoactive substances,New psychoactive substances,manual,406
+Other precursors,Precursors,Precursors & chemicals,unodc_list,378
+Desomorphine,Opioids,Synthetic,unodc_list,350
+Methylone,New psychoactive substances,New psychoactive substances,unodc_list,333
+Poppy plants,Opioids,Plant-based,unodc_list,331
+GABA,Other drugs/substances,Pharmaceutical,manual,329
+"4-Chloromethcathinone (4-CMC, Clephedrone)",New psychoactive substances,New psychoactive substances,unodc_list,318
+2C-H,New psychoactive substances,New psychoactive substances,manual,312
+Quinoline,Precursors,Precursors & chemicals,manual,287
+Dimethyl ether,Other drugs/substances,Precursors & chemicals,unodc_list,268
+Barbiturates,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,268
+Other tryptamines,New psychoactive substances,New psychoactive substances,unodc_list,255
+JWH - 073,New psychoactive substances,New psychoactive substances,unodc_list,231
+Non-specified pharmaceuticals,Other drugs/substances,Pharmaceutical,manual,231
+JWH-167,New psychoactive substances,New psychoactive substances,manual,230
+Taren,Other drugs/substances,Pharmaceutical,manual,221
+Methaqualone,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,204
+Non-specified pharmaceutical opioids,Opioids,Pharmaceutical,unodc_list,199
+Acetic Acid,Other chemicals,Precursors & chemicals,unodc_list,196
+Other drugs/substances,Other drugs/substances,Other / unspecified,manual,189
+Cocaine seeds,Cocaine-type,Plant-based,unodc_list,188
+Coca bush,Cocaine-type,Plant-based,unodc_list,183
+JWH - 203,New psychoactive substances,New psychoactive substances,unodc_list,178
+Phenobarbital (Luminal),Sedatives and Tranquillizers,Pharmaceutical,unodc_list,140
+3-MMC (3-Methylmethcathinone),New psychoactive substances,New psychoactive substances,unodc_list,139
+GHB/GBL,Sedatives and Tranquillizers,Synthetic,manual,131
+Non-specified ketamine and phencyclidine-type substances,New psychoactive substances,New psychoactive substances,unodc_list,126
+Other opioids,Opioids,Other / unspecified,unodc_list,116
+Cannabis Leaves,Cannabis-type (excluding synthetic cannabinoids),Plant-based,manual,103
+Hydrochloric Acid,Precursors,Precursors & chemicals,unodc_list,100
+Non-specified solvents and Inhalants,Solvents and Inhalants,Other / unspecified,unodc_list,95
+Nimetazepam,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,93
+Poppy seeds,Opioids,Plant-based,unodc_list,91
+Methylester,Precursors,Precursors & chemicals,manual,90
+Other solvents and Inhalants,Solvents and Inhalants,Other / unspecified,unodc_list,88
+Acetic Anhydride,Precursors,Precursors & chemicals,unodc_list,85
+Nandrolone,Other chemicals,Precursors & chemicals,unodc_list,82
+3-butenoyl-1-methylindole [1- (1-methyl-1H-indol-3-yl) butan-1-one] and derivatives,New psychoactive substances,New psychoactive substances,manual,82
+Oxazepam,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,80
+"3-Methylfentanyl (3-MF, Mefentanyl)",Opioids,Synthetic,unodc_list,75
+Sulphuric Acid,Precursors,Precursors & chemicals,unodc_list,71
+Non-specified opiates,Opioids,Plant-based,unodc_list,70
+MDP2P,Precursors,Precursors & chemicals,unodc_list,66
+Phenibut,New psychoactive substances,New psychoactive substances,unodc_list,64
+Other opiates,Opioids,Plant-based,unodc_list,62
+Kitil,Other drugs/substances,Other / unspecified,manual,62
+Fenethylline,Amphetamine-type stimulants (excluding ecstasy),Synthetic,unodc_list,60
+Parkedil,Other drugs/substances,Pharmaceutical,manual,58
+Cough sirups,Opioids,Pharmaceutical,manual,55
+Benzofuran,New psychoactive substances,New psychoactive substances,manual,52
+Acetone,Precursors,Precursors & chemicals,unodc_list,48
+Quinoline-8-yl-1-pentil-1N-indole-3-carboxylate,New psychoactive substances,New psychoactive substances,manual,47
+Methyl ether,Precursors,Precursors & chemicals,manual,47
+Phenyl-2-nitropropene (P2NP),Precursors,Precursors & chemicals,unodc_list,44
+"Flunitrazepam (Disomnilan, Flumipam, Rophynol)",Sedatives and Tranquillizers,Pharmaceutical,manual,43
+Benzylpiperazine,New psychoactive substances,New psychoactive substances,manual,41
+BZP (N-benzylpiperazine),New psychoactive substances,New psychoactive substances,unodc_list,36
+Methylhexanamine,New psychoactive substances,New psychoactive substances,manual,36
+HU-210,New psychoactive substances,New psychoactive substances,manual,36
+Alpha-Methyltryptamine,New psychoactive substances,New psychoactive substances,manual,34
+Naphtalene-1-yl-pentil-1H-indole-3-carboxylate,New psychoactive substances,New psychoactive substances,manual,32
+Iodine,Precursors,Precursors & chemicals,manual,31
+Acetone/Ethyl Ether,Precursors,Precursors & chemicals,manual,29
+Extract from Opium poppy,Opioids,Plant-based,manual,28
+Dextromethorphan,Other drugs/substances,Pharmaceutical,manual,27
+MDEA,“Ecstasy”-type substances,Synthetic,unodc_list,26
+Substitol (slow release Morphine),Opioids,Pharmaceutical,manual,26
+Sodium carbonate,Other chemicals,Precursors & chemicals,unodc_list,26
+3- (Naphthalene-1-ilocos methyl) -1-pentyl-1H-indazole and its derivatives,New psychoactive substances,New psychoactive substances,manual,25
+RCS-4,New psychoactive substances,New psychoactive substances,manual,23
+mCPP (meta-Chlorophenylpiperazine),New psychoactive substances,New psychoactive substances,unodc_list,22
+Dimethocaine,New psychoactive substances,New psychoactive substances,manual,22
+Non-specified tryptamines,New psychoactive substances,New psychoactive substances,unodc_list,22
+Other ecstasy-type substances,“Ecstasy”-type substances,Synthetic,unodc_list,21
+Orzepam,Sedatives and Tranquillizers,Pharmaceutical,manual,20
+naphthalen-1-yl-1-benzyl-1H-indole-3-carboxylate and its deriviatives,New psychoactive substances,New psychoactive substances,manual,20
+DOB,Hallucinogens,Synthetic,manual,19
+BMK (1-phenyl-2-propanone),Precursors,Precursors & chemicals,unodc_list,18
+Promedol (Trimeperidine),Opioids,Pharmaceutical,unodc_list,18
+Phencyclidine,New psychoactive substances,New psychoactive substances,manual,18
+Lysanxia,Sedatives and Tranquillizers,Pharmaceutical,manual,18
+Isotonitazene,New psychoactive substances,New psychoactive substances,unodc_list,17
+6-Monoacetylcodeine,Opioids,Plant-based,manual,16
+6-Monoacetylmorphine,Opioids,Plant-based,manual,16
+XLR-11,New psychoactive substances,New psychoactive substances,manual,16
+Potassium permanganate,Precursors,Precursors & chemicals,unodc_list,15
+TRANKXENEK,Sedatives and Tranquillizers,Pharmaceutical,manual,15
+Parkenal,Other drugs/substances,Pharmaceutical,manual,15
+Non-specified adulterants,Other drugs/substances,Precursors & chemicals,unodc_list,15
+Brotizolam,Sedatives and Tranquillizers,Pharmaceutical,unodc_list,15
+6-Desoxycodeine,Opioids,Synthetic,manual,15
+Phosphorous Acid,Precursors,Precursors & chemicals,manual,14
+Liquid methamphetamine,Amphetamine-type stimulants (excluding ecstasy),Synthetic,manual,14
+Ammonium chloride,Other chemicals,Precursors & chemicals,unodc_list,14
+N-(1-carbamoil-2-methylpropyl)-1-(phenylmethyl)-1n-indazole-3-carboxamide and its derivaties,New psychoactive substances,New psychoactive substances,manual,14
+FUB-PB-22,New psychoactive substances,New psychoactive substances,manual,14
+Ephedra,Precursors,Precursors & chemicals,unodc_list,13
+Phenylacetone,Precursors,Precursors & chemicals,manual,13
+N-(1-carbamoil-2-methylpropyl)-1-(pentil)-1n-indole-3-carboxamide,New psychoactive substances,New psychoactive substances,manual,13
+Clorazepate,Sedatives and Tranquillizers,Pharmaceutical,manual,13
+Toluene,Other chemicals,Precursors & chemicals,unodc_list,13
+"PMK (3,4 Methylenedioxyphenyl-2-propanone)",Precursors,Precursors & chemicals,unodc_list,12
+Sodium hydroxide,Precursors,Precursors & chemicals,manual,12
+Tryptamines,New psychoactive substances,New psychoactive substances,manual,12
+Anabolic steroids,Other drugs/substances,Pharmaceutical,manual,12
+Pyrrolidine,Precursors,Precursors & chemicals,manual,12
+Lactuca virosa,New psychoactive substances,Plant-based,manual,12
+5-MeO-DALT,New psychoactive substances,New psychoactive substances,manual,11
+Methiopropamine,New psychoactive substances,New psychoactive substances,manual,11
+Nozepane,Sedatives and Tranquillizers,Pharmaceutical,manual,11
+THJ-2201,New psychoactive substances,New psychoactive substances,manual,11
+Acetylfentanyl,New psychoactive substances,New psychoactive substances,unodc_list,11
+Other piperazines,New psychoactive substances,New psychoactive substances,unodc_list,11
+5F-PB-22,New psychoactive substances,New psychoactive substances,manual,10
+2-Aminoindane,New psychoactive substances,New psychoactive substances,manual,10
+Non-specified piperazines,New psychoactive substances,New psychoactive substances,unodc_list,10
+ADB-CHMINACA,New psychoactive substances,New psychoactive substances,manual,10
+JWH-081,New psychoactive substances,New psychoactive substances,manual,10
+Lozenal,Sedatives and Tranquillizers,Pharmaceutical,manual,9
+"STP (""DOM"")",Hallucinogens,Synthetic,manual,9
+MMDA,“Ecstasy”-type substances,Synthetic,manual,9
+Buphedrone,New psychoactive substances,New psychoactive substances,manual,9
+Controlled Drug Mix,Other drugs/substances,Other / unspecified,manual,9
+Novazine,Sedatives and Tranquillizers,Pharmaceutical,manual,9
+Liquid cocaine,Cocaine-type,Plant-based,manual,8
+Hypophosphorous Acid,Precursors,Precursors & chemicals,manual,8
+Edible cannabis,Cannabis-type (excluding synthetic cannabinoids),Plant-based,manual,8
+2C-E,New psychoactive substances,New psychoactive substances,manual,8
+Sodium hydroxide (caustic soda),Other chemicals,Precursors & chemicals,unodc_list,8
+5-MeO-MIPT,New psychoactive substances,New psychoactive substances,manual,8
+Other nitazenes,New psychoactive substances,New psychoactive substances,unodc_list,8
+Ammonium nitrate,Other chemicals,Precursors & chemicals,unodc_list,8
+N-(adamantan-1-yl)-1-pentil-1N-indazole-3-carboxamyde and its derivates,New psychoactive substances,New psychoactive substances,manual,8
+JWH - 250,New psychoactive substances,New psychoactive substances,unodc_list,8
+Methanol,Solvents and Inhalants,Other / unspecified,unodc_list,7
+Zopalet,Sedatives and Tranquillizers,Pharmaceutical,manual,7
+Leonotis leonurus,New psychoactive substances,Plant-based,manual,7
+TFMPP,New psychoactive substances,New psychoactive substances,manual,7
+para-Methoxyamphetamine,“Ecstasy”-type substances,Synthetic,manual,7
+Freebase cocaine,Cocaine-type,Plant-based,unodc_list,7
+Salvinorin,New psychoactive substances,Plant-based,manual,7
+Amantadine,Other drugs/substances,Pharmaceutical,manual,7
+Roche,Sedatives and Tranquillizers,Pharmaceutical,manual,7
+para-Methoxy-N-methylamphetamine,“Ecstasy”-type substances,Synthetic,manual,6
+Ethyl Ether,Precursors,Precursors & chemicals,unodc_list,6
+Methylsulfonylmethane,Precursors,Precursors & chemicals,manual,6
+Quinoline-8-yl-1-pentil-1N-indazole-3-carboxylate,New psychoactive substances,New psychoactive substances,manual,6
+APAAN (alpha-phenylacetoacetonitrile),Precursors,Precursors & chemicals,unodc_list,6
+N-Ethylhexedrone,New psychoactive substances,New psychoactive substances,unodc_list,6
+Nitroethane,Precursors,Precursors & chemicals,unodc_list,5
+Mitragynine,New psychoactive substances,Plant-based,manual,5
+Modafinil,Amphetamine-type stimulants (excluding ecstasy),Pharmaceutical,manual,5
+Largactile,Other drugs/substances,Pharmaceutical,manual,5
+Sodium acetate,Other chemicals,Precursors & chemicals,unodc_list,5
+Tartaric acid,Other chemicals,Precursors & chemicals,unodc_list,5
+THJ-018,New psychoactive substances,New psychoactive substances,manual,5
+Trihexiphenidyl,Other drugs/substances,Pharmaceutical,manual,5
+Sinequan (Doxepine),Other drugs/substances,Pharmaceutical,manual,5
+FUBIMINA,New psychoactive substances,New psychoactive substances,manual,5
+Pavots,Opioids,Plant-based,manual,5
+4-fluoromethcathinone,New psychoactive substances,New psychoactive substances,manual,5
+Zirexa,Sedatives and Tranquillizers,Pharmaceutical,manual,5
+MPPP,Opioids,Synthetic,manual,4
+Naphtalene-1-yl-benzyl-1H-indole-3-carboxylate,New psychoactive substances,New psychoactive substances,manual,4
+Equinil (Meprobamates),Sedatives and Tranquillizers,Pharmaceutical,manual,4
+N-(adamantan-1-yl)-1-pentil-1N-indole-3-carboxamyde,New psychoactive substances,New psychoactive substances,manual,4
+4-HYDROXYTRYPTAMINE,New psychoactive substances,New psychoactive substances,manual,4
+Phenylpiperazine,New psychoactive substances,New psychoactive substances,manual,4
+Dextropoxyphene,Opioids,Pharmaceutical,manual,4
+Codidol,Opioids,Pharmaceutical,manual,4
+Cyclohexanone,Precursors,Precursors & chemicals,manual,3
+Dimethylamphetamine,Amphetamine-type stimulants (excluding ecstasy),Synthetic,manual,3
+Amobarbital,Sedatives and Tranquillizers,Pharmaceutical,manual,3
+2-MMC,New psychoactive substances,New psychoactive substances,manual,3
+Tetrahydrocannabinolic Acid (THCA),Precursors,Plant-based,unodc_list,3
+Dextropropoxyphene,Opioids,Pharmaceutical,manual,3
+Synthetics,Other drugs/substances,Synthetic,manual,3
+Methyl Ethyl Ketone,Precursors,Precursors & chemicals,manual,3
+Fuelite,Other drugs/substances,Other / unspecified,manual,3
+Halbiridol,Other drugs/substances,Pharmaceutical,manual,3
+N-(naphtalene-1-yl)-1H-indole-3-carboxamide,New psychoactive substances,New psychoactive substances,manual,3
+Tianeptine,Opioids,Pharmaceutical,unodc_list,3
+Amfepramone Hydrochloride,Amphetamine-type stimulants (excluding ecstasy),Pharmaceutical,manual,3
+Colina,Other drugs/substances,Other / unspecified,manual,3
+β-Keto-Methylbenzodioxolylpentanamine,New psychoactive substances,New psychoactive substances,manual,3
+bk_MDEA,New psychoactive substances,New psychoactive substances,manual,3
+4-Bromomethcathinone,New psychoactive substances,New psychoactive substances,manual,3
+Somnubene,Sedatives and Tranquillizers,Pharmaceutical,manual,3
+BUSPAR (CHYDRATE DE BUSPIRONE),Sedatives and Tranquillizers,Pharmaceutical,manual,3
+Tilidate,Opioids,Pharmaceutical,manual,3
+Spasmo proxyvon,Opioids,Pharmaceutical,manual,3
+Pipradrol,Amphetamine-type stimulants (excluding ecstasy),Synthetic,manual,3
+JWH-200,New psychoactive substances,New psychoactive substances,manual,3
+ANAFRANIL (CLOMIPRAMINE),Other drugs/substances,Pharmaceutical,manual,3
+5-MeO-DMT,New psychoactive substances,New psychoactive substances,manual,3
+Turnera diffusa,New psychoactive substances,Plant-based,manual,2
+Ludiomil (Maprotiline),Other drugs/substances,Pharmaceutical,manual,2
+Phendimetrazine,Amphetamine-type stimulants (excluding ecstasy),Pharmaceutical,manual,2
+Ethyl loflazepate,Sedatives and Tranquillizers,Pharmaceutical,manual,2
+5-APB,New psychoactive substances,New psychoactive substances,manual,2
+MBDB,“Ecstasy”-type substances,Synthetic,manual,2
+methyl alpha-phenylacetoacetate (MAPA),Precursors,Precursors & chemicals,unodc_list,2
+Non-specified nitazenes,New psychoactive substances,New psychoactive substances,unodc_list,2
+Methylamine,Precursors,Precursors & chemicals,unodc_list,2
+6-MAPB,New psychoactive substances,New psychoactive substances,manual,2
+Ethyl phenylacetate,Precursors,Precursors & chemicals,unodc_list,2
+Methanone,New psychoactive substances,New psychoactive substances,manual,2
+PB-22,New psychoactive substances,New psychoactive substances,manual,2
+3 fluoromethamphetamine,New psychoactive substances,New psychoactive substances,manual,2
+Dimethylamine,Precursors,Precursors & chemicals,manual,2
+5-hydroxy-N-methyltryptamine,New psychoactive substances,New psychoactive substances,manual,2
+Eticyclidine,New psychoactive substances,New psychoactive substances,manual,2
+LIOREZAL,Other drugs/substances,Pharmaceutical,manual,2
+3-Naphthoylindole,New psychoactive substances,New psychoactive substances,manual,2
+Elavil (Amitriptyline),Other drugs/substances,Pharmaceutical,manual,2
+CHLORMETHCATHINON,New psychoactive substances,New psychoactive substances,manual,2
+MDMB-CHMCZCA,New psychoactive substances,New psychoactive substances,manual,2
+Tapentadol,Opioids,Pharmaceutical,manual,2
+ADBICA,New psychoactive substances,New psychoactive substances,manual,2
+BB-22,New psychoactive substances,New psychoactive substances,manual,2
+Butorphanol,Opioids,Pharmaceutical,manual,2
+CP 47,New psychoactive substances,New psychoactive substances,manual,2
+Yava,Amphetamine-type stimulants (excluding ecstasy),Synthetic,manual,1
+Soulperane,Other drugs/substances,Pharmaceutical,manual,1
+Seresta (Oxazepam),Sedatives and Tranquillizers,Pharmaceutical,manual,1
+4-CI-α-PVP,New psychoactive substances,New psychoactive substances,manual,1
+Safrole,Precursors,Precursors & chemicals,unodc_list,1
+MMB(N)-BZ-F,New psychoactive substances,New psychoactive substances,manual,1
+2-Fluoromethamphetamine,New psychoactive substances,New psychoactive substances,manual,1
+Ammonia,Other chemicals,Precursors & chemicals,unodc_list,1
+Ethylone,New psychoactive substances,New psychoactive substances,manual,1
+Butilona,New psychoactive substances,New psychoactive substances,manual,1
+Acetyl Chloride,Other chemicals,Precursors & chemicals,unodc_list,1
+Tofranil (Imipramine),Other drugs/substances,Pharmaceutical,manual,1
+Benzphetamine,Amphetamine-type stimulants (excluding ecstasy),Pharmaceutical,manual,1
+Metodesnitazene,New psychoactive substances,New psychoactive substances,unodc_list,1
+Levomethorphan,Opioids,Pharmaceutical,manual,1
+Ammonia Sprit,Precursors,Precursors & chemicals,manual,1
+Retalin Tablets,Amphetamine-type stimulants (excluding ecstasy),Pharmaceutical,manual,1
+Karcidone,Other drugs/substances,Pharmaceutical,manual,1
+Phenyl-2-nitropropene,Precursors,Precursors & chemicals,manual,1
+Thiopropamine,New psychoactive substances,New psychoactive substances,manual,1
+Amphetamine-Ketamine Mix,Amphetamine-type stimulants (excluding ecstasy),Synthetic,manual,1
+Carbamazepine,Other drugs/substances,Pharmaceutical,manual,1
+MDMA & Mephedrone,“Ecstasy”-type substances,Synthetic,manual,1
+PMK-glycidate,Precursors,Precursors & chemicals,manual,1
+APAA,Precursors,Precursors & chemicals,manual,1
+Alpha-Methylfentanyl,Opioids,Synthetic,manual,1
+Tofisopam,Sedatives and Tranquillizers,Pharmaceutical,manual,1
+SDB-006,New psychoactive substances,New psychoactive substances,manual,1
+Diphenoxylate,Opioids,Pharmaceutical,manual,1
+N-Adamant-yl-indole,New psychoactive substances,New psychoactive substances,manual,1
+CP-55,New psychoactive substances,New psychoactive substances,manual,1
+1 benzyl N (quinolin 8 yl) 1H indazole 3 carboxamide,New psychoactive substances,New psychoactive substances,manual,1
+NM-2201,New psychoactive substances,New psychoactive substances,manual,1
+4-HO-DiPT,New psychoactive substances,New psychoactive substances,manual,1
+Phentanyl,Opioids,Synthetic,manual,1
+Phensydyl,Opioids,Pharmaceutical,manual,1
+Fenfluramine,Amphetamine-type stimulants (excluding ecstasy),Pharmaceutical,manual,1

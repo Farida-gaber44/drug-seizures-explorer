@@ -1,0 +1,301 @@
+subregion,year,project_group,share,measure,method
+Near and Middle East,2011,Plant-based,0.5405405405405406,records,pooled
+Near and Middle East,2012,Plant-based,0.5208333333333334,records,pooled
+Near and Middle East,2015,Plant-based,1.0,records,pooled
+Near and Middle East,2016,Plant-based,0.75,records,pooled
+Near and Middle East,2017,Plant-based,0.5892857142857143,records,pooled
+Near and Middle East,2018,Plant-based,0.6121673003802282,records,pooled
+Near and Middle East,2019,Plant-based,0.44525547445255476,records,pooled
+Near and Middle East,2020,Plant-based,0.6962524654832347,records,pooled
+Near and Middle East,2021,Plant-based,0.532258064516129,records,pooled
+Near and Middle East,2022,Plant-based,0.388996138996139,records,pooled
+Near and Middle East,2023,Plant-based,0.45774647887323944,records,pooled
+Near and Middle East,2024,Plant-based,0.45334796926454446,records,pooled
+Near and Middle East,2025,Plant-based,0.3521224773834377,records,pooled
+Near and Middle East,2026,Plant-based,0.24362606232294617,records,pooled
+North Africa,2011,Plant-based,1.0,records,pooled
+North Africa,2012,Plant-based,1.0,records,pooled
+North Africa,2013,Plant-based,0.8055555555555556,records,pooled
+North Africa,2014,Plant-based,0.4827586206896552,records,pooled
+North Africa,2015,Plant-based,1.0,records,pooled
+North Africa,2016,Plant-based,0.9836639439906651,records,pooled
+North Africa,2017,Plant-based,1.0,records,pooled
+North Africa,2018,Plant-based,0.9540229885057471,records,pooled
+North Africa,2019,Plant-based,0.9624060150375939,records,pooled
+North Africa,2020,Plant-based,0.9444444444444444,records,pooled
+North Africa,2021,Plant-based,0.8697604790419161,records,pooled
+North Africa,2022,Plant-based,0.6587914584279873,records,pooled
+North Africa,2023,Plant-based,0.5093773443360841,records,pooled
+North Africa,2024,Plant-based,0.43197540353574176,records,pooled
+North Africa,2025,Plant-based,0.506320907617504,records,pooled
+North Africa,2026,Plant-based,0.5930232558139535,records,pooled
+Near and Middle East,2011,Synthetic,0.4594594594594595,records,pooled
+Near and Middle East,2012,Synthetic,0.4791666666666667,records,pooled
+Near and Middle East,2015,Synthetic,0.0,records,pooled
+Near and Middle East,2016,Synthetic,0.25,records,pooled
+Near and Middle East,2017,Synthetic,0.4107142857142857,records,pooled
+Near and Middle East,2018,Synthetic,0.34980988593155893,records,pooled
+Near and Middle East,2019,Synthetic,0.5547445255474452,records,pooled
+Near and Middle East,2020,Synthetic,0.29191321499013806,records,pooled
+Near and Middle East,2021,Synthetic,0.3588709677419355,records,pooled
+Near and Middle East,2022,Synthetic,0.5666023166023166,records,pooled
+Near and Middle East,2023,Synthetic,0.47417840375586856,records,pooled
+Near and Middle East,2024,Synthetic,0.5181119648737651,records,pooled
+Near and Middle East,2025,Synthetic,0.5525400139178844,records,pooled
+Near and Middle East,2026,Synthetic,0.7308781869688386,records,pooled
+North Africa,2011,Synthetic,0.0,records,pooled
+North Africa,2012,Synthetic,0.0,records,pooled
+North Africa,2013,Synthetic,0.05555555555555555,records,pooled
+North Africa,2014,Synthetic,0.0009852216748768472,records,pooled
+North Africa,2015,Synthetic,0.0,records,pooled
+North Africa,2016,Synthetic,0.01633605600933489,records,pooled
+North Africa,2017,Synthetic,0.0,records,pooled
+North Africa,2018,Synthetic,0.020114942528735632,records,pooled
+North Africa,2019,Synthetic,0.013533834586466165,records,pooled
+North Africa,2020,Synthetic,0.02919020715630885,records,pooled
+North Africa,2021,Synthetic,0.02694610778443114,records,pooled
+North Africa,2022,Synthetic,0.04270786006360745,records,pooled
+North Africa,2023,Synthetic,0.08589647411852963,records,pooled
+North Africa,2024,Synthetic,0.09069946195234435,records,pooled
+North Africa,2025,Synthetic,0.06320907617504051,records,pooled
+North Africa,2026,Synthetic,0.04534883720930233,records,pooled
+Near and Middle East,2011,Pharmaceutical,0.0,records,pooled
+Near and Middle East,2012,Pharmaceutical,0.0,records,pooled
+Near and Middle East,2015,Pharmaceutical,0.0,records,pooled
+Near and Middle East,2016,Pharmaceutical,0.0,records,pooled
+Near and Middle East,2017,Pharmaceutical,0.0,records,pooled
+Near and Middle East,2018,Pharmaceutical,0.03802281368821293,records,pooled
+Near and Middle East,2019,Pharmaceutical,0.0,records,pooled
+Near and Middle East,2020,Pharmaceutical,0.011834319526627219,records,pooled
+Near and Middle East,2021,Pharmaceutical,0.0967741935483871,records,pooled
+Near and Middle East,2022,Pharmaceutical,0.010617760617760617,records,pooled
+Near and Middle East,2023,Pharmaceutical,0.06807511737089202,records,pooled
+Near and Middle East,2024,Pharmaceutical,0.0021953896816684962,records,pooled
+Near and Middle East,2025,Pharmaceutical,0.07654836464857341,records,pooled
+Near and Middle East,2026,Pharmaceutical,0.0084985835694051,records,pooled
+North Africa,2011,Pharmaceutical,0.0,records,pooled
+North Africa,2012,Pharmaceutical,0.0,records,pooled
+North Africa,2013,Pharmaceutical,0.1388888888888889,records,pooled
+North Africa,2014,Pharmaceutical,0.516256157635468,records,pooled
+North Africa,2015,Pharmaceutical,0.0,records,pooled
+North Africa,2016,Pharmaceutical,0.0,records,pooled
+North Africa,2017,Pharmaceutical,0.0,records,pooled
+North Africa,2018,Pharmaceutical,0.02586206896551724,records,pooled
+North Africa,2019,Pharmaceutical,0.02406015037593985,records,pooled
+North Africa,2020,Pharmaceutical,0.026365348399246705,records,pooled
+North Africa,2021,Pharmaceutical,0.10329341317365269,records,pooled
+North Africa,2022,Pharmaceutical,0.29668332576101775,records,pooled
+North Africa,2023,Pharmaceutical,0.4036009002250563,records,pooled
+North Africa,2024,Pharmaceutical,0.47732513451191394,records,pooled
+North Africa,2025,Pharmaceutical,0.43047001620745545,records,pooled
+North Africa,2026,Pharmaceutical,0.3616279069767442,records,pooled
+Near and Middle East,2011,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2012,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2015,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2016,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2017,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2018,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2019,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2020,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2021,New psychoactive substances,0.012096774193548387,records,pooled
+Near and Middle East,2022,New psychoactive substances,0.033783783783783786,records,pooled
+Near and Middle East,2023,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2024,New psychoactive substances,0.026344676180021953,records,pooled
+Near and Middle East,2025,New psychoactive substances,0.018789144050104383,records,pooled
+Near and Middle East,2026,New psychoactive substances,0.0169971671388102,records,pooled
+North Africa,2011,New psychoactive substances,0.0,records,pooled
+North Africa,2012,New psychoactive substances,0.0,records,pooled
+North Africa,2013,New psychoactive substances,0.0,records,pooled
+North Africa,2014,New psychoactive substances,0.0,records,pooled
+North Africa,2015,New psychoactive substances,0.0,records,pooled
+North Africa,2016,New psychoactive substances,0.0,records,pooled
+North Africa,2017,New psychoactive substances,0.0,records,pooled
+North Africa,2018,New psychoactive substances,0.0,records,pooled
+North Africa,2019,New psychoactive substances,0.0,records,pooled
+North Africa,2020,New psychoactive substances,0.0,records,pooled
+North Africa,2021,New psychoactive substances,0.0,records,pooled
+North Africa,2022,New psychoactive substances,0.001817355747387551,records,pooled
+North Africa,2023,New psychoactive substances,0.0011252813203300824,records,pooled
+North Africa,2024,New psychoactive substances,0.0,records,pooled
+North Africa,2025,New psychoactive substances,0.0,records,pooled
+North Africa,2026,New psychoactive substances,0.0,records,pooled
+Near and Middle East,2011,Lab-made (synthetic + NPS),0.4594594594594595,records,pooled
+Near and Middle East,2012,Lab-made (synthetic + NPS),0.4791666666666667,records,pooled
+Near and Middle East,2015,Lab-made (synthetic + NPS),0.0,records,pooled
+Near and Middle East,2016,Lab-made (synthetic + NPS),0.25,records,pooled
+Near and Middle East,2017,Lab-made (synthetic + NPS),0.4107142857142857,records,pooled
+Near and Middle East,2018,Lab-made (synthetic + NPS),0.34980988593155893,records,pooled
+Near and Middle East,2019,Lab-made (synthetic + NPS),0.5547445255474452,records,pooled
+Near and Middle East,2020,Lab-made (synthetic + NPS),0.29191321499013806,records,pooled
+Near and Middle East,2021,Lab-made (synthetic + NPS),0.3709677419354839,records,pooled
+Near and Middle East,2022,Lab-made (synthetic + NPS),0.6003861003861004,records,pooled
+Near and Middle East,2023,Lab-made (synthetic + NPS),0.47417840375586856,records,pooled
+Near and Middle East,2024,Lab-made (synthetic + NPS),0.544456641053787,records,pooled
+Near and Middle East,2025,Lab-made (synthetic + NPS),0.5713291579679888,records,pooled
+Near and Middle East,2026,Lab-made (synthetic + NPS),0.7478753541076487,records,pooled
+North Africa,2011,Lab-made (synthetic + NPS),0.0,records,pooled
+North Africa,2012,Lab-made (synthetic + NPS),0.0,records,pooled
+North Africa,2013,Lab-made (synthetic + NPS),0.05555555555555555,records,pooled
+North Africa,2014,Lab-made (synthetic + NPS),0.0009852216748768472,records,pooled
+North Africa,2015,Lab-made (synthetic + NPS),0.0,records,pooled
+North Africa,2016,Lab-made (synthetic + NPS),0.01633605600933489,records,pooled
+North Africa,2017,Lab-made (synthetic + NPS),0.0,records,pooled
+North Africa,2018,Lab-made (synthetic + NPS),0.020114942528735632,records,pooled
+North Africa,2019,Lab-made (synthetic + NPS),0.013533834586466165,records,pooled
+North Africa,2020,Lab-made (synthetic + NPS),0.02919020715630885,records,pooled
+North Africa,2021,Lab-made (synthetic + NPS),0.02694610778443114,records,pooled
+North Africa,2022,Lab-made (synthetic + NPS),0.04452521581099501,records,pooled
+North Africa,2023,Lab-made (synthetic + NPS),0.08702175543885972,records,pooled
+North Africa,2024,Lab-made (synthetic + NPS),0.09069946195234435,records,pooled
+North Africa,2025,Lab-made (synthetic + NPS),0.06320907617504051,records,pooled
+North Africa,2026,Lab-made (synthetic + NPS),0.04534883720930233,records,pooled
+Near and Middle East,2011,Plant-based,0.6631335336553182,weight,pooled
+Near and Middle East,2012,Plant-based,0.8811105807877813,weight,pooled
+Near and Middle East,2015,Plant-based,1.0,weight,pooled
+Near and Middle East,2016,Plant-based,0.9802583712747756,weight,pooled
+Near and Middle East,2017,Plant-based,0.9037320629436316,weight,pooled
+Near and Middle East,2018,Plant-based,0.8561646264398534,weight,pooled
+Near and Middle East,2019,Plant-based,0.9951192526243856,weight,pooled
+Near and Middle East,2020,Plant-based,0.8724930965785423,weight,pooled
+Near and Middle East,2021,Plant-based,0.5589714681385669,weight,pooled
+Near and Middle East,2022,Plant-based,0.8778935585941313,weight,pooled
+Near and Middle East,2023,Plant-based,0.6583340732687012,weight,pooled
+Near and Middle East,2024,Plant-based,0.9855335692959919,weight,pooled
+Near and Middle East,2025,Plant-based,0.9381149044842158,weight,pooled
+Near and Middle East,2026,Plant-based,0.635312380256331,weight,pooled
+North Africa,2011,Plant-based,1.0,weight,pooled
+North Africa,2012,Plant-based,1.0,weight,pooled
+North Africa,2013,Plant-based,1.0,weight,pooled
+North Africa,2014,Plant-based,1.0,weight,pooled
+North Africa,2015,Plant-based,1.0,weight,pooled
+North Africa,2016,Plant-based,0.9999990115656621,weight,pooled
+North Africa,2017,Plant-based,1.0,weight,pooled
+North Africa,2018,Plant-based,0.990548089432137,weight,pooled
+North Africa,2019,Plant-based,1.0,weight,pooled
+North Africa,2020,Plant-based,0.9999535310346372,weight,pooled
+North Africa,2021,Plant-based,0.9999596639007677,weight,pooled
+North Africa,2022,Plant-based,0.9980462405835899,weight,pooled
+North Africa,2023,Plant-based,0.9923061051412736,weight,pooled
+North Africa,2024,Plant-based,0.9980159337604863,weight,pooled
+North Africa,2025,Plant-based,0.9999930785533626,weight,pooled
+North Africa,2026,Plant-based,1.0,weight,pooled
+Near and Middle East,2011,Synthetic,0.33686646634468187,weight,pooled
+Near and Middle East,2012,Synthetic,0.11888941921221866,weight,pooled
+Near and Middle East,2015,Synthetic,0.0,weight,pooled
+Near and Middle East,2016,Synthetic,0.01974162872522438,weight,pooled
+Near and Middle East,2017,Synthetic,0.09626793705636838,weight,pooled
+Near and Middle East,2018,Synthetic,0.14383537356014664,weight,pooled
+Near and Middle East,2019,Synthetic,0.004880747375614327,weight,pooled
+Near and Middle East,2020,Synthetic,0.12462377477967283,weight,pooled
+Near and Middle East,2021,Synthetic,0.4392126487006845,weight,pooled
+Near and Middle East,2022,Synthetic,0.12144132106427881,weight,pooled
+Near and Middle East,2023,Synthetic,0.31184148289337454,weight,pooled
+Near and Middle East,2024,Synthetic,0.011430038953629212,weight,pooled
+Near and Middle East,2025,Synthetic,0.06141220974480476,weight,pooled
+Near and Middle East,2026,Synthetic,0.3631171745894133,weight,pooled
+North Africa,2011,Synthetic,0.0,weight,pooled
+North Africa,2012,Synthetic,0.0,weight,pooled
+North Africa,2013,Synthetic,0.0,weight,pooled
+North Africa,2014,Synthetic,0.0,weight,pooled
+North Africa,2015,Synthetic,0.0,weight,pooled
+North Africa,2016,Synthetic,9.88434337927605e-07,weight,pooled
+North Africa,2017,Synthetic,0.0,weight,pooled
+North Africa,2018,Synthetic,0.0009794940116237558,weight,pooled
+North Africa,2019,Synthetic,0.0,weight,pooled
+North Africa,2020,Synthetic,4.646896536269825e-05,weight,pooled
+North Africa,2021,Synthetic,4.0336099232192194e-05,weight,pooled
+North Africa,2022,Synthetic,0.0014029410253970135,weight,pooled
+North Africa,2023,Synthetic,4.831931979240338e-05,weight,pooled
+North Africa,2024,Synthetic,0.0,weight,pooled
+North Africa,2025,Synthetic,6.695596219909185e-06,weight,pooled
+North Africa,2026,Synthetic,0.0,weight,pooled
+Near and Middle East,2011,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2012,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2015,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2016,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2017,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2018,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2019,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2020,Pharmaceutical,0.0028831286417848193,weight,pooled
+Near and Middle East,2021,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2022,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2023,Pharmaceutical,0.029824443837924198,weight,pooled
+Near and Middle East,2024,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2025,Pharmaceutical,0.00020522694394358123,weight,pooled
+Near and Middle East,2026,Pharmaceutical,0.0,weight,pooled
+North Africa,2011,Pharmaceutical,0.0,weight,pooled
+North Africa,2012,Pharmaceutical,0.0,weight,pooled
+North Africa,2013,Pharmaceutical,0.0,weight,pooled
+North Africa,2014,Pharmaceutical,0.0,weight,pooled
+North Africa,2015,Pharmaceutical,0.0,weight,pooled
+North Africa,2016,Pharmaceutical,0.0,weight,pooled
+North Africa,2017,Pharmaceutical,0.0,weight,pooled
+North Africa,2018,Pharmaceutical,0.008472416556239239,weight,pooled
+North Africa,2019,Pharmaceutical,0.0,weight,pooled
+North Africa,2020,Pharmaceutical,0.0,weight,pooled
+North Africa,2021,Pharmaceutical,0.0,weight,pooled
+North Africa,2022,Pharmaceutical,0.0,weight,pooled
+North Africa,2023,Pharmaceutical,0.0,weight,pooled
+North Africa,2024,Pharmaceutical,0.0019840662395138563,weight,pooled
+North Africa,2025,Pharmaceutical,2.2585041738147225e-07,weight,pooled
+North Africa,2026,Pharmaceutical,0.0,weight,pooled
+Near and Middle East,2011,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2012,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2015,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2016,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2017,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2018,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2019,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2020,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2021,New psychoactive substances,0.0018158831607485298,weight,pooled
+Near and Middle East,2022,New psychoactive substances,0.0006651203415898326,weight,pooled
+Near and Middle East,2023,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2024,New psychoactive substances,0.0030363917503788973,weight,pooled
+Near and Middle East,2025,New psychoactive substances,0.0002676588270358521,weight,pooled
+Near and Middle East,2026,New psychoactive substances,0.0015704451542557364,weight,pooled
+North Africa,2011,New psychoactive substances,0.0,weight,pooled
+North Africa,2012,New psychoactive substances,0.0,weight,pooled
+North Africa,2013,New psychoactive substances,0.0,weight,pooled
+North Africa,2014,New psychoactive substances,0.0,weight,pooled
+North Africa,2015,New psychoactive substances,0.0,weight,pooled
+North Africa,2016,New psychoactive substances,0.0,weight,pooled
+North Africa,2017,New psychoactive substances,0.0,weight,pooled
+North Africa,2018,New psychoactive substances,0.0,weight,pooled
+North Africa,2019,New psychoactive substances,0.0,weight,pooled
+North Africa,2020,New psychoactive substances,0.0,weight,pooled
+North Africa,2021,New psychoactive substances,0.0,weight,pooled
+North Africa,2022,New psychoactive substances,0.0005508183910130618,weight,pooled
+North Africa,2023,New psychoactive substances,0.007645575538934125,weight,pooled
+North Africa,2024,New psychoactive substances,0.0,weight,pooled
+North Africa,2025,New psychoactive substances,0.0,weight,pooled
+North Africa,2026,New psychoactive substances,0.0,weight,pooled
+Near and Middle East,2011,Lab-made (synthetic + NPS),0.33686646634468187,weight,pooled
+Near and Middle East,2012,Lab-made (synthetic + NPS),0.11888941921221866,weight,pooled
+Near and Middle East,2015,Lab-made (synthetic + NPS),0.0,weight,pooled
+Near and Middle East,2016,Lab-made (synthetic + NPS),0.01974162872522438,weight,pooled
+Near and Middle East,2017,Lab-made (synthetic + NPS),0.09626793705636838,weight,pooled
+Near and Middle East,2018,Lab-made (synthetic + NPS),0.14383537356014664,weight,pooled
+Near and Middle East,2019,Lab-made (synthetic + NPS),0.004880747375614327,weight,pooled
+Near and Middle East,2020,Lab-made (synthetic + NPS),0.12462377477967283,weight,pooled
+Near and Middle East,2021,Lab-made (synthetic + NPS),0.44102853186143304,weight,pooled
+Near and Middle East,2022,Lab-made (synthetic + NPS),0.12210644140586864,weight,pooled
+Near and Middle East,2023,Lab-made (synthetic + NPS),0.31184148289337454,weight,pooled
+Near and Middle East,2024,Lab-made (synthetic + NPS),0.01446643070400811,weight,pooled
+Near and Middle East,2025,Lab-made (synthetic + NPS),0.061679868571840615,weight,pooled
+Near and Middle East,2026,Lab-made (synthetic + NPS),0.36468761974366903,weight,pooled
+North Africa,2011,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2012,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2013,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2014,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2015,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2016,Lab-made (synthetic + NPS),9.88434337927605e-07,weight,pooled
+North Africa,2017,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2018,Lab-made (synthetic + NPS),0.0009794940116237558,weight,pooled
+North Africa,2019,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2020,Lab-made (synthetic + NPS),4.646896536269825e-05,weight,pooled
+North Africa,2021,Lab-made (synthetic + NPS),4.0336099232192194e-05,weight,pooled
+North Africa,2022,Lab-made (synthetic + NPS),0.001953759416410075,weight,pooled
+North Africa,2023,Lab-made (synthetic + NPS),0.007693894858726528,weight,pooled
+North Africa,2024,Lab-made (synthetic + NPS),0.0,weight,pooled
+North Africa,2025,Lab-made (synthetic + NPS),6.695596219909185e-06,weight,pooled
+North Africa,2026,Lab-made (synthetic + NPS),0.0,weight,pooled

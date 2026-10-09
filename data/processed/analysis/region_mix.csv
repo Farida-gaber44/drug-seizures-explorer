@@ -1,0 +1,1471 @@
+region,year,project_group,share,measure,method
+Africa,2011,Plant-based,0.6,records,country_avg
+Africa,2012,Plant-based,0.8656936290497934,records,country_avg
+Africa,2013,Plant-based,0.83789592760181,records,country_avg
+Africa,2014,Plant-based,0.7381103244083259,records,country_avg
+Africa,2015,Plant-based,0.9960159362549801,records,country_avg
+Africa,2016,Plant-based,0.9957002457002457,records,country_avg
+Africa,2017,Plant-based,1.0,records,country_avg
+Africa,2018,Plant-based,0.8389144691138466,records,country_avg
+Africa,2019,Plant-based,0.8946064871436725,records,country_avg
+Africa,2020,Plant-based,0.7949052770992798,records,country_avg
+Africa,2021,Plant-based,0.7951324699264634,records,country_avg
+Africa,2022,Plant-based,0.7495467590995599,records,country_avg
+Africa,2023,Plant-based,0.722554013535496,records,country_avg
+Africa,2024,Plant-based,0.6999818648301296,records,country_avg
+Africa,2025,Plant-based,0.7695364199566673,records,country_avg
+Africa,2026,Plant-based,0.6924475709274084,records,country_avg
+Americas,2011,Plant-based,0.9983006518032832,records,country_avg
+Americas,2012,Plant-based,0.9819499556419478,records,country_avg
+Americas,2013,Plant-based,0.9654715899586688,records,country_avg
+Americas,2014,Plant-based,0.9715829247009179,records,country_avg
+Americas,2015,Plant-based,0.990018008747383,records,country_avg
+Americas,2016,Plant-based,0.9972784518653635,records,country_avg
+Americas,2017,Plant-based,0.9562902227790242,records,country_avg
+Americas,2018,Plant-based,0.9933848953731566,records,country_avg
+Americas,2019,Plant-based,0.9574936347882033,records,country_avg
+Americas,2020,Plant-based,0.8613684916523227,records,country_avg
+Americas,2021,Plant-based,0.9289523009901721,records,country_avg
+Americas,2022,Plant-based,0.9421540804887674,records,country_avg
+Americas,2023,Plant-based,0.9459582368499729,records,country_avg
+Americas,2024,Plant-based,0.948740141127249,records,country_avg
+Americas,2025,Plant-based,0.9140441043620868,records,country_avg
+Americas,2026,Plant-based,0.8963963963963963,records,country_avg
+Asia,2011,Plant-based,0.8286570325763761,records,country_avg
+Asia,2012,Plant-based,0.707763502246294,records,country_avg
+Asia,2013,Plant-based,0.6698456353314302,records,country_avg
+Asia,2014,Plant-based,0.8079648675237986,records,country_avg
+Asia,2015,Plant-based,0.7911037659599849,records,country_avg
+Asia,2016,Plant-based,0.6511058166943287,records,country_avg
+Asia,2017,Plant-based,0.6283747971188206,records,country_avg
+Asia,2018,Plant-based,0.6160489706974617,records,country_avg
+Asia,2019,Plant-based,0.6352024198149704,records,country_avg
+Asia,2020,Plant-based,0.6479655895039542,records,country_avg
+Asia,2021,Plant-based,0.5496030830184191,records,country_avg
+Asia,2022,Plant-based,0.4940079805353998,records,country_avg
+Asia,2023,Plant-based,0.5753037780329426,records,country_avg
+Asia,2024,Plant-based,0.5022246973243425,records,country_avg
+Asia,2025,Plant-based,0.5068612623118199,records,country_avg
+Asia,2026,Plant-based,0.5139081502026883,records,country_avg
+Europe,2011,Plant-based,0.7885026904332835,records,country_avg
+Europe,2012,Plant-based,0.8214108483612415,records,country_avg
+Europe,2013,Plant-based,0.7856055073469512,records,country_avg
+Europe,2014,Plant-based,0.7481917305566131,records,country_avg
+Europe,2015,Plant-based,0.6889657909594623,records,country_avg
+Europe,2016,Plant-based,0.6613463881515286,records,country_avg
+Europe,2017,Plant-based,0.662721982767294,records,country_avg
+Europe,2018,Plant-based,0.6652339905103851,records,country_avg
+Europe,2019,Plant-based,0.6547164830640199,records,country_avg
+Europe,2020,Plant-based,0.6754657042173666,records,country_avg
+Europe,2021,Plant-based,0.6888451107862563,records,country_avg
+Europe,2022,Plant-based,0.6972832712244934,records,country_avg
+Europe,2023,Plant-based,0.6917960362516157,records,country_avg
+Europe,2024,Plant-based,0.6778563736849171,records,country_avg
+Europe,2025,Plant-based,0.705493796508827,records,country_avg
+Europe,2026,Plant-based,0.6843039176353661,records,country_avg
+Oceania,2011,Plant-based,0.8130841121495327,records,country_avg
+Oceania,2012,Plant-based,0.703307718008687,records,country_avg
+Oceania,2013,Plant-based,0.6496536638716733,records,country_avg
+Oceania,2016,Plant-based,0.636934306569343,records,country_avg
+Oceania,2019,Plant-based,0.375,records,country_avg
+Oceania,2020,Plant-based,0.4,records,country_avg
+Oceania,2021,Plant-based,0.629783693843594,records,country_avg
+Oceania,2022,Plant-based,0.665059756954906,records,country_avg
+Oceania,2023,Plant-based,0.6058641105159289,records,country_avg
+Africa,2011,Synthetic,0.0,records,country_avg
+Africa,2012,Synthetic,0.13362143944335725,records,country_avg
+Africa,2013,Synthetic,0.09960407239819005,records,country_avg
+Africa,2014,Synthetic,0.0,records,country_avg
+Africa,2015,Synthetic,0.00398406374501992,records,country_avg
+Africa,2016,Synthetic,0.0042997542997543,records,country_avg
+Africa,2017,Synthetic,0.0,records,country_avg
+Africa,2018,Synthetic,0.08632524707996406,records,country_avg
+Africa,2019,Synthetic,0.02868614128053487,records,country_avg
+Africa,2020,Synthetic,0.09152956796898962,records,country_avg
+Africa,2021,Synthetic,0.11191361622999088,records,country_avg
+Africa,2022,Synthetic,0.10174845598954493,records,country_avg
+Africa,2023,Synthetic,0.10590183595617922,records,country_avg
+Africa,2024,Synthetic,0.09276351393254709,records,country_avg
+Africa,2025,Synthetic,0.07881715654932017,records,country_avg
+Africa,2026,Synthetic,0.1336653747646098,records,country_avg
+Americas,2011,Synthetic,0.0002844074103478569,records,country_avg
+Americas,2012,Synthetic,0.01705501948243033,records,country_avg
+Americas,2013,Synthetic,0.03374813127632172,records,country_avg
+Americas,2014,Synthetic,0.02841236409584074,records,country_avg
+Americas,2015,Synthetic,0.008452125724280493,records,country_avg
+Americas,2016,Synthetic,0.0015096452352231853,records,country_avg
+Americas,2017,Synthetic,0.0436977334426095,records,country_avg
+Americas,2018,Synthetic,0.004215833737150826,records,country_avg
+Americas,2019,Synthetic,0.04102409566350212,records,country_avg
+Americas,2020,Synthetic,0.131629969598882,records,country_avg
+Americas,2021,Synthetic,0.06286283083168032,records,country_avg
+Americas,2022,Synthetic,0.049791117415211104,records,country_avg
+Americas,2023,Synthetic,0.049348725019476083,records,country_avg
+Americas,2024,Synthetic,0.04601458869358959,records,country_avg
+Americas,2025,Synthetic,0.08595589563791325,records,country_avg
+Americas,2026,Synthetic,0.0990990990990991,records,country_avg
+Asia,2011,Synthetic,0.1395367852782623,records,country_avg
+Asia,2012,Synthetic,0.15275628091496282,records,country_avg
+Asia,2013,Synthetic,0.1956741125246675,records,country_avg
+Asia,2014,Synthetic,0.05931025430048796,records,country_avg
+Asia,2015,Synthetic,0.10705685828512969,records,country_avg
+Asia,2016,Synthetic,0.14851881969728514,records,country_avg
+Asia,2017,Synthetic,0.2357691364410733,records,country_avg
+Asia,2018,Synthetic,0.2716895385358084,records,country_avg
+Asia,2019,Synthetic,0.259935946200072,records,country_avg
+Asia,2020,Synthetic,0.24749010191231358,records,country_avg
+Asia,2021,Synthetic,0.2929421831540018,records,country_avg
+Asia,2022,Synthetic,0.3861655471083384,records,country_avg
+Asia,2023,Synthetic,0.34287647740370103,records,country_avg
+Asia,2024,Synthetic,0.39499567609057845,records,country_avg
+Asia,2025,Synthetic,0.31933129017881456,records,country_avg
+Asia,2026,Synthetic,0.47446394282056753,records,country_avg
+Europe,2011,Synthetic,0.13856602881321356,records,country_avg
+Europe,2012,Synthetic,0.0939504610119782,records,country_avg
+Europe,2013,Synthetic,0.11258902734152355,records,country_avg
+Europe,2014,Synthetic,0.14005816647309902,records,country_avg
+Europe,2015,Synthetic,0.14504953732976653,records,country_avg
+Europe,2016,Synthetic,0.22469877304238203,records,country_avg
+Europe,2017,Synthetic,0.19922439391898134,records,country_avg
+Europe,2018,Synthetic,0.1670502487862204,records,country_avg
+Europe,2019,Synthetic,0.17835594435296134,records,country_avg
+Europe,2020,Synthetic,0.17391298849128636,records,country_avg
+Europe,2021,Synthetic,0.1658929223873702,records,country_avg
+Europe,2022,Synthetic,0.1312760604510329,records,country_avg
+Europe,2023,Synthetic,0.15534010944024138,records,country_avg
+Europe,2024,Synthetic,0.15261992526176632,records,country_avg
+Europe,2025,Synthetic,0.15092738971681968,records,country_avg
+Europe,2026,Synthetic,0.09611068794514625,records,country_avg
+Oceania,2011,Synthetic,0.17445482866043613,records,country_avg
+Oceania,2012,Synthetic,0.0835282325425994,records,country_avg
+Oceania,2013,Synthetic,0.13415967918337587,records,country_avg
+Oceania,2016,Synthetic,0.2732846715328467,records,country_avg
+Oceania,2019,Synthetic,0.0,records,country_avg
+Oceania,2020,Synthetic,0.0,records,country_avg
+Oceania,2021,Synthetic,0.31771122203734514,records,country_avg
+Oceania,2022,Synthetic,0.28241438184192025,records,country_avg
+Oceania,2023,Synthetic,0.3198947467343295,records,country_avg
+Africa,2011,Pharmaceutical,0.4,records,country_avg
+Africa,2012,Pharmaceutical,0.0006849315068493151,records,country_avg
+Africa,2013,Pharmaceutical,0.0625,records,country_avg
+Africa,2014,Pharmaceutical,0.26091501672227846,records,country_avg
+Africa,2015,Pharmaceutical,0.0,records,country_avg
+Africa,2016,Pharmaceutical,0.0,records,country_avg
+Africa,2017,Pharmaceutical,0.0,records,country_avg
+Africa,2018,Pharmaceutical,0.07476028380618928,records,country_avg
+Africa,2019,Pharmaceutical,0.07670737157579263,records,country_avg
+Africa,2020,Pharmaceutical,0.1110041411943247,records,country_avg
+Africa,2021,Pharmaceutical,0.0919782584878576,records,country_avg
+Africa,2022,Pharmaceutical,0.11054516595097244,records,country_avg
+Africa,2023,Pharmaceutical,0.1449733163837851,records,country_avg
+Africa,2024,Pharmaceutical,0.1823863814046354,records,country_avg
+Africa,2025,Pharmaceutical,0.1425042906308761,records,country_avg
+Africa,2026,Pharmaceutical,0.16442333191050548,records,country_avg
+Americas,2011,Pharmaceutical,0.0014149407863688814,records,country_avg
+Americas,2012,Pharmaceutical,0.0009950248756218905,records,country_avg
+Americas,2013,Pharmaceutical,0.0007802787650095798,records,country_avg
+Americas,2014,Pharmaceutical,4.7112032413078305e-06,records,country_avg
+Americas,2015,Pharmaceutical,0.0013819802872834417,records,country_avg
+Americas,2016,Pharmaceutical,0.001146997001803186,records,country_avg
+Americas,2017,Pharmaceutical,4.337736135510877e-06,records,country_avg
+Americas,2018,Pharmaceutical,0.0006536349794681718,records,country_avg
+Americas,2019,Pharmaceutical,0.0010759269879480771,records,country_avg
+Americas,2020,Pharmaceutical,0.005733769668193505,records,country_avg
+Americas,2021,Pharmaceutical,0.007509181885151158,records,country_avg
+Americas,2022,Pharmaceutical,0.005949421553085325,records,country_avg
+Americas,2023,Pharmaceutical,0.003969035440996937,records,country_avg
+Americas,2024,Pharmaceutical,0.004603840041436697,records,country_avg
+Americas,2025,Pharmaceutical,0.0,records,country_avg
+Americas,2026,Pharmaceutical,0.0,records,country_avg
+Asia,2011,Pharmaceutical,0.024786452486920938,records,country_avg
+Asia,2012,Pharmaceutical,0.019670693029219245,records,country_avg
+Asia,2013,Pharmaceutical,0.002930642333422978,records,country_avg
+Asia,2014,Pharmaceutical,0.04979319954589087,records,country_avg
+Asia,2015,Pharmaceutical,0.0243840229426704,records,country_avg
+Asia,2016,Pharmaceutical,0.08398952875194825,records,country_avg
+Asia,2017,Pharmaceutical,0.029513954405985667,records,country_avg
+Asia,2018,Pharmaceutical,0.037818971483799514,records,country_avg
+Asia,2019,Pharmaceutical,0.030709106090707348,records,country_avg
+Asia,2020,Pharmaceutical,0.06373799758610418,records,country_avg
+Asia,2021,Pharmaceutical,0.06716363837414144,records,country_avg
+Asia,2022,Pharmaceutical,0.06294926294679601,records,country_avg
+Asia,2023,Pharmaceutical,0.04162949297884876,records,country_avg
+Asia,2024,Pharmaceutical,0.03408851944141873,records,country_avg
+Asia,2025,Pharmaceutical,0.110509010516575,records,country_avg
+Asia,2026,Pharmaceutical,0.0029069767441860465,records,country_avg
+Europe,2011,Pharmaceutical,0.04794743107082808,records,country_avg
+Europe,2012,Pharmaceutical,0.031036026702642504,records,country_avg
+Europe,2013,Pharmaceutical,0.013685702162239495,records,country_avg
+Europe,2014,Pharmaceutical,0.020755658594993696,records,country_avg
+Europe,2015,Pharmaceutical,0.02676742465947502,records,country_avg
+Europe,2016,Pharmaceutical,0.02769711681574224,records,country_avg
+Europe,2017,Pharmaceutical,0.04281817759602933,records,country_avg
+Europe,2018,Pharmaceutical,0.06929143021063981,records,country_avg
+Europe,2019,Pharmaceutical,0.06861903141671008,records,country_avg
+Europe,2020,Pharmaceutical,0.03734564284492317,records,country_avg
+Europe,2021,Pharmaceutical,0.05135164191030644,records,country_avg
+Europe,2022,Pharmaceutical,0.05678900460977544,records,country_avg
+Europe,2023,Pharmaceutical,0.03699789291869937,records,country_avg
+Europe,2024,Pharmaceutical,0.04992561886993569,records,country_avg
+Europe,2025,Pharmaceutical,0.035965597146227164,records,country_avg
+Europe,2026,Pharmaceutical,0.03189191866483644,records,country_avg
+Oceania,2011,Pharmaceutical,0.0,records,country_avg
+Oceania,2012,Pharmaceutical,0.14400267290344138,records,country_avg
+Oceania,2013,Pharmaceutical,0.13634706525701787,records,country_avg
+Oceania,2016,Pharmaceutical,0.03737226277372263,records,country_avg
+Oceania,2019,Pharmaceutical,0.0,records,country_avg
+Oceania,2020,Pharmaceutical,0.0,records,country_avg
+Oceania,2021,Pharmaceutical,0.021445738583841745,records,country_avg
+Oceania,2022,Pharmaceutical,0.028723511097720197,records,country_avg
+Oceania,2023,Pharmaceutical,0.04369890047927826,records,country_avg
+Africa,2011,New psychoactive substances,0.0,records,country_avg
+Africa,2012,New psychoactive substances,0.0,records,country_avg
+Africa,2013,New psychoactive substances,0.0,records,country_avg
+Africa,2014,New psychoactive substances,0.0009746588693957114,records,country_avg
+Africa,2015,New psychoactive substances,0.0,records,country_avg
+Africa,2016,New psychoactive substances,0.0,records,country_avg
+Africa,2017,New psychoactive substances,0.0,records,country_avg
+Africa,2018,New psychoactive substances,0.0,records,country_avg
+Africa,2019,New psychoactive substances,0.0,records,country_avg
+Africa,2020,New psychoactive substances,0.0025610137374058838,records,country_avg
+Africa,2021,New psychoactive substances,0.0009756553556882069,records,country_avg
+Africa,2022,New psychoactive substances,0.03815961895992267,records,country_avg
+Africa,2023,New psychoactive substances,0.026570834124539762,records,country_avg
+Africa,2024,New psychoactive substances,0.02486823983268791,records,country_avg
+Africa,2025,New psychoactive substances,0.009142132863136388,records,country_avg
+Africa,2026,New psychoactive substances,0.00946372239747634,records,country_avg
+Americas,2011,New psychoactive substances,0.0,records,country_avg
+Americas,2012,New psychoactive substances,0.0,records,country_avg
+Americas,2013,New psychoactive substances,0.0,records,country_avg
+Americas,2014,New psychoactive substances,0.0,records,country_avg
+Americas,2015,New psychoactive substances,0.00014788524105294293,records,country_avg
+Americas,2016,New psychoactive substances,6.490589761006003e-05,records,country_avg
+Americas,2017,New psychoactive substances,7.706042230652632e-06,records,country_avg
+Americas,2018,New psychoactive substances,0.001745635910224439,records,country_avg
+Americas,2019,New psychoactive substances,0.0004063425603465251,records,country_avg
+Americas,2020,New psychoactive substances,0.001267769080601779,records,country_avg
+Americas,2021,New psychoactive substances,0.0006756862929964331,records,country_avg
+Americas,2022,New psychoactive substances,0.0021053805429361943,records,country_avg
+Americas,2023,New psychoactive substances,0.000724002689554097,records,country_avg
+Americas,2024,New psychoactive substances,0.0006414301377247249,records,country_avg
+Americas,2025,New psychoactive substances,0.0,records,country_avg
+Americas,2026,New psychoactive substances,0.0045045045045045045,records,country_avg
+Asia,2011,New psychoactive substances,0.007019729658440696,records,country_avg
+Asia,2012,New psychoactive substances,0.11980952380952381,records,country_avg
+Asia,2013,New psychoactive substances,0.1315496098104794,records,country_avg
+Asia,2014,New psychoactive substances,0.08293167862982255,records,country_avg
+Asia,2015,New psychoactive substances,0.07745535281221504,records,country_avg
+Asia,2016,New psychoactive substances,0.11638583485643805,records,country_avg
+Asia,2017,New psychoactive substances,0.10634211203412045,records,country_avg
+Asia,2018,New psychoactive substances,0.07444251928293034,records,country_avg
+Asia,2019,New psychoactive substances,0.07415252789425027,records,country_avg
+Asia,2020,New psychoactive substances,0.04080631099762802,records,country_avg
+Asia,2021,New psychoactive substances,0.09029109545343779,records,country_avg
+Asia,2022,New psychoactive substances,0.05687720940946587,records,country_avg
+Asia,2023,New psychoactive substances,0.04019025158450759,records,country_avg
+Asia,2024,New psychoactive substances,0.06869110714366032,records,country_avg
+Asia,2025,New psychoactive substances,0.06329843699279056,records,country_avg
+Asia,2026,New psychoactive substances,0.00872093023255814,records,country_avg
+Europe,2011,New psychoactive substances,0.024983849682674975,records,country_avg
+Europe,2012,New psychoactive substances,0.0536026639241379,records,country_avg
+Europe,2013,New psychoactive substances,0.08811976314928577,records,country_avg
+Europe,2014,New psychoactive substances,0.09099444437529415,records,country_avg
+Europe,2015,New psychoactive substances,0.13921724705129612,records,country_avg
+Europe,2016,New psychoactive substances,0.0862577219903471,records,country_avg
+Europe,2017,New psychoactive substances,0.09523544571769534,records,country_avg
+Europe,2018,New psychoactive substances,0.09842433049275473,records,country_avg
+Europe,2019,New psychoactive substances,0.09830854116630874,records,country_avg
+Europe,2020,New psychoactive substances,0.11327566444642384,records,country_avg
+Europe,2021,New psychoactive substances,0.09391032491606703,records,country_avg
+Europe,2022,New psychoactive substances,0.11465166371469829,records,country_avg
+Europe,2023,New psychoactive substances,0.11586596138944363,records,country_avg
+Europe,2024,New psychoactive substances,0.11959808218338092,records,country_avg
+Europe,2025,New psychoactive substances,0.10761321662812608,records,country_avg
+Europe,2026,New psychoactive substances,0.18769347575465117,records,country_avg
+Oceania,2011,New psychoactive substances,0.012461059190031152,records,country_avg
+Oceania,2012,New psychoactive substances,0.0691613765452723,records,country_avg
+Oceania,2013,New psychoactive substances,0.07983959168793292,records,country_avg
+Oceania,2016,New psychoactive substances,0.052408759124087594,records,country_avg
+Oceania,2019,New psychoactive substances,0.625,records,country_avg
+Oceania,2020,New psychoactive substances,0.6,records,country_avg
+Oceania,2021,New psychoactive substances,0.03105934553521908,records,country_avg
+Oceania,2022,New psychoactive substances,0.02380235010545345,records,country_avg
+Oceania,2023,New psychoactive substances,0.030542242270463302,records,country_avg
+Africa,2011,Lab-made (synthetic + NPS),0.0,records,country_avg
+Africa,2012,Lab-made (synthetic + NPS),0.13362143944335725,records,country_avg
+Africa,2013,Lab-made (synthetic + NPS),0.09960407239819005,records,country_avg
+Africa,2014,Lab-made (synthetic + NPS),0.0009746588693957114,records,country_avg
+Africa,2015,Lab-made (synthetic + NPS),0.00398406374501992,records,country_avg
+Africa,2016,Lab-made (synthetic + NPS),0.0042997542997543,records,country_avg
+Africa,2017,Lab-made (synthetic + NPS),0.0,records,country_avg
+Africa,2018,Lab-made (synthetic + NPS),0.08632524707996406,records,country_avg
+Africa,2019,Lab-made (synthetic + NPS),0.02868614128053487,records,country_avg
+Africa,2020,Lab-made (synthetic + NPS),0.0940905817063955,records,country_avg
+Africa,2021,Lab-made (synthetic + NPS),0.11288927158567907,records,country_avg
+Africa,2022,Lab-made (synthetic + NPS),0.1399080749494676,records,country_avg
+Africa,2023,Lab-made (synthetic + NPS),0.132472670080719,records,country_avg
+Africa,2024,Lab-made (synthetic + NPS),0.117631753765235,records,country_avg
+Africa,2025,Lab-made (synthetic + NPS),0.08795928941245655,records,country_avg
+Africa,2026,Lab-made (synthetic + NPS),0.14312909716208613,records,country_avg
+Americas,2011,Lab-made (synthetic + NPS),0.0002844074103478569,records,country_avg
+Americas,2012,Lab-made (synthetic + NPS),0.01705501948243033,records,country_avg
+Americas,2013,Lab-made (synthetic + NPS),0.03374813127632172,records,country_avg
+Americas,2014,Lab-made (synthetic + NPS),0.02841236409584074,records,country_avg
+Americas,2015,Lab-made (synthetic + NPS),0.008600010965333435,records,country_avg
+Americas,2016,Lab-made (synthetic + NPS),0.0015745511328332455,records,country_avg
+Americas,2017,Lab-made (synthetic + NPS),0.04370543948484015,records,country_avg
+Americas,2018,Lab-made (synthetic + NPS),0.005961469647375265,records,country_avg
+Americas,2019,Lab-made (synthetic + NPS),0.04143043822384864,records,country_avg
+Americas,2020,Lab-made (synthetic + NPS),0.1328977386794838,records,country_avg
+Americas,2021,Lab-made (synthetic + NPS),0.06353851712467676,records,country_avg
+Americas,2022,Lab-made (synthetic + NPS),0.051896497958147304,records,country_avg
+Americas,2023,Lab-made (synthetic + NPS),0.05007272770903018,records,country_avg
+Americas,2024,Lab-made (synthetic + NPS),0.046656018831314316,records,country_avg
+Americas,2025,Lab-made (synthetic + NPS),0.08595589563791325,records,country_avg
+Americas,2026,Lab-made (synthetic + NPS),0.1036036036036036,records,country_avg
+Asia,2011,Lab-made (synthetic + NPS),0.146556514936703,records,country_avg
+Asia,2012,Lab-made (synthetic + NPS),0.27256580472448666,records,country_avg
+Asia,2013,Lab-made (synthetic + NPS),0.3272237223351469,records,country_avg
+Asia,2014,Lab-made (synthetic + NPS),0.1422419329303105,records,country_avg
+Asia,2015,Lab-made (synthetic + NPS),0.18451221109734472,records,country_avg
+Asia,2016,Lab-made (synthetic + NPS),0.26490465455372314,records,country_avg
+Asia,2017,Lab-made (synthetic + NPS),0.3421112484751937,records,country_avg
+Asia,2018,Lab-made (synthetic + NPS),0.3461320578187388,records,country_avg
+Asia,2019,Lab-made (synthetic + NPS),0.33408847409432224,records,country_avg
+Asia,2020,Lab-made (synthetic + NPS),0.28829641290994157,records,country_avg
+Asia,2021,Lab-made (synthetic + NPS),0.38323327860743955,records,country_avg
+Asia,2022,Lab-made (synthetic + NPS),0.4430427565178042,records,country_avg
+Asia,2023,Lab-made (synthetic + NPS),0.38306672898820865,records,country_avg
+Asia,2024,Lab-made (synthetic + NPS),0.46368678323423873,records,country_avg
+Asia,2025,Lab-made (synthetic + NPS),0.38262972717160515,records,country_avg
+Asia,2026,Lab-made (synthetic + NPS),0.4831848730531257,records,country_avg
+Europe,2011,Lab-made (synthetic + NPS),0.16354987849588853,records,country_avg
+Europe,2012,Lab-made (synthetic + NPS),0.14755312493611608,records,country_avg
+Europe,2013,Lab-made (synthetic + NPS),0.20070879049080934,records,country_avg
+Europe,2014,Lab-made (synthetic + NPS),0.23105261084839315,records,country_avg
+Europe,2015,Lab-made (synthetic + NPS),0.2842667843810626,records,country_avg
+Europe,2016,Lab-made (synthetic + NPS),0.31095649503272915,records,country_avg
+Europe,2017,Lab-made (synthetic + NPS),0.29445983963667666,records,country_avg
+Europe,2018,Lab-made (synthetic + NPS),0.2654745792789751,records,country_avg
+Europe,2019,Lab-made (synthetic + NPS),0.2766644855192701,records,country_avg
+Europe,2020,Lab-made (synthetic + NPS),0.2871886529377102,records,country_avg
+Europe,2021,Lab-made (synthetic + NPS),0.25980324730343723,records,country_avg
+Europe,2022,Lab-made (synthetic + NPS),0.2459277241657312,records,country_avg
+Europe,2023,Lab-made (synthetic + NPS),0.271206070829685,records,country_avg
+Europe,2024,Lab-made (synthetic + NPS),0.27221800744514724,records,country_avg
+Europe,2025,Lab-made (synthetic + NPS),0.25854060634494574,records,country_avg
+Europe,2026,Lab-made (synthetic + NPS),0.28380416369979744,records,country_avg
+Oceania,2011,Lab-made (synthetic + NPS),0.18691588785046728,records,country_avg
+Oceania,2012,Lab-made (synthetic + NPS),0.1526896090878717,records,country_avg
+Oceania,2013,Lab-made (synthetic + NPS),0.2139992708713088,records,country_avg
+Oceania,2016,Lab-made (synthetic + NPS),0.3256934306569343,records,country_avg
+Oceania,2019,Lab-made (synthetic + NPS),0.625,records,country_avg
+Oceania,2020,Lab-made (synthetic + NPS),0.6,records,country_avg
+Oceania,2021,Lab-made (synthetic + NPS),0.3487705675725642,records,country_avg
+Oceania,2022,Lab-made (synthetic + NPS),0.3062167319473737,records,country_avg
+Oceania,2023,Lab-made (synthetic + NPS),0.3504369890047928,records,country_avg
+Africa,2011,Plant-based,0.8840335511832033,weight,country_avg
+Africa,2012,Plant-based,0.9307249609264381,weight,country_avg
+Africa,2013,Plant-based,0.8452456636771674,weight,country_avg
+Africa,2014,Plant-based,0.9999795698337041,weight,country_avg
+Africa,2015,Plant-based,0.9999943913185338,weight,country_avg
+Africa,2016,Plant-based,0.9999997500065511,weight,country_avg
+Africa,2017,Plant-based,1.0,weight,country_avg
+Africa,2018,Plant-based,0.9899369546513608,weight,country_avg
+Africa,2019,Plant-based,0.88989833086735,weight,country_avg
+Africa,2020,Plant-based,0.9931438393499314,weight,country_avg
+Africa,2021,Plant-based,0.9439720132578161,weight,country_avg
+Africa,2022,Plant-based,0.9365569684213579,weight,country_avg
+Africa,2023,Plant-based,0.91479002441029,weight,country_avg
+Africa,2024,Plant-based,0.8596389266033434,weight,country_avg
+Africa,2025,Plant-based,0.8950733760341908,weight,country_avg
+Africa,2026,Plant-based,0.8191277103590994,weight,country_avg
+Americas,2011,Plant-based,0.9999868597193756,weight,country_avg
+Americas,2012,Plant-based,0.9759349285279766,weight,country_avg
+Americas,2013,Plant-based,0.9900039203900441,weight,country_avg
+Americas,2014,Plant-based,0.962724067288631,weight,country_avg
+Americas,2015,Plant-based,0.9999926103765583,weight,country_avg
+Americas,2016,Plant-based,0.9999688181091649,weight,country_avg
+Americas,2017,Plant-based,0.9962433299788587,weight,country_avg
+Americas,2018,Plant-based,0.9999688948352706,weight,country_avg
+Americas,2019,Plant-based,0.989576372336642,weight,country_avg
+Americas,2020,Plant-based,0.9466637495197281,weight,country_avg
+Americas,2021,Plant-based,0.9900562447057334,weight,country_avg
+Americas,2022,Plant-based,0.9853757921025081,weight,country_avg
+Americas,2023,Plant-based,0.9960740365386189,weight,country_avg
+Americas,2024,Plant-based,0.9707564892846411,weight,country_avg
+Americas,2025,Plant-based,0.9465408470129859,weight,country_avg
+Americas,2026,Plant-based,0.9994514767492648,weight,country_avg
+Asia,2011,Plant-based,0.9197711525114033,weight,country_avg
+Asia,2012,Plant-based,0.7365677341465071,weight,country_avg
+Asia,2013,Plant-based,0.6868004845012639,weight,country_avg
+Asia,2014,Plant-based,0.8731107634104766,weight,country_avg
+Asia,2015,Plant-based,0.9429452147553256,weight,country_avg
+Asia,2016,Plant-based,0.9493178134658777,weight,country_avg
+Asia,2017,Plant-based,0.8747484343785511,weight,country_avg
+Asia,2018,Plant-based,0.8377368507510866,weight,country_avg
+Asia,2019,Plant-based,0.8391256486441042,weight,country_avg
+Asia,2020,Plant-based,0.8649218400869716,weight,country_avg
+Asia,2021,Plant-based,0.8136343621712223,weight,country_avg
+Asia,2022,Plant-based,0.7312453867003901,weight,country_avg
+Asia,2023,Plant-based,0.752926353276438,weight,country_avg
+Asia,2024,Plant-based,0.722510006834857,weight,country_avg
+Asia,2025,Plant-based,0.8064065112846847,weight,country_avg
+Asia,2026,Plant-based,0.6525756524299854,weight,country_avg
+Europe,2011,Plant-based,0.9354427462558849,weight,country_avg
+Europe,2012,Plant-based,0.9680623558581942,weight,country_avg
+Europe,2013,Plant-based,0.9425438778701858,weight,country_avg
+Europe,2014,Plant-based,0.8914232968908846,weight,country_avg
+Europe,2015,Plant-based,0.8723242228217222,weight,country_avg
+Europe,2016,Plant-based,0.8194315479201921,weight,country_avg
+Europe,2017,Plant-based,0.9205819415438836,weight,country_avg
+Europe,2018,Plant-based,0.8661727767965162,weight,country_avg
+Europe,2019,Plant-based,0.8943110643927078,weight,country_avg
+Europe,2020,Plant-based,0.8758852938083973,weight,country_avg
+Europe,2021,Plant-based,0.8825270780029753,weight,country_avg
+Europe,2022,Plant-based,0.8530767318093977,weight,country_avg
+Europe,2023,Plant-based,0.8846184662265487,weight,country_avg
+Europe,2024,Plant-based,0.8813222030326938,weight,country_avg
+Europe,2025,Plant-based,0.8655314643363281,weight,country_avg
+Europe,2026,Plant-based,0.8984228489213778,weight,country_avg
+Oceania,2011,Plant-based,0.9479525262713411,weight,country_avg
+Oceania,2012,Plant-based,0.8362544974999953,weight,country_avg
+Oceania,2013,Plant-based,0.7951820340676141,weight,country_avg
+Oceania,2016,Plant-based,0.36683826121893526,weight,country_avg
+Oceania,2019,Plant-based,0.8681145505563246,weight,country_avg
+Oceania,2020,Plant-based,0.5218060007565652,weight,country_avg
+Oceania,2021,Plant-based,0.37273330025016077,weight,country_avg
+Oceania,2022,Plant-based,0.4824811489272996,weight,country_avg
+Oceania,2023,Plant-based,0.5710412602732455,weight,country_avg
+Africa,2011,Synthetic,0.0,weight,country_avg
+Africa,2012,Synthetic,0.06927422140963539,weight,country_avg
+Africa,2013,Synthetic,0.15475433632283261,weight,country_avg
+Africa,2014,Synthetic,0.0,weight,country_avg
+Africa,2015,Synthetic,5.608681466078354e-06,weight,country_avg
+Africa,2016,Synthetic,2.4999344891243113e-07,weight,country_avg
+Africa,2017,Synthetic,0.0,weight,country_avg
+Africa,2018,Synthetic,0.002290681279090003,weight,country_avg
+Africa,2019,Synthetic,0.009529922747157641,weight,country_avg
+Africa,2020,Synthetic,0.002742035223077253,weight,country_avg
+Africa,2021,Synthetic,0.028970308786367565,weight,country_avg
+Africa,2022,Synthetic,0.01737081015357211,weight,country_avg
+Africa,2023,Synthetic,0.01234744495722048,weight,country_avg
+Africa,2024,Synthetic,0.009451061791009432,weight,country_avg
+Africa,2025,Synthetic,0.03242642460989567,weight,country_avg
+Africa,2026,Synthetic,0.1808606882727207,weight,country_avg
+Americas,2011,Synthetic,8.174162592154177e-06,weight,country_avg
+Americas,2012,Synthetic,0.02406507147202334,weight,country_avg
+Americas,2013,Synthetic,0.0094202743826999,weight,country_avg
+Americas,2014,Synthetic,0.03676963700181386,weight,country_avg
+Americas,2015,Synthetic,1.386521331542643e-09,weight,country_avg
+Americas,2016,Synthetic,3.111374149644802e-05,weight,country_avg
+Americas,2017,Synthetic,0.0037566681283358622,weight,country_avg
+Americas,2018,Synthetic,2.965431284103685e-05,weight,country_avg
+Americas,2019,Synthetic,0.010423627663358012,weight,country_avg
+Americas,2020,Synthetic,0.04913300556478572,weight,country_avg
+Americas,2021,Synthetic,0.006208284835303124,weight,country_avg
+Americas,2022,Synthetic,0.00566674422823456,weight,country_avg
+Americas,2023,Synthetic,0.0032099612748391127,weight,country_avg
+Americas,2024,Synthetic,0.026998562290139323,weight,country_avg
+Americas,2025,Synthetic,0.05345915298701422,weight,country_avg
+Americas,2026,Synthetic,0.00043229302941823384,weight,country_avg
+Asia,2011,Synthetic,0.07683779739100133,weight,country_avg
+Asia,2012,Synthetic,0.15532781337100104,weight,country_avg
+Asia,2013,Synthetic,0.202677512675022,weight,country_avg
+Asia,2014,Synthetic,0.0627617842526346,weight,country_avg
+Asia,2015,Synthetic,0.03758682385476033,weight,country_avg
+Asia,2016,Synthetic,0.01588409296400177,weight,country_avg
+Asia,2017,Synthetic,0.08800425207856717,weight,country_avg
+Asia,2018,Synthetic,0.11012474352433901,weight,country_avg
+Asia,2019,Synthetic,0.11326871491364289,weight,country_avg
+Asia,2020,Synthetic,0.11730712314279665,weight,country_avg
+Asia,2021,Synthetic,0.17159686578463051,weight,country_avg
+Asia,2022,Synthetic,0.24859022855160748,weight,country_avg
+Asia,2023,Synthetic,0.21530170428927695,weight,country_avg
+Asia,2024,Synthetic,0.2418038931705922,weight,country_avg
+Asia,2025,Synthetic,0.1224696983909185,weight,country_avg
+Asia,2026,Synthetic,0.346087476955539,weight,country_avg
+Europe,2011,Synthetic,0.05786299188797392,weight,country_avg
+Europe,2012,Synthetic,0.021151973433196417,weight,country_avg
+Europe,2013,Synthetic,0.03281699282046749,weight,country_avg
+Europe,2014,Synthetic,0.057935532514729014,weight,country_avg
+Europe,2015,Synthetic,0.0261559668415299,weight,country_avg
+Europe,2016,Synthetic,0.12316507213541329,weight,country_avg
+Europe,2017,Synthetic,0.058614927351933584,weight,country_avg
+Europe,2018,Synthetic,0.06950761366624948,weight,country_avg
+Europe,2019,Synthetic,0.043755850740445225,weight,country_avg
+Europe,2020,Synthetic,0.042621803101291725,weight,country_avg
+Europe,2021,Synthetic,0.047235118116285155,weight,country_avg
+Europe,2022,Synthetic,0.044790530039247656,weight,country_avg
+Europe,2023,Synthetic,0.03179778975117054,weight,country_avg
+Europe,2024,Synthetic,0.06664176460494457,weight,country_avg
+Europe,2025,Synthetic,0.05385854774185987,weight,country_avg
+Europe,2026,Synthetic,0.03183092377997849,weight,country_avg
+Oceania,2011,Synthetic,0.05204747372865891,weight,country_avg
+Oceania,2012,Synthetic,0.036280306359576096,weight,country_avg
+Oceania,2013,Synthetic,0.03409810505700554,weight,country_avg
+Oceania,2016,Synthetic,0.5103245737326633,weight,country_avg
+Oceania,2019,Synthetic,0.0,weight,country_avg
+Oceania,2020,Synthetic,0.0,weight,country_avg
+Oceania,2021,Synthetic,0.6056716494553692,weight,country_avg
+Oceania,2022,Synthetic,0.49549554068141655,weight,country_avg
+Oceania,2023,Synthetic,0.4038623549422955,weight,country_avg
+Africa,2011,Pharmaceutical,0.11596644881679674,weight,country_avg
+Africa,2012,Pharmaceutical,8.176639264664251e-07,weight,country_avg
+Africa,2013,Pharmaceutical,0.0,weight,country_avg
+Africa,2014,Pharmaceutical,1.798526519634699e-06,weight,country_avg
+Africa,2015,Pharmaceutical,0.0,weight,country_avg
+Africa,2016,Pharmaceutical,0.0,weight,country_avg
+Africa,2017,Pharmaceutical,0.0,weight,country_avg
+Africa,2018,Pharmaceutical,0.007772364069549168,weight,country_avg
+Africa,2019,Pharmaceutical,0.10057174638549235,weight,country_avg
+Africa,2020,Pharmaceutical,0.004094707962479195,weight,country_avg
+Africa,2021,Pharmaceutical,0.0270415910769025,weight,country_avg
+Africa,2022,Pharmaceutical,0.037880080294091914,weight,country_avg
+Africa,2023,Pharmaceutical,0.031795628241857714,weight,country_avg
+Africa,2024,Pharmaceutical,0.12675368562946654,weight,country_avg
+Africa,2025,Pharmaceutical,0.07216982972850822,weight,country_avg
+Africa,2026,Pharmaceutical,5.913135682042653e-06,weight,country_avg
+Americas,2011,Pharmaceutical,4.966118032139384e-06,weight,country_avg
+Americas,2012,Pharmaceutical,0.0,weight,country_avg
+Americas,2013,Pharmaceutical,0.0005758052272560161,weight,country_avg
+Americas,2014,Pharmaceutical,0.0005062957095551056,weight,country_avg
+Americas,2015,Pharmaceutical,0.0,weight,country_avg
+Americas,2016,Pharmaceutical,0.0,weight,country_avg
+Americas,2017,Pharmaceutical,1.8928055004752583e-09,weight,country_avg
+Americas,2018,Pharmaceutical,0.0,weight,country_avg
+Americas,2019,Pharmaceutical,0.0,weight,country_avg
+Americas,2020,Pharmaceutical,0.0008567969676107417,weight,country_avg
+Americas,2021,Pharmaceutical,0.0015360706794357729,weight,country_avg
+Americas,2022,Pharmaceutical,0.00043042461632957564,weight,country_avg
+Americas,2023,Pharmaceutical,0.0006163960945637051,weight,country_avg
+Americas,2024,Pharmaceutical,0.0019897131063735655,weight,country_avg
+Americas,2025,Pharmaceutical,0.0,weight,country_avg
+Americas,2026,Pharmaceutical,0.0,weight,country_avg
+Asia,2011,Pharmaceutical,0.00024553288517689003,weight,country_avg
+Asia,2012,Pharmaceutical,0.0001715129655218157,weight,country_avg
+Asia,2013,Pharmaceutical,0.0,weight,country_avg
+Asia,2014,Pharmaceutical,0.007949641249677149,weight,country_avg
+Asia,2015,Pharmaceutical,0.0014608402070703228,weight,country_avg
+Asia,2016,Pharmaceutical,0.029060638621936613,weight,country_avg
+Asia,2017,Pharmaceutical,0.006050700166386762,weight,country_avg
+Asia,2018,Pharmaceutical,0.0005221330661224774,weight,country_avg
+Asia,2019,Pharmaceutical,0.0003092274247514848,weight,country_avg
+Asia,2020,Pharmaceutical,0.0027746511604107888,weight,country_avg
+Asia,2021,Pharmaceutical,0.0006567735952905608,weight,country_avg
+Asia,2022,Pharmaceutical,0.002959698265578654,weight,country_avg
+Asia,2023,Pharmaceutical,0.007391289940641721,weight,country_avg
+Asia,2024,Pharmaceutical,0.01355290881050006,weight,country_avg
+Asia,2025,Pharmaceutical,0.003530292022471753,weight,country_avg
+Asia,2026,Pharmaceutical,0.0,weight,country_avg
+Europe,2011,Pharmaceutical,0.0025160299838827057,weight,country_avg
+Europe,2012,Pharmaceutical,0.0006573592255087992,weight,country_avg
+Europe,2013,Pharmaceutical,0.0006417549521626692,weight,country_avg
+Europe,2014,Pharmaceutical,0.0013471274955833051,weight,country_avg
+Europe,2015,Pharmaceutical,8.828670383548099e-05,weight,country_avg
+Europe,2016,Pharmaceutical,3.560246668240643e-05,weight,country_avg
+Europe,2017,Pharmaceutical,0.002599800019036768,weight,country_avg
+Europe,2018,Pharmaceutical,0.011198199790648547,weight,country_avg
+Europe,2019,Pharmaceutical,0.0068610378634217945,weight,country_avg
+Europe,2020,Pharmaceutical,0.001057058628098665,weight,country_avg
+Europe,2021,Pharmaceutical,0.0007662794886757464,weight,country_avg
+Europe,2022,Pharmaceutical,0.002328005100207552,weight,country_avg
+Europe,2023,Pharmaceutical,0.001773735144612911,weight,country_avg
+Europe,2024,Pharmaceutical,0.0020537012873419634,weight,country_avg
+Europe,2025,Pharmaceutical,0.0005300223559620368,weight,country_avg
+Europe,2026,Pharmaceutical,0.0010073908422651929,weight,country_avg
+Oceania,2011,Pharmaceutical,0.0,weight,country_avg
+Oceania,2012,Pharmaceutical,0.0729521949753605,weight,country_avg
+Oceania,2013,Pharmaceutical,0.0028242719170459736,weight,country_avg
+Oceania,2016,Pharmaceutical,5.1745091348581145e-05,weight,country_avg
+Oceania,2019,Pharmaceutical,0.0,weight,country_avg
+Oceania,2020,Pharmaceutical,0.0,weight,country_avg
+Oceania,2021,Pharmaceutical,7.404568056023645e-05,weight,country_avg
+Oceania,2022,Pharmaceutical,0.0012645762954146976,weight,country_avg
+Oceania,2023,Pharmaceutical,0.005553897919538226,weight,country_avg
+Africa,2011,New psychoactive substances,0.0,weight,country_avg
+Africa,2012,New psychoactive substances,0.0,weight,country_avg
+Africa,2013,New psychoactive substances,0.0,weight,country_avg
+Africa,2014,New psychoactive substances,1.8631639776277862e-05,weight,country_avg
+Africa,2015,New psychoactive substances,0.0,weight,country_avg
+Africa,2016,New psychoactive substances,0.0,weight,country_avg
+Africa,2017,New psychoactive substances,0.0,weight,country_avg
+Africa,2018,New psychoactive substances,0.0,weight,country_avg
+Africa,2019,New psychoactive substances,0.0,weight,country_avg
+Africa,2020,New psychoactive substances,1.941746451209842e-05,weight,country_avg
+Africa,2021,New psychoactive substances,1.6086878913788756e-05,weight,country_avg
+Africa,2022,New psychoactive substances,0.00819214113097798,weight,country_avg
+Africa,2023,New psychoactive substances,0.04106690239063174,weight,country_avg
+Africa,2024,New psychoactive substances,0.00415632597618073,weight,country_avg
+Africa,2025,New psychoactive substances,0.0003303696274052928,weight,country_avg
+Africa,2026,New psychoactive substances,5.688232497851683e-06,weight,country_avg
+Americas,2011,New psychoactive substances,0.0,weight,country_avg
+Americas,2012,New psychoactive substances,0.0,weight,country_avg
+Americas,2013,New psychoactive substances,0.0,weight,country_avg
+Americas,2014,New psychoactive substances,0.0,weight,country_avg
+Americas,2015,New psychoactive substances,7.388236920450484e-06,weight,country_avg
+Americas,2016,New psychoactive substances,6.814933863334611e-08,weight,country_avg
+Americas,2017,New psychoactive substances,0.0,weight,country_avg
+Americas,2018,New psychoactive substances,1.4508518882696025e-06,weight,country_avg
+Americas,2019,New psychoactive substances,0.0,weight,country_avg
+Americas,2020,New psychoactive substances,0.003346447947875541,weight,country_avg
+Americas,2021,New psychoactive substances,0.002199399779527806,weight,country_avg
+Americas,2022,New psychoactive substances,0.008527039052927784,weight,country_avg
+Americas,2023,New psychoactive substances,9.960609197833074e-05,weight,country_avg
+Americas,2024,New psychoactive substances,0.00025523531884606704,weight,country_avg
+Americas,2025,New psychoactive substances,0.0,weight,country_avg
+Americas,2026,New psychoactive substances,0.00011623022131693532,weight,country_avg
+Asia,2011,New psychoactive substances,0.003145517212418564,weight,country_avg
+Asia,2012,New psychoactive substances,0.10793293951697003,weight,country_avg
+Asia,2013,New psychoactive substances,0.11052200282371422,weight,country_avg
+Asia,2014,New psychoactive substances,0.0561778110872117,weight,country_avg
+Asia,2015,New psychoactive substances,0.018007121182843807,weight,country_avg
+Asia,2016,New psychoactive substances,0.005737454948183992,weight,country_avg
+Asia,2017,New psychoactive substances,0.03119661337649502,weight,country_avg
+Asia,2018,New psychoactive substances,0.0516162726584519,weight,country_avg
+Asia,2019,New psychoactive substances,0.04729640901750139,weight,country_avg
+Asia,2020,New psychoactive substances,0.014996385609821012,weight,country_avg
+Asia,2021,New psychoactive substances,0.014111998448856676,weight,country_avg
+Asia,2022,New psychoactive substances,0.01720468648242387,weight,country_avg
+Asia,2023,New psychoactive substances,0.024380652493643417,weight,country_avg
+Asia,2024,New psychoactive substances,0.022133191184050813,weight,country_avg
+Asia,2025,New psychoactive substances,0.06759349830192517,weight,country_avg
+Asia,2026,New psychoactive substances,0.0013368706144756073,weight,country_avg
+Europe,2011,New psychoactive substances,0.00417823187225845,weight,country_avg
+Europe,2012,New psychoactive substances,0.010128311483100635,weight,country_avg
+Europe,2013,New psychoactive substances,0.023997374357183947,weight,country_avg
+Europe,2014,New psychoactive substances,0.04929404309880312,weight,country_avg
+Europe,2015,New psychoactive substances,0.10143152363291233,weight,country_avg
+Europe,2016,New psychoactive substances,0.05736777747771223,weight,country_avg
+Europe,2017,New psychoactive substances,0.01820333108514601,weight,country_avg
+Europe,2018,New psychoactive substances,0.05312140974658584,weight,country_avg
+Europe,2019,New psychoactive substances,0.05507204700342513,weight,country_avg
+Europe,2020,New psychoactive substances,0.08043584446221236,weight,country_avg
+Europe,2021,New psychoactive substances,0.06947152439206382,weight,country_avg
+Europe,2022,New psychoactive substances,0.09980473305114712,weight,country_avg
+Europe,2023,New psychoactive substances,0.08181000887766779,weight,country_avg
+Europe,2024,New psychoactive substances,0.04998233107501956,weight,country_avg
+Europe,2025,New psychoactive substances,0.08007996556585005,weight,country_avg
+Europe,2026,New psychoactive substances,0.06873883645637852,weight,country_avg
+Oceania,2011,New psychoactive substances,0.0,weight,country_avg
+Oceania,2012,New psychoactive substances,0.05451300116506812,weight,country_avg
+Oceania,2013,New psychoactive substances,0.16789558895833442,weight,country_avg
+Oceania,2016,New psychoactive substances,0.12278541995705287,weight,country_avg
+Oceania,2019,New psychoactive substances,0.13188544944367556,weight,country_avg
+Oceania,2020,New psychoactive substances,0.4781939992434348,weight,country_avg
+Oceania,2021,New psychoactive substances,0.02152100461390959,weight,country_avg
+Oceania,2022,New psychoactive substances,0.020758734095869178,weight,country_avg
+Oceania,2023,New psychoactive substances,0.01954248686492065,weight,country_avg
+Africa,2011,Lab-made (synthetic + NPS),0.0,weight,country_avg
+Africa,2012,Lab-made (synthetic + NPS),0.06927422140963539,weight,country_avg
+Africa,2013,Lab-made (synthetic + NPS),0.15475433632283261,weight,country_avg
+Africa,2014,Lab-made (synthetic + NPS),1.8631639776277862e-05,weight,country_avg
+Africa,2015,Lab-made (synthetic + NPS),5.608681466078354e-06,weight,country_avg
+Africa,2016,Lab-made (synthetic + NPS),2.4999344891243113e-07,weight,country_avg
+Africa,2017,Lab-made (synthetic + NPS),0.0,weight,country_avg
+Africa,2018,Lab-made (synthetic + NPS),0.002290681279090003,weight,country_avg
+Africa,2019,Lab-made (synthetic + NPS),0.009529922747157641,weight,country_avg
+Africa,2020,Lab-made (synthetic + NPS),0.002761452687589352,weight,country_avg
+Africa,2021,Lab-made (synthetic + NPS),0.028986395665281356,weight,country_avg
+Africa,2022,Lab-made (synthetic + NPS),0.02556295128455009,weight,country_avg
+Africa,2023,Lab-made (synthetic + NPS),0.05341434734785222,weight,country_avg
+Africa,2024,Lab-made (synthetic + NPS),0.013607387767190159,weight,country_avg
+Africa,2025,Lab-made (synthetic + NPS),0.03275679423730096,weight,country_avg
+Africa,2026,Lab-made (synthetic + NPS),0.18086637650521856,weight,country_avg
+Americas,2011,Lab-made (synthetic + NPS),8.174162592154177e-06,weight,country_avg
+Americas,2012,Lab-made (synthetic + NPS),0.02406507147202334,weight,country_avg
+Americas,2013,Lab-made (synthetic + NPS),0.0094202743826999,weight,country_avg
+Americas,2014,Lab-made (synthetic + NPS),0.03676963700181386,weight,country_avg
+Americas,2015,Lab-made (synthetic + NPS),7.3896234417820276e-06,weight,country_avg
+Americas,2016,Lab-made (synthetic + NPS),3.1181890835081366e-05,weight,country_avg
+Americas,2017,Lab-made (synthetic + NPS),0.0037566681283358622,weight,country_avg
+Americas,2018,Lab-made (synthetic + NPS),3.110516472930645e-05,weight,country_avg
+Americas,2019,Lab-made (synthetic + NPS),0.010423627663358012,weight,country_avg
+Americas,2020,Lab-made (synthetic + NPS),0.052479453512661256,weight,country_avg
+Americas,2021,Lab-made (synthetic + NPS),0.008407684614830931,weight,country_avg
+Americas,2022,Lab-made (synthetic + NPS),0.014193783281162345,weight,country_avg
+Americas,2023,Lab-made (synthetic + NPS),0.0033095673668174434,weight,country_avg
+Americas,2024,Lab-made (synthetic + NPS),0.027253797608985386,weight,country_avg
+Americas,2025,Lab-made (synthetic + NPS),0.05345915298701422,weight,country_avg
+Americas,2026,Lab-made (synthetic + NPS),0.0005485232507351692,weight,country_avg
+Asia,2011,Lab-made (synthetic + NPS),0.0799833146034199,weight,country_avg
+Asia,2012,Lab-made (synthetic + NPS),0.263260752887971,weight,country_avg
+Asia,2013,Lab-made (synthetic + NPS),0.3131995154987362,weight,country_avg
+Asia,2014,Lab-made (synthetic + NPS),0.11893959533984629,weight,country_avg
+Asia,2015,Lab-made (synthetic + NPS),0.055593945037604134,weight,country_avg
+Asia,2016,Lab-made (synthetic + NPS),0.021621547912185762,weight,country_avg
+Asia,2017,Lab-made (synthetic + NPS),0.1192008654550622,weight,country_avg
+Asia,2018,Lab-made (synthetic + NPS),0.1617410161827909,weight,country_avg
+Asia,2019,Lab-made (synthetic + NPS),0.16056512393114425,weight,country_avg
+Asia,2020,Lab-made (synthetic + NPS),0.13230350875261765,weight,country_avg
+Asia,2021,Lab-made (synthetic + NPS),0.1857088642334872,weight,country_avg
+Asia,2022,Lab-made (synthetic + NPS),0.26579491503403135,weight,country_avg
+Asia,2023,Lab-made (synthetic + NPS),0.23968235678292032,weight,country_avg
+Asia,2024,Lab-made (synthetic + NPS),0.263937084354643,weight,country_avg
+Asia,2025,Lab-made (synthetic + NPS),0.19006319669284363,weight,country_avg
+Asia,2026,Lab-made (synthetic + NPS),0.3474243475700146,weight,country_avg
+Europe,2011,Lab-made (synthetic + NPS),0.062041223760232383,weight,country_avg
+Europe,2012,Lab-made (synthetic + NPS),0.03128028491629706,weight,country_avg
+Europe,2013,Lab-made (synthetic + NPS),0.05681436717765143,weight,country_avg
+Europe,2014,Lab-made (synthetic + NPS),0.10722957561353214,weight,country_avg
+Europe,2015,Lab-made (synthetic + NPS),0.12758749047444223,weight,country_avg
+Europe,2016,Lab-made (synthetic + NPS),0.1805328496131255,weight,country_avg
+Europe,2017,Lab-made (synthetic + NPS),0.0768182584370796,weight,country_avg
+Europe,2018,Lab-made (synthetic + NPS),0.12262902341283534,weight,country_avg
+Europe,2019,Lab-made (synthetic + NPS),0.09882789774387035,weight,country_avg
+Europe,2020,Lab-made (synthetic + NPS),0.12305764756350408,weight,country_avg
+Europe,2021,Lab-made (synthetic + NPS),0.11670664250834896,weight,country_avg
+Europe,2022,Lab-made (synthetic + NPS),0.1445952630903948,weight,country_avg
+Europe,2023,Lab-made (synthetic + NPS),0.11360779862883834,weight,country_avg
+Europe,2024,Lab-made (synthetic + NPS),0.11662409567996414,weight,country_avg
+Europe,2025,Lab-made (synthetic + NPS),0.13393851330770992,weight,country_avg
+Europe,2026,Lab-made (synthetic + NPS),0.10056976023635698,weight,country_avg
+Oceania,2011,Lab-made (synthetic + NPS),0.05204747372865891,weight,country_avg
+Oceania,2012,Lab-made (synthetic + NPS),0.0907933075246442,weight,country_avg
+Oceania,2013,Lab-made (synthetic + NPS),0.20199369401533995,weight,country_avg
+Oceania,2016,Lab-made (synthetic + NPS),0.6331099936897161,weight,country_avg
+Oceania,2019,Lab-made (synthetic + NPS),0.13188544944367556,weight,country_avg
+Oceania,2020,Lab-made (synthetic + NPS),0.4781939992434348,weight,country_avg
+Oceania,2021,Lab-made (synthetic + NPS),0.6271926540692788,weight,country_avg
+Oceania,2022,Lab-made (synthetic + NPS),0.5162542747772857,weight,country_avg
+Oceania,2023,Lab-made (synthetic + NPS),0.42340484180721616,weight,country_avg
+Africa,2011,Plant-based,0.7647058823529411,records,pooled
+Africa,2012,Plant-based,0.9063032367972743,records,pooled
+Africa,2013,Plant-based,0.9576547231270358,records,pooled
+Africa,2014,Plant-based,0.6602564102564102,records,pooled
+Africa,2015,Plant-based,0.9961685823754789,records,pooled
+Africa,2016,Plant-based,0.9919632606199771,records,pooled
+Africa,2017,Plant-based,0.998389694041868,records,pooled
+Africa,2018,Plant-based,0.9827702702702703,records,pooled
+Africa,2019,Plant-based,0.6957478855289074,records,pooled
+Africa,2020,Plant-based,0.7045504749282085,records,pooled
+Africa,2021,Plant-based,0.7226265434622618,records,pooled
+Africa,2022,Plant-based,0.7177217825905873,records,pooled
+Africa,2023,Plant-based,0.6503106023591819,records,pooled
+Africa,2024,Plant-based,0.6145633033093817,records,pooled
+Africa,2025,Plant-based,0.6341361934261014,records,pooled
+Africa,2026,Plant-based,0.6789574062301335,records,pooled
+Americas,2011,Plant-based,0.9973695537806686,records,pooled
+Americas,2012,Plant-based,0.9894407402367669,records,pooled
+Americas,2013,Plant-based,0.9979957591425335,records,pooled
+Americas,2014,Plant-based,0.993511690647482,records,pooled
+Americas,2015,Plant-based,0.9898224165625558,records,pooled
+Americas,2016,Plant-based,0.9960639370229923,records,pooled
+Americas,2017,Plant-based,0.9700698334574577,records,pooled
+Americas,2018,Plant-based,0.9926110187853672,records,pooled
+Americas,2019,Plant-based,0.9877825528102725,records,pooled
+Americas,2020,Plant-based,0.7995612591861357,records,pooled
+Americas,2021,Plant-based,0.8287712191358024,records,pooled
+Americas,2022,Plant-based,0.8383634332526532,records,pooled
+Americas,2023,Plant-based,0.8525231719876416,records,pooled
+Americas,2024,Plant-based,0.8868578817444458,records,pooled
+Americas,2025,Plant-based,0.7203924953436606,records,pooled
+Americas,2026,Plant-based,0.8963963963963963,records,pooled
+Asia,2011,Plant-based,0.9005486968449932,records,pooled
+Asia,2012,Plant-based,0.9269565217391305,records,pooled
+Asia,2013,Plant-based,0.9327077747989276,records,pooled
+Asia,2014,Plant-based,0.9097888675623801,records,pooled
+Asia,2015,Plant-based,0.8899082568807339,records,pooled
+Asia,2016,Plant-based,0.7531473710195014,records,pooled
+Asia,2017,Plant-based,0.6752085816448152,records,pooled
+Asia,2018,Plant-based,0.5910808767951625,records,pooled
+Asia,2019,Plant-based,0.6495375128468653,records,pooled
+Asia,2020,Plant-based,0.6868242841867649,records,pooled
+Asia,2021,Plant-based,0.6308703317839397,records,pooled
+Asia,2022,Plant-based,0.25792258754979486,records,pooled
+Asia,2023,Plant-based,0.1493637422708128,records,pooled
+Asia,2024,Plant-based,0.298457957521094,records,pooled
+Asia,2025,Plant-based,0.5779342723004695,records,pooled
+Asia,2026,Plant-based,0.550063371356147,records,pooled
+Europe,2011,Plant-based,0.7440733690949991,records,pooled
+Europe,2012,Plant-based,0.8093530707370793,records,pooled
+Europe,2013,Plant-based,0.7758684307627431,records,pooled
+Europe,2014,Plant-based,0.8663244811426021,records,pooled
+Europe,2015,Plant-based,0.7616660699367467,records,pooled
+Europe,2016,Plant-based,0.9216352908120259,records,pooled
+Europe,2017,Plant-based,0.8800532111447786,records,pooled
+Europe,2018,Plant-based,0.549336038362228,records,pooled
+Europe,2019,Plant-based,0.5110746226942426,records,pooled
+Europe,2020,Plant-based,0.7327927485188522,records,pooled
+Europe,2021,Plant-based,0.662118611412758,records,pooled
+Europe,2022,Plant-based,0.8547063876405194,records,pooled
+Europe,2023,Plant-based,0.6976576680399896,records,pooled
+Europe,2024,Plant-based,0.798033227905624,records,pooled
+Europe,2025,Plant-based,0.8128806009051489,records,pooled
+Europe,2026,Plant-based,0.7767940750829999,records,pooled
+Oceania,2011,Plant-based,0.8130841121495327,records,pooled
+Oceania,2012,Plant-based,0.703307718008687,records,pooled
+Oceania,2013,Plant-based,0.6496536638716733,records,pooled
+Oceania,2015,Plant-based,1.0,records,pooled
+Oceania,2016,Plant-based,0.636934306569343,records,pooled
+Oceania,2019,Plant-based,0.375,records,pooled
+Oceania,2020,Plant-based,0.4,records,pooled
+Oceania,2021,Plant-based,0.629783693843594,records,pooled
+Oceania,2022,Plant-based,0.665059756954906,records,pooled
+Oceania,2023,Plant-based,0.6058641105159289,records,pooled
+Africa,2011,Synthetic,0.058823529411764705,records,pooled
+Africa,2012,Synthetic,0.08517887563884156,records,pooled
+Africa,2013,Synthetic,0.03257328990228013,records,pooled
+Africa,2014,Synthetic,0.000641025641025641,records,pooled
+Africa,2015,Synthetic,0.0038314176245210726,records,pooled
+Africa,2016,Synthetic,0.008036739380022962,records,pooled
+Africa,2017,Synthetic,0.001610305958132045,records,pooled
+Africa,2018,Synthetic,0.009121621621621622,records,pooled
+Africa,2019,Synthetic,0.006024794345962229,records,pooled
+Africa,2020,Synthetic,0.018444886238126793,records,pooled
+Africa,2021,Synthetic,0.04383023959440674,records,pooled
+Africa,2022,Synthetic,0.037796751353602664,records,pooled
+Africa,2023,Synthetic,0.0693794932644657,records,pooled
+Africa,2024,Synthetic,0.06097560975609756,records,pooled
+Africa,2025,Synthetic,0.06980722111784014,records,pooled
+Africa,2026,Synthetic,0.09663064208518754,records,pooled
+Americas,2011,Synthetic,0.0008130470132478837,records,pooled
+Americas,2012,Synthetic,0.010450401415158525,records,pooled
+Americas,2013,Synthetic,0.0019170999506201527,records,pooled
+Americas,2014,Synthetic,0.006429856115107914,records,pooled
+Americas,2015,Synthetic,0.002230947706585758,records,pooled
+Americas,2016,Synthetic,0.0030000480007680123,records,pooled
+Americas,2017,Synthetic,0.0298708027069909,records,pooled
+Americas,2018,Synthetic,0.0025138313313839747,records,pooled
+Americas,2019,Synthetic,0.007504446839173732,records,pooled
+Americas,2020,Synthetic,0.1715805637819458,records,pooled
+Americas,2021,Synthetic,0.14526427469135803,records,pooled
+Americas,2022,Synthetic,0.12833736734313908,records,pooled
+Americas,2023,Synthetic,0.1249647175496815,records,pooled
+Americas,2024,Synthetic,0.09602680145762313,records,pooled
+Americas,2025,Synthetic,0.27960750465633943,records,pooled
+Americas,2026,Synthetic,0.0990990990990991,records,pooled
+Asia,2011,Synthetic,0.08127572016460906,records,pooled
+Asia,2012,Synthetic,0.04579710144927536,records,pooled
+Asia,2013,Synthetic,0.054959785522788206,records,pooled
+Asia,2014,Synthetic,0.07123053956067392,records,pooled
+Asia,2015,Synthetic,0.09333865177502991,records,pooled
+Asia,2016,Synthetic,0.09355714638360899,records,pooled
+Asia,2017,Synthetic,0.19517282479141834,records,pooled
+Asia,2018,Synthetic,0.25346434870244394,records,pooled
+Asia,2019,Synthetic,0.2613052415210689,records,pooled
+Asia,2020,Synthetic,0.2205061185695616,records,pooled
+Asia,2021,Synthetic,0.2524443019714698,records,pooled
+Asia,2022,Synthetic,0.6996254236280397,records,pooled
+Asia,2023,Synthetic,0.8346402007348329,records,pooled
+Asia,2024,Synthetic,0.6700029095141111,records,pooled
+Asia,2025,Synthetic,0.35539906103286384,records,pooled
+Asia,2026,Synthetic,0.4385297845373891,records,pooled
+Europe,2011,Synthetic,0.09442233373709408,records,pooled
+Europe,2012,Synthetic,0.07662756748450546,records,pooled
+Europe,2013,Synthetic,0.07268989510305203,records,pooled
+Europe,2014,Synthetic,0.053782637804061596,records,pooled
+Europe,2015,Synthetic,0.08282611290130087,records,pooled
+Europe,2016,Synthetic,0.04759763978645687,records,pooled
+Europe,2017,Synthetic,0.043628211760648385,records,pooled
+Europe,2018,Synthetic,0.1251383253412025,records,pooled
+Europe,2019,Synthetic,0.13038010061486865,records,pooled
+Europe,2020,Synthetic,0.11193927976629263,records,pooled
+Europe,2021,Synthetic,0.13742249623428032,records,pooled
+Europe,2022,Synthetic,0.07620102829683668,records,pooled
+Europe,2023,Synthetic,0.12242501944740557,records,pooled
+Europe,2024,Synthetic,0.08657796197331588,records,pooled
+Europe,2025,Synthetic,0.0647584294955335,records,pooled
+Europe,2026,Synthetic,0.046905592917340595,records,pooled
+Oceania,2011,Synthetic,0.17445482866043613,records,pooled
+Oceania,2012,Synthetic,0.0835282325425994,records,pooled
+Oceania,2013,Synthetic,0.13415967918337587,records,pooled
+Oceania,2015,Synthetic,0.0,records,pooled
+Oceania,2016,Synthetic,0.2732846715328467,records,pooled
+Oceania,2019,Synthetic,0.0,records,pooled
+Oceania,2020,Synthetic,0.0,records,pooled
+Oceania,2021,Synthetic,0.31771122203734514,records,pooled
+Oceania,2022,Synthetic,0.28241438184192025,records,pooled
+Oceania,2023,Synthetic,0.3198947467343295,records,pooled
+Africa,2011,Pharmaceutical,0.17647058823529413,records,pooled
+Africa,2012,Pharmaceutical,0.008517887563884156,records,pooled
+Africa,2013,Pharmaceutical,0.009771986970684038,records,pooled
+Africa,2014,Pharmaceutical,0.33782051282051284,records,pooled
+Africa,2015,Pharmaceutical,0.0,records,pooled
+Africa,2016,Pharmaceutical,0.0,records,pooled
+Africa,2017,Pharmaceutical,0.0,records,pooled
+Africa,2018,Pharmaceutical,0.008108108108108109,records,pooled
+Africa,2019,Pharmaceutical,0.29822732012513037,records,pooled
+Africa,2020,Pharmaceutical,0.27634194831013914,records,pooled
+Africa,2021,Pharmaceutical,0.2328072614277537,records,pooled
+Africa,2022,Pharmaceutical,0.15941274468971262,records,pooled
+Africa,2023,Pharmaceutical,0.23040413205835136,records,pooled
+Africa,2024,Pharmaceutical,0.2674830482744662,records,pooled
+Africa,2025,Pharmaceutical,0.2949932966575748,records,pooled
+Africa,2026,Pharmaceutical,0.20915448188175462,records,pooled
+Americas,2011,Pharmaceutical,0.0018173992060835048,records,pooled
+Americas,2012,Pharmaceutical,0.00010885834807456797,records,pooled
+Americas,2013,Pharmaceutical,8.714090684637058e-05,records,pooled
+Americas,2014,Pharmaceutical,4.496402877697842e-05,records,pooled
+Americas,2015,Pharmaceutical,0.007906478672139925,records,pooled
+Americas,2016,Pharmaceutical,0.0008600137602201635,records,pooled
+Americas,2017,Pharmaceutical,5.396712322852918e-06,records,pooled
+Americas,2018,Pharmaceutical,0.004470202158318783,records,pooled
+Americas,2019,Pharmaceutical,0.00464808299035328,records,pooled
+Americas,2020,Pharmaceutical,0.024262367006690797,records,pooled
+Americas,2021,Pharmaceutical,0.023890817901234568,records,pooled
+Americas,2022,Pharmaceutical,0.026140383541239993,records,pooled
+Americas,2023,Pharmaceutical,0.01986497310905138,records,pooled
+Americas,2024,Pharmaceutical,0.0151757376278359,records,pooled
+Americas,2025,Pharmaceutical,0.0,records,pooled
+Americas,2026,Pharmaceutical,0.0,records,pooled
+Asia,2011,Pharmaceutical,0.01577503429355281,records,pooled
+Asia,2012,Pharmaceutical,0.010434782608695653,records,pooled
+Asia,2013,Pharmaceutical,0.004289544235924933,records,pooled
+Asia,2014,Pharmaceutical,0.01215611004478567,records,pooled
+Asia,2015,Pharmaceutical,0.010370961308336658,records,pooled
+Asia,2016,Pharmaceutical,0.030609725993581832,records,pooled
+Asia,2017,Pharmaceutical,0.03188319427890346,records,pooled
+Asia,2018,Pharmaceutical,0.026958931720836483,records,pooled
+Asia,2019,Pharmaceutical,0.029033915724563205,records,pooled
+Asia,2020,Pharmaceutical,0.056552215753831535,records,pooled
+Asia,2021,Pharmaceutical,0.044237858631190896,records,pooled
+Asia,2022,Pharmaceutical,0.018372079196147216,records,pooled
+Asia,2023,Pharmaceutical,0.004055022851509992,records,pooled
+Asia,2024,Pharmaceutical,0.007739307535641548,records,pooled
+Asia,2025,Pharmaceutical,0.04084507042253521,records,pooled
+Asia,2026,Pharmaceutical,0.0038022813688212928,records,pooled
+Europe,2011,Pharmaceutical,0.02018803714598835,records,pooled
+Europe,2012,Pharmaceutical,0.017876350970650004,records,pooled
+Europe,2013,Pharmaceutical,0.015760898213062043,records,pooled
+Europe,2014,Pharmaceutical,0.009568176746261994,records,pooled
+Europe,2015,Pharmaceutical,0.011934598400763814,records,pooled
+Europe,2016,Pharmaceutical,0.007642596234897443,records,pooled
+Europe,2017,Pharmaceutical,0.009509028650259897,records,pooled
+Europe,2018,Pharmaceutical,0.18111398008115087,records,pooled
+Europe,2019,Pharmaceutical,0.18075740637227503,records,pooled
+Europe,2020,Pharmaceutical,0.04928058536052639,records,pooled
+Europe,2021,Pharmaceutical,0.15721441832767016,records,pooled
+Europe,2022,Pharmaceutical,0.021275536245596124,records,pooled
+Europe,2023,Pharmaceutical,0.1210348900861448,records,pooled
+Europe,2024,Pharmaceutical,0.028701785000181772,records,pooled
+Europe,2025,Pharmaceutical,0.021965263132952634,records,pooled
+Europe,2026,Pharmaceutical,0.02775176640844471,records,pooled
+Oceania,2011,Pharmaceutical,0.0,records,pooled
+Oceania,2012,Pharmaceutical,0.14400267290344138,records,pooled
+Oceania,2013,Pharmaceutical,0.13634706525701787,records,pooled
+Oceania,2015,Pharmaceutical,0.0,records,pooled
+Oceania,2016,Pharmaceutical,0.03737226277372263,records,pooled
+Oceania,2019,Pharmaceutical,0.0,records,pooled
+Oceania,2020,Pharmaceutical,0.0,records,pooled
+Oceania,2021,Pharmaceutical,0.021445738583841745,records,pooled
+Oceania,2022,Pharmaceutical,0.028723511097720197,records,pooled
+Oceania,2023,Pharmaceutical,0.04369890047927826,records,pooled
+Africa,2011,New psychoactive substances,0.0,records,pooled
+Africa,2012,New psychoactive substances,0.0,records,pooled
+Africa,2013,New psychoactive substances,0.0,records,pooled
+Africa,2014,New psychoactive substances,0.001282051282051282,records,pooled
+Africa,2015,New psychoactive substances,0.0,records,pooled
+Africa,2016,New psychoactive substances,0.0,records,pooled
+Africa,2017,New psychoactive substances,0.0,records,pooled
+Africa,2018,New psychoactive substances,0.0,records,pooled
+Africa,2019,New psychoactive substances,0.0,records,pooled
+Africa,2020,New psychoactive substances,0.0006626905235255136,records,pooled
+Africa,2021,New psychoactive substances,0.0007359555155777251,records,pooled
+Africa,2022,New psychoactive substances,0.08506872136609746,records,pooled
+Africa,2023,New psychoactive substances,0.049905772318000974,records,pooled
+Africa,2024,New psychoactive substances,0.05697803866005465,records,pooled
+Africa,2025,New psychoactive substances,0.0010632887984836578,records,pooled
+Africa,2026,New psychoactive substances,0.015257469802924348,records,pooled
+Americas,2011,New psychoactive substances,0.0,records,pooled
+Americas,2012,New psychoactive substances,0.0,records,pooled
+Americas,2013,New psychoactive substances,0.0,records,pooled
+Americas,2014,New psychoactive substances,1.3489208633093526e-05,records,pooled
+Americas,2015,New psychoactive substances,4.015705871854364e-05,records,pooled
+Americas,2016,New psychoactive substances,7.600121601945632e-05,records,pooled
+Americas,2017,New psychoactive substances,5.396712322852918e-05,records,pooled
+Americas,2018,New psychoactive substances,0.00040494772493005447,records,pooled
+Americas,2019,New psychoactive substances,6.491736020046481e-05,records,pooled
+Americas,2020,New psychoactive substances,0.004595810025227597,records,pooled
+Americas,2021,New psychoactive substances,0.0020736882716049384,records,pooled
+Americas,2022,New psychoactive substances,0.00715881586296779,records,pooled
+Americas,2023,New psychoactive substances,0.0026471373536255103,records,pooled
+Americas,2024,New psychoactive substances,0.0019395791700952158,records,pooled
+Americas,2025,New psychoactive substances,0.0,records,pooled
+Americas,2026,New psychoactive substances,0.0045045045045045045,records,pooled
+Asia,2011,New psychoactive substances,0.0024005486968449933,records,pooled
+Asia,2012,New psychoactive substances,0.01681159420289855,records,pooled
+Asia,2013,New psychoactive substances,0.00804289544235925,records,pooled
+Asia,2014,New psychoactive substances,0.006824482832160375,records,pooled
+Asia,2015,New psychoactive substances,0.006382130035899481,records,pooled
+Asia,2016,New psychoactive substances,0.12268575660330783,records,pooled
+Asia,2017,New psychoactive substances,0.09773539928486293,records,pooled
+Asia,2018,New psychoactive substances,0.12849584278155707,records,pooled
+Asia,2019,New psychoactive substances,0.06012332990750257,records,pooled
+Asia,2020,New psychoactive substances,0.03611738148984198,records,pooled
+Asia,2021,New psychoactive substances,0.07244750761339959,records,pooled
+Asia,2022,New psychoactive substances,0.024079909626018192,records,pooled
+Asia,2023,New psychoactive substances,0.01194103414284434,records,pooled
+Asia,2024,New psychoactive substances,0.02379982542915333,records,pooled
+Asia,2025,New psychoactive substances,0.025821596244131457,records,pooled
+Asia,2026,New psychoactive substances,0.0076045627376425855,records,pooled
+Europe,2011,New psychoactive substances,0.14131626002191844,records,pooled
+Europe,2012,New psychoactive substances,0.0961430108077652,records,pooled
+Europe,2013,New psychoactive substances,0.1356807759211428,records,pooled
+Europe,2014,New psychoactive substances,0.07032470430707431,records,pooled
+Europe,2015,New psychoactive substances,0.1435732187611887,records,pooled
+Europe,2016,New psychoactive substances,0.023124473166619836,records,pooled
+Europe,2017,New psychoactive substances,0.06680954844431305,records,pooled
+Europe,2018,New psychoactive substances,0.14441165621541865,records,pooled
+Europe,2019,New psychoactive substances,0.17778787031861376,records,pooled
+Europe,2020,New psychoactive substances,0.10598738635432878,records,pooled
+Europe,2021,New psychoactive substances,0.04324447402529162,records,pooled
+Europe,2022,New psychoactive substances,0.04781704781704782,records,pooled
+Europe,2023,New psychoactive substances,0.058882422426459996,records,pooled
+Europe,2024,New psychoactive substances,0.08668702512087832,records,pooled
+Europe,2025,New psychoactive substances,0.10039570646636495,records,pooled
+Europe,2026,New psychoactive substances,0.14854856559121477,records,pooled
+Oceania,2011,New psychoactive substances,0.012461059190031152,records,pooled
+Oceania,2012,New psychoactive substances,0.0691613765452723,records,pooled
+Oceania,2013,New psychoactive substances,0.07983959168793292,records,pooled
+Oceania,2015,New psychoactive substances,0.0,records,pooled
+Oceania,2016,New psychoactive substances,0.052408759124087594,records,pooled
+Oceania,2019,New psychoactive substances,0.625,records,pooled
+Oceania,2020,New psychoactive substances,0.6,records,pooled
+Oceania,2021,New psychoactive substances,0.03105934553521908,records,pooled
+Oceania,2022,New psychoactive substances,0.02380235010545345,records,pooled
+Oceania,2023,New psychoactive substances,0.030542242270463302,records,pooled
+Africa,2011,Lab-made (synthetic + NPS),0.058823529411764705,records,pooled
+Africa,2012,Lab-made (synthetic + NPS),0.08517887563884156,records,pooled
+Africa,2013,Lab-made (synthetic + NPS),0.03257328990228013,records,pooled
+Africa,2014,Lab-made (synthetic + NPS),0.0019230769230769232,records,pooled
+Africa,2015,Lab-made (synthetic + NPS),0.0038314176245210726,records,pooled
+Africa,2016,Lab-made (synthetic + NPS),0.008036739380022962,records,pooled
+Africa,2017,Lab-made (synthetic + NPS),0.001610305958132045,records,pooled
+Africa,2018,Lab-made (synthetic + NPS),0.009121621621621622,records,pooled
+Africa,2019,Lab-made (synthetic + NPS),0.006024794345962229,records,pooled
+Africa,2020,Lab-made (synthetic + NPS),0.01910757676165231,records,pooled
+Africa,2021,Lab-made (synthetic + NPS),0.04456619510998446,records,pooled
+Africa,2022,Lab-made (synthetic + NPS),0.12286547271970012,records,pooled
+Africa,2023,Lab-made (synthetic + NPS),0.11928526558246667,records,pooled
+Africa,2024,Lab-made (synthetic + NPS),0.11795364841615222,records,pooled
+Africa,2025,Lab-made (synthetic + NPS),0.0708705099163238,records,pooled
+Africa,2026,Lab-made (synthetic + NPS),0.11188811188811189,records,pooled
+Americas,2011,Lab-made (synthetic + NPS),0.0008130470132478837,records,pooled
+Americas,2012,Lab-made (synthetic + NPS),0.010450401415158525,records,pooled
+Americas,2013,Lab-made (synthetic + NPS),0.0019170999506201527,records,pooled
+Americas,2014,Lab-made (synthetic + NPS),0.006443345323741008,records,pooled
+Americas,2015,Lab-made (synthetic + NPS),0.0022711047653043016,records,pooled
+Americas,2016,Lab-made (synthetic + NPS),0.0030760492167874686,records,pooled
+Americas,2017,Lab-made (synthetic + NPS),0.029924769830219432,records,pooled
+Americas,2018,Lab-made (synthetic + NPS),0.002918779056314029,records,pooled
+Americas,2019,Lab-made (synthetic + NPS),0.007569364199374197,records,pooled
+Americas,2020,Lab-made (synthetic + NPS),0.1761763738071734,records,pooled
+Americas,2021,Lab-made (synthetic + NPS),0.14733796296296298,records,pooled
+Americas,2022,Lab-made (synthetic + NPS),0.13549618320610687,records,pooled
+Americas,2023,Lab-made (synthetic + NPS),0.127611854903307,records,pooled
+Americas,2024,Lab-made (synthetic + NPS),0.09796638062771834,records,pooled
+Americas,2025,Lab-made (synthetic + NPS),0.27960750465633943,records,pooled
+Americas,2026,Lab-made (synthetic + NPS),0.1036036036036036,records,pooled
+Asia,2011,Lab-made (synthetic + NPS),0.08367626886145405,records,pooled
+Asia,2012,Lab-made (synthetic + NPS),0.06260869565217392,records,pooled
+Asia,2013,Lab-made (synthetic + NPS),0.06300268096514745,records,pooled
+Asia,2014,Lab-made (synthetic + NPS),0.0780550223928343,records,pooled
+Asia,2015,Lab-made (synthetic + NPS),0.09972078181092939,records,pooled
+Asia,2016,Lab-made (synthetic + NPS),0.2162429029869168,records,pooled
+Asia,2017,Lab-made (synthetic + NPS),0.29290822407628125,records,pooled
+Asia,2018,Lab-made (synthetic + NPS),0.381960191484001,records,pooled
+Asia,2019,Lab-made (synthetic + NPS),0.32142857142857145,records,pooled
+Asia,2020,Lab-made (synthetic + NPS),0.2566235000594036,records,pooled
+Asia,2021,Lab-made (synthetic + NPS),0.32489180958486935,records,pooled
+Asia,2022,Lab-made (synthetic + NPS),0.723705333254058,records,pooled
+Asia,2023,Lab-made (synthetic + NPS),0.8465812348776772,records,pooled
+Asia,2024,Lab-made (synthetic + NPS),0.6938027349432645,records,pooled
+Asia,2025,Lab-made (synthetic + NPS),0.3812206572769953,records,pooled
+Asia,2026,Lab-made (synthetic + NPS),0.4461343472750317,records,pooled
+Europe,2011,Lab-made (synthetic + NPS),0.23573859375901252,records,pooled
+Europe,2012,Lab-made (synthetic + NPS),0.17277057829227066,records,pooled
+Europe,2013,Lab-made (synthetic + NPS),0.20837067102419482,records,pooled
+Europe,2014,Lab-made (synthetic + NPS),0.12410734211113592,records,pooled
+Europe,2015,Lab-made (synthetic + NPS),0.22639933166248957,records,pooled
+Europe,2016,Lab-made (synthetic + NPS),0.0707221129530767,records,pooled
+Europe,2017,Lab-made (synthetic + NPS),0.11043776020496143,records,pooled
+Europe,2018,Lab-made (synthetic + NPS),0.26954998155662113,records,pooled
+Europe,2019,Lab-made (synthetic + NPS),0.3081679709334824,records,pooled
+Europe,2020,Lab-made (synthetic + NPS),0.2179266661206214,records,pooled
+Europe,2021,Lab-made (synthetic + NPS),0.18066697025957196,records,pooled
+Europe,2022,Lab-made (synthetic + NPS),0.1240180761138845,records,pooled
+Europe,2023,Lab-made (synthetic + NPS),0.18130744187386555,records,pooled
+Europe,2024,Lab-made (synthetic + NPS),0.1732649870941942,records,pooled
+Europe,2025,Lab-made (synthetic + NPS),0.16515413596189843,records,pooled
+Europe,2026,Lab-made (synthetic + NPS),0.19545415850855535,records,pooled
+Oceania,2011,Lab-made (synthetic + NPS),0.18691588785046728,records,pooled
+Oceania,2012,Lab-made (synthetic + NPS),0.1526896090878717,records,pooled
+Oceania,2013,Lab-made (synthetic + NPS),0.2139992708713088,records,pooled
+Oceania,2015,Lab-made (synthetic + NPS),0.0,records,pooled
+Oceania,2016,Lab-made (synthetic + NPS),0.3256934306569343,records,pooled
+Oceania,2019,Lab-made (synthetic + NPS),0.625,records,pooled
+Oceania,2020,Lab-made (synthetic + NPS),0.6,records,pooled
+Oceania,2021,Lab-made (synthetic + NPS),0.3487705675725642,records,pooled
+Oceania,2022,Lab-made (synthetic + NPS),0.3062167319473737,records,pooled
+Oceania,2023,Lab-made (synthetic + NPS),0.3504369890047928,records,pooled
+Africa,2011,Plant-based,0.9984097629705698,weight,pooled
+Africa,2012,Plant-based,0.998392066727738,weight,pooled
+Africa,2013,Plant-based,0.9947356390815663,weight,pooled
+Africa,2014,Plant-based,0.9999923810647399,weight,pooled
+Africa,2015,Plant-based,0.999994439576998,weight,pooled
+Africa,2016,Plant-based,0.9999992544122325,weight,pooled
+Africa,2017,Plant-based,0.9992721555311346,weight,pooled
+Africa,2018,Plant-based,0.9969416571133997,weight,pooled
+Africa,2019,Plant-based,0.8874581458412607,weight,pooled
+Africa,2020,Plant-based,0.9941113432795302,weight,pooled
+Africa,2021,Plant-based,0.9263231310159555,weight,pooled
+Africa,2022,Plant-based,0.989364725404696,weight,pooled
+Africa,2023,Plant-based,0.9794697194422131,weight,pooled
+Africa,2024,Plant-based,0.583407836001958,weight,pooled
+Africa,2025,Plant-based,0.638866933625868,weight,pooled
+Africa,2026,Plant-based,0.9972712973501325,weight,pooled
+Americas,2011,Plant-based,0.9976822508953597,weight,pooled
+Americas,2012,Plant-based,0.9849729644635145,weight,pooled
+Americas,2013,Plant-based,0.9920889311136077,weight,pooled
+Americas,2014,Plant-based,0.9802378367254534,weight,pooled
+Americas,2015,Plant-based,0.9999994920901079,weight,pooled
+Americas,2016,Plant-based,0.999997464607504,weight,pooled
+Americas,2017,Plant-based,0.9918363548425683,weight,pooled
+Americas,2018,Plant-based,0.9999908692631052,weight,pooled
+Americas,2019,Plant-based,0.9972017149527065,weight,pooled
+Americas,2020,Plant-based,0.9906586585870343,weight,pooled
+Americas,2021,Plant-based,0.9986305290255589,weight,pooled
+Americas,2022,Plant-based,0.9971085068941746,weight,pooled
+Americas,2023,Plant-based,0.9809019363743947,weight,pooled
+Americas,2024,Plant-based,0.9770852415820637,weight,pooled
+Americas,2025,Plant-based,0.9222047869932609,weight,pooled
+Americas,2026,Plant-based,0.9994514767492648,weight,pooled
+Asia,2011,Plant-based,0.9893995126593677,weight,pooled
+Asia,2012,Plant-based,0.9950293188122608,weight,pooled
+Asia,2013,Plant-based,0.9934418138170015,weight,pooled
+Asia,2014,Plant-based,0.9780312076913694,weight,pooled
+Asia,2015,Plant-based,0.9985913993719944,weight,pooled
+Asia,2016,Plant-based,0.9113737186327381,weight,pooled
+Asia,2017,Plant-based,0.985752497468461,weight,pooled
+Asia,2018,Plant-based,0.9170412113198072,weight,pooled
+Asia,2019,Plant-based,0.9870791760532944,weight,pooled
+Asia,2020,Plant-based,0.9772743729814383,weight,pooled
+Asia,2021,Plant-based,0.9583919604364611,weight,pooled
+Asia,2022,Plant-based,0.8574160728553345,weight,pooled
+Asia,2023,Plant-based,0.7899720246771545,weight,pooled
+Asia,2024,Plant-based,0.8109637994887192,weight,pooled
+Asia,2025,Plant-based,0.9276217402021818,weight,pooled
+Asia,2026,Plant-based,0.9064923445978462,weight,pooled
+Europe,2011,Plant-based,0.9910022786259086,weight,pooled
+Europe,2012,Plant-based,0.9868263604474237,weight,pooled
+Europe,2013,Plant-based,0.9916095652867436,weight,pooled
+Europe,2014,Plant-based,0.992618031122911,weight,pooled
+Europe,2015,Plant-based,0.9955527427211646,weight,pooled
+Europe,2016,Plant-based,0.9275887958465683,weight,pooled
+Europe,2017,Plant-based,0.9839152904365857,weight,pooled
+Europe,2018,Plant-based,0.9865205492804691,weight,pooled
+Europe,2019,Plant-based,0.9802449766370905,weight,pooled
+Europe,2020,Plant-based,0.9585524692417807,weight,pooled
+Europe,2021,Plant-based,0.985882133660049,weight,pooled
+Europe,2022,Plant-based,0.9538131637603542,weight,pooled
+Europe,2023,Plant-based,0.9668438299326663,weight,pooled
+Europe,2024,Plant-based,0.9155151316345757,weight,pooled
+Europe,2025,Plant-based,0.8878371246982919,weight,pooled
+Europe,2026,Plant-based,0.9180687299200392,weight,pooled
+Oceania,2011,Plant-based,0.9479525262713411,weight,pooled
+Oceania,2012,Plant-based,0.8362544974999953,weight,pooled
+Oceania,2013,Plant-based,0.7951820340676141,weight,pooled
+Oceania,2015,Plant-based,1.0,weight,pooled
+Oceania,2016,Plant-based,0.36683826121893526,weight,pooled
+Oceania,2019,Plant-based,0.8681145505563246,weight,pooled
+Oceania,2020,Plant-based,0.5218060007565652,weight,pooled
+Oceania,2021,Plant-based,0.37273330025016077,weight,pooled
+Oceania,2022,Plant-based,0.4824811489272996,weight,pooled
+Oceania,2023,Plant-based,0.5710412602732455,weight,pooled
+Africa,2011,Synthetic,0.0008882246123817513,weight,pooled
+Africa,2012,Synthetic,0.0016074620992687053,weight,pooled
+Africa,2013,Synthetic,0.005264360918433715,weight,pooled
+Africa,2014,Synthetic,0.0,weight,pooled
+Africa,2015,Synthetic,5.560423002003759e-06,weight,pooled
+Africa,2016,Synthetic,7.455877674552935e-07,weight,pooled
+Africa,2017,Synthetic,0.0007278444688654569,weight,pooled
+Africa,2018,Synthetic,0.0007132781478359503,weight,pooled
+Africa,2019,Synthetic,0.0008209514658880893,weight,pooled
+Africa,2020,Synthetic,0.0002049986614759671,weight,pooled
+Africa,2021,Synthetic,0.0023923601502943053,weight,pooled
+Africa,2022,Synthetic,0.002494344018848351,weight,pooled
+Africa,2023,Synthetic,0.0019091553554162082,weight,pooled
+Africa,2024,Synthetic,0.0013210822350319996,weight,pooled
+Africa,2025,Synthetic,0.002215489772280959,weight,pooled
+Africa,2026,Synthetic,0.002728265636478556,weight,pooled
+Americas,2011,Synthetic,0.0023176197178011084,weight,pooled
+Americas,2012,Synthetic,0.015027035536485508,weight,pooled
+Americas,2013,Synthetic,0.007904006726069624,weight,pooled
+Americas,2014,Synthetic,0.016346630289053556,weight,pooled
+Americas,2015,Synthetic,8.1206523468574e-09,weight,pooled
+Americas,2016,Synthetic,2.5264824502036394e-06,weight,pooled
+Americas,2017,Synthetic,0.008163645132226829,weight,pooled
+Americas,2018,Synthetic,8.61474191713952e-06,weight,pooled
+Americas,2019,Synthetic,0.0027982850472935113,weight,pooled
+Americas,2020,Synthetic,0.008723052981467576,weight,pooled
+Americas,2021,Synthetic,0.0008502882728736964,weight,pooled
+Americas,2022,Synthetic,0.0010670605504360818,weight,pooled
+Americas,2023,Synthetic,0.015145400295505082,weight,pooled
+Americas,2024,Synthetic,0.021154187449384944,weight,pooled
+Americas,2025,Synthetic,0.07779521300673915,weight,pooled
+Americas,2026,Synthetic,0.00043229302941823384,weight,pooled
+Asia,2011,Synthetic,0.009250622911847152,weight,pooled
+Asia,2012,Synthetic,0.003208987954777254,weight,pooled
+Asia,2013,Synthetic,0.004659207592580585,weight,pooled
+Asia,2014,Synthetic,0.014772382229202005,weight,pooled
+Asia,2015,Synthetic,0.000705328908109471,weight,pooled
+Asia,2016,Synthetic,0.0193020871027802,weight,pooled
+Asia,2017,Synthetic,0.011028414384121844,weight,pooled
+Asia,2018,Synthetic,0.07752883555652441,weight,pooled
+Asia,2019,Synthetic,0.010115718624835112,weight,pooled
+Asia,2020,Synthetic,0.0208100029923207,weight,pooled
+Asia,2021,Synthetic,0.03073857147869052,weight,pooled
+Asia,2022,Synthetic,0.11637818849773246,weight,pooled
+Asia,2023,Synthetic,0.18187406736091932,weight,pooled
+Asia,2024,Synthetic,0.17754717953524762,weight,pooled
+Asia,2025,Synthetic,0.06731020748047435,weight,pooled
+Asia,2026,Synthetic,0.0934020355136552,weight,pooled
+Europe,2011,Synthetic,0.007398062116793239,weight,pooled
+Europe,2012,Synthetic,0.0066735855516353755,weight,pooled
+Europe,2013,Synthetic,0.003546721566187641,weight,pooled
+Europe,2014,Synthetic,0.003932815811776223,weight,pooled
+Europe,2015,Synthetic,0.002036096544579613,weight,pooled
+Europe,2016,Synthetic,0.0695323489145503,weight,pooled
+Europe,2017,Synthetic,0.006528032304373502,weight,pooled
+Europe,2018,Synthetic,0.005318224082120131,weight,pooled
+Europe,2019,Synthetic,0.009080522379365269,weight,pooled
+Europe,2020,Synthetic,0.023507883947569027,weight,pooled
+Europe,2021,Synthetic,0.004352504313397284,weight,pooled
+Europe,2022,Synthetic,0.005250189465033493,weight,pooled
+Europe,2023,Synthetic,0.0074108264053897146,weight,pooled
+Europe,2024,Synthetic,0.024719363594718127,weight,pooled
+Europe,2025,Synthetic,0.05495002947785575,weight,pooled
+Europe,2026,Synthetic,0.017516493697316327,weight,pooled
+Oceania,2011,Synthetic,0.05204747372865891,weight,pooled
+Oceania,2012,Synthetic,0.036280306359576096,weight,pooled
+Oceania,2013,Synthetic,0.03409810505700554,weight,pooled
+Oceania,2015,Synthetic,0.0,weight,pooled
+Oceania,2016,Synthetic,0.5103245737326633,weight,pooled
+Oceania,2019,Synthetic,0.0,weight,pooled
+Oceania,2020,Synthetic,0.0,weight,pooled
+Oceania,2021,Synthetic,0.6056716494553692,weight,pooled
+Oceania,2022,Synthetic,0.49549554068141655,weight,pooled
+Oceania,2023,Synthetic,0.4038623549422955,weight,pooled
+Africa,2011,Pharmaceutical,0.0007020124170483855,weight,pooled
+Africa,2012,Pharmaceutical,4.7117299344916575e-07,weight,pooled
+Africa,2013,Pharmaceutical,0.0,weight,pooled
+Africa,2014,Pharmaceutical,5.693139686384629e-07,weight,pooled
+Africa,2015,Pharmaceutical,0.0,weight,pooled
+Africa,2016,Pharmaceutical,0.0,weight,pooled
+Africa,2017,Pharmaceutical,0.0,weight,pooled
+Africa,2018,Pharmaceutical,0.0023450647387643266,weight,pooled
+Africa,2019,Pharmaceutical,0.11172090269285129,weight,pooled
+Africa,2020,Pharmaceutical,0.005670069466772239,weight,pooled
+Africa,2021,Pharmaceutical,0.07124247135899364,weight,pooled
+Africa,2022,Pharmaceutical,0.0076851347167308775,weight,pooled
+Africa,2023,Pharmaceutical,0.017012316472012238,weight,pooled
+Africa,2024,Pharmaceutical,0.4019989806854958,weight,pooled
+Africa,2025,Pharmaceutical,0.35885973278994565,weight,pooled
+Africa,2026,Pharmaceutical,8.815196953759444e-08,weight,pooled
+Americas,2011,Pharmaceutical,1.293868391468955e-07,weight,pooled
+Americas,2012,Pharmaceutical,0.0,weight,pooled
+Americas,2013,Pharmaceutical,7.062160322653653e-06,weight,pooled
+Americas,2014,Pharmaceutical,0.0034155329854930537,weight,pooled
+Americas,2015,Pharmaceutical,0.0,weight,pooled
+Americas,2016,Pharmaceutical,0.0,weight,pooled
+Americas,2017,Pharmaceutical,2.5205027738707508e-11,weight,pooled
+Americas,2018,Pharmaceutical,0.0,weight,pooled
+Americas,2019,Pharmaceutical,0.0,weight,pooled
+Americas,2020,Pharmaceutical,0.00012603302064663705,weight,pooled
+Americas,2021,Pharmaceutical,0.00021349421281973845,weight,pooled
+Americas,2022,Pharmaceutical,8.758535226336165e-05,weight,pooled
+Americas,2023,Pharmaceutical,0.003598502741959262,weight,pooled
+Americas,2024,Pharmaceutical,0.001560390895071384,weight,pooled
+Americas,2025,Pharmaceutical,0.0,weight,pooled
+Americas,2026,Pharmaceutical,0.0,weight,pooled
+Asia,2011,Pharmaceutical,1.9125310694037945e-05,weight,pooled
+Asia,2012,Pharmaceutical,0.0011729645984534939,weight,pooled
+Asia,2013,Pharmaceutical,0.0,weight,pooled
+Asia,2014,Pharmaceutical,0.007079722923823701,weight,pooled
+Asia,2015,Pharmaceutical,0.0005566087063521356,weight,pooled
+Asia,2016,Pharmaceutical,0.06871817590613079,weight,pooled
+Asia,2017,Pharmaceutical,0.00170375236145817,weight,pooled
+Asia,2018,Pharmaceutical,0.0014582983920026537,weight,pooled
+Asia,2019,Pharmaceutical,0.00011303724423349307,weight,pooled
+Asia,2020,Pharmaceutical,0.00030129606540379983,weight,pooled
+Asia,2021,Pharmaceutical,0.0020760956597310524,weight,pooled
+Asia,2022,Pharmaceutical,0.014835960857568862,weight,pooled
+Asia,2023,Pharmaceutical,0.008295773505563205,weight,pooled
+Asia,2024,Pharmaceutical,0.002493463296116807,weight,pooled
+Asia,2025,Pharmaceutical,0.00030500832730851417,weight,pooled
+Asia,2026,Pharmaceutical,0.0,weight,pooled
+Europe,2011,Pharmaceutical,0.0009190128245794724,weight,pooled
+Europe,2012,Pharmaceutical,0.0007543730937133781,weight,pooled
+Europe,2013,Pharmaceutical,0.0005047957755921259,weight,pooled
+Europe,2014,Pharmaceutical,0.0002654945053279747,weight,pooled
+Europe,2015,Pharmaceutical,4.793262791820606e-05,weight,pooled
+Europe,2016,Pharmaceutical,8.508894629402756e-05,weight,pooled
+Europe,2017,Pharmaceutical,0.0001734196871467858,weight,pooled
+Europe,2018,Pharmaceutical,0.0033260123117109185,weight,pooled
+Europe,2019,Pharmaceutical,0.0029374902774940963,weight,pooled
+Europe,2020,Pharmaceutical,0.0001444668466725791,weight,pooled
+Europe,2021,Pharmaceutical,0.0003827018502881374,weight,pooled
+Europe,2022,Pharmaceutical,0.00030884540540508654,weight,pooled
+Europe,2023,Pharmaceutical,0.0013364344776181922,weight,pooled
+Europe,2024,Pharmaceutical,0.0014795260135268115,weight,pooled
+Europe,2025,Pharmaceutical,0.0010724025375182964,weight,pooled
+Europe,2026,Pharmaceutical,0.0015739058041323647,weight,pooled
+Oceania,2011,Pharmaceutical,0.0,weight,pooled
+Oceania,2012,Pharmaceutical,0.0729521949753605,weight,pooled
+Oceania,2013,Pharmaceutical,0.0028242719170459736,weight,pooled
+Oceania,2015,Pharmaceutical,0.0,weight,pooled
+Oceania,2016,Pharmaceutical,5.1745091348581145e-05,weight,pooled
+Oceania,2019,Pharmaceutical,0.0,weight,pooled
+Oceania,2020,Pharmaceutical,0.0,weight,pooled
+Oceania,2021,Pharmaceutical,7.404568056023645e-05,weight,pooled
+Oceania,2022,Pharmaceutical,0.0012645762954146976,weight,pooled
+Oceania,2023,Pharmaceutical,0.005553897919538226,weight,pooled
+Africa,2011,New psychoactive substances,0.0,weight,pooled
+Africa,2012,New psychoactive substances,0.0,weight,pooled
+Africa,2013,New psychoactive substances,0.0,weight,pooled
+Africa,2014,New psychoactive substances,7.0496212914758755e-06,weight,pooled
+Africa,2015,New psychoactive substances,0.0,weight,pooled
+Africa,2016,New psychoactive substances,0.0,weight,pooled
+Africa,2017,New psychoactive substances,0.0,weight,pooled
+Africa,2018,New psychoactive substances,0.0,weight,pooled
+Africa,2019,New psychoactive substances,0.0,weight,pooled
+Africa,2020,New psychoactive substances,1.3588592221572691e-05,weight,pooled
+Africa,2021,New psychoactive substances,4.203747475659351e-05,weight,pooled
+Africa,2022,New psychoactive substances,0.00045579585972496087,weight,pooled
+Africa,2023,New psychoactive substances,0.0016088087303585312,weight,pooled
+Africa,2024,New psychoactive substances,0.013272101077514194,weight,pooled
+Africa,2025,New psychoactive substances,5.784381190537762e-05,weight,pooled
+Africa,2026,New psychoactive substances,3.4886141944502997e-07,weight,pooled
+Americas,2011,New psychoactive substances,0.0,weight,pooled
+Americas,2012,New psychoactive substances,0.0,weight,pooled
+Americas,2013,New psychoactive substances,0.0,weight,pooled
+Americas,2014,New psychoactive substances,0.0,weight,pooled
+Americas,2015,New psychoactive substances,4.99789239892951e-07,weight,pooled
+Americas,2016,New psychoactive substances,8.910045737095889e-09,weight,pooled
+Americas,2017,New psychoactive substances,0.0,weight,pooled
+Americas,2018,New psychoactive substances,5.159949776742211e-07,weight,pooled
+Americas,2019,New psychoactive substances,0.0,weight,pooled
+Americas,2020,New psychoactive substances,0.0004922554108514408,weight,pooled
+Americas,2021,New psychoactive substances,0.00030568848874758345,weight,pooled
+Americas,2022,New psychoactive substances,0.0017368472031259225,weight,pooled
+Americas,2023,New psychoactive substances,0.00035416058814097495,weight,pooled
+Americas,2024,New psychoactive substances,0.0002001800734799379,weight,pooled
+Americas,2025,New psychoactive substances,0.0,weight,pooled
+Americas,2026,New psychoactive substances,0.00011623022131693532,weight,pooled
+Asia,2011,New psychoactive substances,0.00133073911809116,weight,pooled
+Asia,2012,New psychoactive substances,0.0005887286345085998,weight,pooled
+Asia,2013,New psychoactive substances,0.0018989785904179731,weight,pooled
+Asia,2014,New psychoactive substances,0.00011668715560483154,weight,pooled
+Asia,2015,New psychoactive substances,0.00014666301354390526,weight,pooled
+Asia,2016,New psychoactive substances,0.0006060183583509829,weight,pooled
+Asia,2017,New psychoactive substances,0.0015153357859589824,weight,pooled
+Asia,2018,New psychoactive substances,0.003971654731665746,weight,pooled
+Asia,2019,New psychoactive substances,0.002692068077636989,weight,pooled
+Asia,2020,New psychoactive substances,0.0016143279608373372,weight,pooled
+Asia,2021,New psychoactive substances,0.008793372425117333,weight,pooled
+Asia,2022,New psychoactive substances,0.011369777789364094,weight,pooled
+Asia,2023,New psychoactive substances,0.01985813445636297,weight,pooled
+Asia,2024,New psychoactive substances,0.008995557679916354,weight,pooled
+Asia,2025,New psychoactive substances,0.004763043990035385,weight,pooled
+Asia,2026,New psychoactive substances,0.00010561988849863097,weight,pooled
+Europe,2011,New psychoactive substances,0.0006806464327185408,weight,pooled
+Europe,2012,New psychoactive substances,0.005745680907227778,weight,pooled
+Europe,2013,New psychoactive substances,0.004338917371476569,weight,pooled
+Europe,2014,New psychoactive substances,0.0031836585599848374,weight,pooled
+Europe,2015,New psychoactive substances,0.0023632281063377565,weight,pooled
+Europe,2016,New psychoactive substances,0.0027937662925873992,weight,pooled
+Europe,2017,New psychoactive substances,0.00938325757189408,weight,pooled
+Europe,2018,New psychoactive substances,0.0048352143256998785,weight,pooled
+Europe,2019,New psychoactive substances,0.007737010706050144,weight,pooled
+Europe,2020,New psychoactive substances,0.017795179963977836,weight,pooled
+Europe,2021,New psychoactive substances,0.009382660176265566,weight,pooled
+Europe,2022,New psychoactive substances,0.04062780136920728,weight,pooled
+Europe,2023,New psychoactive substances,0.02440890918432582,weight,pooled
+Europe,2024,New psychoactive substances,0.05828597875717937,weight,pooled
+Europe,2025,New psychoactive substances,0.05614044328633425,weight,pooled
+Europe,2026,New psychoactive substances,0.06284087057851205,weight,pooled
+Oceania,2011,New psychoactive substances,0.0,weight,pooled
+Oceania,2012,New psychoactive substances,0.05451300116506812,weight,pooled
+Oceania,2013,New psychoactive substances,0.16789558895833442,weight,pooled
+Oceania,2015,New psychoactive substances,0.0,weight,pooled
+Oceania,2016,New psychoactive substances,0.12278541995705287,weight,pooled
+Oceania,2019,New psychoactive substances,0.13188544944367556,weight,pooled
+Oceania,2020,New psychoactive substances,0.4781939992434348,weight,pooled
+Oceania,2021,New psychoactive substances,0.02152100461390959,weight,pooled
+Oceania,2022,New psychoactive substances,0.020758734095869178,weight,pooled
+Oceania,2023,New psychoactive substances,0.01954248686492065,weight,pooled
+Africa,2011,Lab-made (synthetic + NPS),0.0008882246123817513,weight,pooled
+Africa,2012,Lab-made (synthetic + NPS),0.0016074620992687053,weight,pooled
+Africa,2013,Lab-made (synthetic + NPS),0.005264360918433715,weight,pooled
+Africa,2014,Lab-made (synthetic + NPS),7.0496212914758755e-06,weight,pooled
+Africa,2015,Lab-made (synthetic + NPS),5.560423002003759e-06,weight,pooled
+Africa,2016,Lab-made (synthetic + NPS),7.455877674552935e-07,weight,pooled
+Africa,2017,Lab-made (synthetic + NPS),0.0007278444688654569,weight,pooled
+Africa,2018,Lab-made (synthetic + NPS),0.0007132781478359503,weight,pooled
+Africa,2019,Lab-made (synthetic + NPS),0.0008209514658880893,weight,pooled
+Africa,2020,Lab-made (synthetic + NPS),0.00021858725369753977,weight,pooled
+Africa,2021,Lab-made (synthetic + NPS),0.0024343976250508987,weight,pooled
+Africa,2022,Lab-made (synthetic + NPS),0.0029501398785733123,weight,pooled
+Africa,2023,Lab-made (synthetic + NPS),0.0035179640857747395,weight,pooled
+Africa,2024,Lab-made (synthetic + NPS),0.014593183312546195,weight,pooled
+Africa,2025,Lab-made (synthetic + NPS),0.0022733335841863367,weight,pooled
+Africa,2026,Lab-made (synthetic + NPS),0.0027286144978980013,weight,pooled
+Americas,2011,Lab-made (synthetic + NPS),0.0023176197178011084,weight,pooled
+Americas,2012,Lab-made (synthetic + NPS),0.015027035536485508,weight,pooled
+Americas,2013,Lab-made (synthetic + NPS),0.007904006726069624,weight,pooled
+Americas,2014,Lab-made (synthetic + NPS),0.016346630289053556,weight,pooled
+Americas,2015,Lab-made (synthetic + NPS),5.079098922398084e-07,weight,pooled
+Americas,2016,Lab-made (synthetic + NPS),2.5353924959407354e-06,weight,pooled
+Americas,2017,Lab-made (synthetic + NPS),0.008163645132226829,weight,pooled
+Americas,2018,Lab-made (synthetic + NPS),9.130736894813741e-06,weight,pooled
+Americas,2019,Lab-made (synthetic + NPS),0.0027982850472935113,weight,pooled
+Americas,2020,Lab-made (synthetic + NPS),0.009215308392319016,weight,pooled
+Americas,2021,Lab-made (synthetic + NPS),0.00115597676162128,weight,pooled
+Americas,2022,Lab-made (synthetic + NPS),0.002803907753562004,weight,pooled
+Americas,2023,Lab-made (synthetic + NPS),0.015499560883646056,weight,pooled
+Americas,2024,Lab-made (synthetic + NPS),0.021354367522864882,weight,pooled
+Americas,2025,Lab-made (synthetic + NPS),0.07779521300673915,weight,pooled
+Americas,2026,Lab-made (synthetic + NPS),0.0005485232507351692,weight,pooled
+Asia,2011,Lab-made (synthetic + NPS),0.010581362029938311,weight,pooled
+Asia,2012,Lab-made (synthetic + NPS),0.003797716589285854,weight,pooled
+Asia,2013,Lab-made (synthetic + NPS),0.006558186182998558,weight,pooled
+Asia,2014,Lab-made (synthetic + NPS),0.014889069384806837,weight,pooled
+Asia,2015,Lab-made (synthetic + NPS),0.0008519919216533763,weight,pooled
+Asia,2016,Lab-made (synthetic + NPS),0.019908105461131184,weight,pooled
+Asia,2017,Lab-made (synthetic + NPS),0.012543750170080827,weight,pooled
+Asia,2018,Lab-made (synthetic + NPS),0.08150049028819016,weight,pooled
+Asia,2019,Lab-made (synthetic + NPS),0.012807786702472101,weight,pooled
+Asia,2020,Lab-made (synthetic + NPS),0.022424330953158038,weight,pooled
+Asia,2021,Lab-made (synthetic + NPS),0.039531943903807855,weight,pooled
+Asia,2022,Lab-made (synthetic + NPS),0.12774796628709656,weight,pooled
+Asia,2023,Lab-made (synthetic + NPS),0.2017322018172823,weight,pooled
+Asia,2024,Lab-made (synthetic + NPS),0.18654273721516398,weight,pooled
+Asia,2025,Lab-made (synthetic + NPS),0.07207325147050973,weight,pooled
+Asia,2026,Lab-made (synthetic + NPS),0.09350765540215383,weight,pooled
+Europe,2011,Lab-made (synthetic + NPS),0.00807870854951178,weight,pooled
+Europe,2012,Lab-made (synthetic + NPS),0.012419266458863154,weight,pooled
+Europe,2013,Lab-made (synthetic + NPS),0.00788563893766421,weight,pooled
+Europe,2014,Lab-made (synthetic + NPS),0.0071164743717610605,weight,pooled
+Europe,2015,Lab-made (synthetic + NPS),0.00439932465091737,weight,pooled
+Europe,2016,Lab-made (synthetic + NPS),0.0723261152071377,weight,pooled
+Europe,2017,Lab-made (synthetic + NPS),0.01591128987626758,weight,pooled
+Europe,2018,Lab-made (synthetic + NPS),0.01015343840782001,weight,pooled
+Europe,2019,Lab-made (synthetic + NPS),0.016817533085415413,weight,pooled
+Europe,2020,Lab-made (synthetic + NPS),0.04130306391154687,weight,pooled
+Europe,2021,Lab-made (synthetic + NPS),0.01373516448966285,weight,pooled
+Europe,2022,Lab-made (synthetic + NPS),0.045877990834240774,weight,pooled
+Europe,2023,Lab-made (synthetic + NPS),0.031819735589715535,weight,pooled
+Europe,2024,Lab-made (synthetic + NPS),0.0830053423518975,weight,pooled
+Europe,2025,Lab-made (synthetic + NPS),0.11109047276419001,weight,pooled
+Europe,2026,Lab-made (synthetic + NPS),0.08035736427582837,weight,pooled
+Oceania,2011,Lab-made (synthetic + NPS),0.05204747372865891,weight,pooled
+Oceania,2012,Lab-made (synthetic + NPS),0.0907933075246442,weight,pooled
+Oceania,2013,Lab-made (synthetic + NPS),0.20199369401533995,weight,pooled
+Oceania,2015,Lab-made (synthetic + NPS),0.0,weight,pooled
+Oceania,2016,Lab-made (synthetic + NPS),0.6331099936897161,weight,pooled
+Oceania,2019,Lab-made (synthetic + NPS),0.13188544944367556,weight,pooled
+Oceania,2020,Lab-made (synthetic + NPS),0.4781939992434348,weight,pooled
+Oceania,2021,Lab-made (synthetic + NPS),0.6271926540692788,weight,pooled
+Oceania,2022,Lab-made (synthetic + NPS),0.5162542747772857,weight,pooled
+Oceania,2023,Lab-made (synthetic + NPS),0.42340484180721616,weight,pooled

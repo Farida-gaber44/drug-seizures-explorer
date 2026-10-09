@@ -1,0 +1,42 @@
+signal_id,signal_type,confidence,country,drug,coverage,pages_drug,pages_drug_and_place,pages_close,top_docs,example,close_example
+S01,NEW,high,Jordan,Cannabis herb (marijuana),strong,411,10,1,"incb_ar_2022, incb_ar_2023, incb_ar_2024",incb_ar_2025 p.100,incb_ar_2022 p.108
+S02,NEW,high,Syrian Arab Republic,Cannabis herb (marijuana),strong,411,13,4,"incb_ar_2024, incb_ar_2021, incb_ar_2022",incb_ar_2025 p.100,incb_ar_2022 p.108
+S03,NEW,high,State of Palestine,Cannabis herb (marijuana),weak,411,0,0,"incb_ar_2022, incb_ar_2023, incb_ar_2021",wdr2026_highlights p.11,
+S04,NEW,high,Libya,MDMA,strong,178,2,1,"incb_ar_2023, incb_ar_2021",incb_ar_2023 p.116,incb_ar_2021 p.9
+S05,NEW,medium,Kuwait,Pregabalin,strong,26,5,0,"incb_ar_2025, incb_ar_2024, incb_ar_2023",incb_ar_2025 p.104,
+S06,NEW,medium,Egypt,Methamphetamine,strong,273,13,5,"incb_ar_2024, incb_ar_2023, unodc_nauss_captagon_2025",unodc_nauss_captagon_2025 p.6,wdr2024_key_findings p.31
+S07,NEW,medium,Libya,Non-specified hallucinogens,weak,32,0,0,"wdr2025_key_findings, incb_ar_2025, wdr2026_highlights",wdr2026_highlights p.48,
+S08,NEW,medium,Egypt,Other synthetic cannabinoids (spice),strong,74,3,0,"incb_ar_2024, incb_ar_2023",incb_ar_2024 p.12,
+S09,NEW,medium,Libya,Diazepam,strong,36,2,0,incb_ar_2024,incb_ar_2024 p.73,
+S10,NEW,medium,Lebanon,Cannabis herb (marijuana),strong,411,14,6,"incb_ar_2021, incb_ar_2024, incb_ar_2023",incb_ar_2024 p.9,incb_ar_2024 p.131
+S11,NEW,low,Algeria,Pregabalin,strong,26,3,1,"incb_ar_2024, incb_ar_2025",incb_ar_2025 p.63,incb_ar_2024 p.70
+S12,NEW,low,Algeria,Cocaine base,strong,308,9,6,"incb_ar_2021, incb_ar_2024, incb_ar_2023",incb_ar_2025 p.62,incb_ar_2025 p.62
+S13,NEW,low,Jordan,Methamphetamine,strong,273,25,10,"incb_ar_2024, emcdda_captagon_2018, unodc_synthetic_2020",unodc_nauss_captagon_2025 p.3,unodc_nauss_captagon_2025 p.3
+S14,NEW,low,Algeria,Tramadol,strong,77,10,6,"incb_ar_2024, incb_ar_2022, incb_ar_2021",wdr2026_highlights p.51,wdr2026_highlights p.51
+S15,NEW,low,Algeria,Non-specified ecstasy-type substances,strong,178,2,0,"incb_ar_2025, incb_ar_2022",incb_ar_2025 p.63,
+S16,NEW,low,Algeria,Benzodiazepines,strong,73,4,0,"incb_ar_2022, wdr2024_key_findings, incb_ar_2024",wdr2024_key_findings p.41,
+S17,NEW,low,Jordan,Other synthetic cannabinoids (spice),strong,74,2,0,"unodc_synthetic_2020, incb_ar_2023",unodc_synthetic_2020 p.31,
+S18,NEW,low,Syrian Arab Republic,Fenethylline,strong,79,50,48,"emcdda_captagon_2018, unodc_nauss_captagon_2025, incb_ar_2024",unodc_nauss_captagon_2025 p.1,unodc_nauss_captagon_2025 p.1
+S19,NEW,low,Syrian Arab Republic,Pregabalin,strong,26,6,0,"unodc_nauss_captagon_2025, incb_ar_2022, incb_ar_2025",unodc_nauss_captagon_2025 p.4,
+S20,NEW,low,United Arab Emirates,Methamphetamine,strong,273,18,4,"incb_ar_2022, unodc_synthetic_2020, incb_ar_2021",unodc_nauss_captagon_2025 p.6,wdr2026_highlights p.33
+S21,NEW,low,United Arab Emirates,Pregabalin,strong,26,3,0,"wdr2026_highlights, incb_ar_2022, incb_ar_2021",wdr2026_highlights p.33,
+S22,NEW,low,Jordan,JWH - 018,strong,74,2,0,"unodc_synthetic_2020, incb_ar_2023",unodc_synthetic_2020 p.31,
+S23,NEW,low,Jordan,Heroin,strong,213,9,1,"incb_ar_2022, incb_ar_2025, emcdda_captagon_2018",incb_ar_2025 p.99,incb_ar_2024 p.62
+S24,NEW,low,Syrian Arab Republic,Tramadol,strong,77,10,2,"incb_ar_2021, unodc_nauss_captagon_2025, incb_ar_2024",unodc_nauss_captagon_2025 p.4,wdr2025_key_findings p.5
+S25,NEW,low,Algeria,Subutex (buprenorphine),strong,40,3,1,"wdr2026_highlights, incb_ar_2023, incb_ar_2022",wdr2026_highlights p.51,wdr2026_highlights p.51
+S26,NEW,low,Jordan,Non-specified synthetic cannabinoids (spice),strong,74,2,0,"unodc_synthetic_2020, incb_ar_2023",unodc_synthetic_2020 p.31,
+S27,NEW,low,Syrian Arab Republic,"Alprazolam (Xanax, Pranax, Ksalol)",weak,24,0,0,"incb_ar_2024, incb_ar_2025, incb_ar_2023",wdr2026_highlights p.20,
+S28,NEW,low,Morocco,Clonazepam (Rivotril),strong,13,1,1,wdr2024_key_findings,wdr2024_key_findings p.41,wdr2024_key_findings p.41
+S29,NEW,low,United Arab Emirates,"Alprazolam (Xanax, Pranax, Ksalol)",weak,24,0,0,"incb_ar_2024, incb_ar_2025, incb_ar_2023",wdr2026_highlights p.20,
+S30,NEW,low,Syrian Arab Republic,"Cocaine hydrochloride (HCl, powder cocaine)",strong,308,10,4,"emcdda_captagon_2018, incb_ar_2024, incb_ar_2022",wdr2025_key_findings p.5,incb_ar_2021 p.9
+S31,RISING,medium,MENA,MDMA,strong,178,37,12,"unodc_synthetic_2020, incb_ar_2022, wdr2025_key_findings",unodc_nauss_captagon_2025 p.4,unodc_nauss_captagon_2025 p.4
+S32,RISING,low,MENA,Pregabalin,strong,26,19,10,"incb_ar_2025, wdr2026_highlights, wdr2025_key_findings",unodc_nauss_captagon_2025 p.4,unodc_nauss_captagon_2025 p.4
+S33,RISING,low,MENA,Cocaine base,strong,308,56,26,"wdr2026_highlights, incb_ar_2023, incb_ar_2021",wdr2026_highlights p.5,wdr2026_highlights p.5
+S34,RISING,low,MENA,Tramadol,strong,77,41,30,"incb_ar_2024, incb_ar_2021, unodc_synthetic_2020",unodc_nauss_captagon_2025 p.4,unodc_nauss_captagon_2025 p.4
+S35,RISING,low,MENA,Benzodiazepines,strong,73,16,3,"incb_ar_2022, wdr2026_highlights, unodc_synthetic_2020",wdr2026_highlights p.65,wdr2026_highlights p.65
+S36,RISING,low,MENA,Non-specified ecstasy-type substances,strong,178,37,12,"unodc_synthetic_2020, incb_ar_2022, wdr2025_key_findings",unodc_nauss_captagon_2025 p.4,unodc_nauss_captagon_2025 p.4
+S37,SPREADING,high,MENA,Non-specified cocaine-type,strong,308,61,28,"wdr2026_highlights, incb_ar_2023, incb_ar_2021",wdr2026_highlights p.5,wdr2026_highlights p.5
+S38,SPREADING,medium,MENA,Cannabis herb (marijuana),strong,411,67,31,"incb_ar_2023, incb_ar_2021, incb_ar_2022",wdr2026_highlights p.11,wdr2026_highlights p.11
+S39,SPREADING,medium,MENA,Other synthetic cannabinoids (spice),strong,74,15,5,"incb_ar_2023, incb_ar_2024, incb_ar_2021",unodc_nauss_captagon_2025 p.4,unodc_nauss_captagon_2025 p.4
+S40,SPREADING,medium,MENA,Diazepam,strong,36,8,3,"incb_ar_2024, wdr2026_highlights, unodc_synthetic_2020",wdr2026_highlights p.65,incb_ar_2024 p.127
+S41,SPREADING,medium,MENA,"Alprazolam (Xanax, Pranax, Ksalol)",strong,24,2,1,"unodc_synthetic_2020, incb_ar_2024",unodc_synthetic_2020 p.11,incb_ar_2024 p.127
